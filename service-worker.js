@@ -1,7 +1,7 @@
 // Simple offline cache for the app shell + data, plus on-demand caching for
 // vocabulary photos (added gradually by Luc) so they work offline too once
 // they've been viewed once on a device.
-const CACHE_VERSION = 'revfr-v1';
+const CACHE_VERSION = 'revfr-v2';
 const PRECACHE_URLS = [
   './',
   'index.html',
