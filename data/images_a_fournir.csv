@@ -1,0 +1,900 @@
+﻿Categorie,Francais,Image_a_chercher,Nom_fichier_attendu
+La famille,le père,father,famille_le_pere.jpg
+La famille,la mère,mother,famille_la_mere.jpg
+La famille,le frère,brother,famille_le_frere.jpg
+La famille,la sœur,sister,famille_la_soeur.jpg
+La famille,le grand-père,grandfather,famille_le_grandpere.jpg
+La famille,la grand-mère,grandmother,famille_la_grandmere.jpg
+La famille,l'oncle,uncle,famille_l_oncle.jpg
+La famille,la tante,aunt,famille_la_tante.jpg
+La famille,le cousin,cousin (male),famille_le_cousin.jpg
+La famille,la cousine,cousin (female),famille_la_cousine.jpg
+La famille,le fils,son,famille_le_fils.jpg
+La famille,la fille,daughter,famille_la_fille.jpg
+La famille,le mari,husband,famille_le_mari.jpg
+La famille,la femme,wife,famille_la_femme.jpg
+La famille,les parents,parents,famille_les_parents.jpg
+La famille,l'enfant,child,famille_l_enfant.jpg
+La famille,le bébé,baby,famille_le_bebe.jpg
+La famille,le neveu,nephew,famille_le_neveu.jpg
+La famille,la nièce,niece,famille_la_niece.jpg
+La famille,la famille,family,famille_la_famille.jpg
+La famille,le beau-père,stepfather / father-in-law,famille_le_beaupere.jpg
+La famille,la belle-mère,stepmother / mother-in-law,famille_la_bellemere.jpg
+La famille,les jumeaux,twins,famille_les_jumeaux.jpg
+Le corps,la tête,head,corps_la_tete.jpg
+Le corps,les cheveux,hair,corps_les_cheveux.jpg
+Le corps,le visage,face,corps_le_visage.jpg
+Le corps,l'œil / les yeux,eye / eyes,corps_l_oeil_les_yeux.jpg
+Le corps,le nez,nose,corps_le_nez.jpg
+Le corps,la bouche,mouth,corps_la_bouche.jpg
+Le corps,la dent,tooth,corps_la_dent.jpg
+Le corps,l'oreille,ear,corps_l_oreille.jpg
+Le corps,le cou,neck,corps_le_cou.jpg
+Le corps,l'épaule,shoulder,corps_l_epaule.jpg
+Le corps,le bras,arm,corps_le_bras.jpg
+Le corps,la main,hand,corps_la_main.jpg
+Le corps,le doigt,finger,corps_le_doigt.jpg
+Le corps,la jambe,leg,corps_la_jambe.jpg
+Le corps,le pied,foot,corps_le_pied.jpg
+Le corps,le genou,knee,corps_le_genou.jpg
+Le corps,le dos,back,corps_le_dos.jpg
+Le corps,le ventre,stomach / belly,corps_le_ventre.jpg
+Le corps,le cœur,heart,corps_le_coeur.jpg
+Le corps,la peau,skin,corps_la_peau.jpg
+Le corps,le sourcil,eyebrow,corps_le_sourcil.jpg
+Le corps,le menton,chin,corps_le_menton.jpg
+Le corps,la poitrine,chest,corps_la_poitrine.jpg
+Le corps,l'ongle,nail,corps_l_ongle.jpg
+Le corps,le coude,elbow,corps_le_coude.jpg
+Les vêtements,le pantalon,trousers / pants,vetements_le_pantalon.jpg
+Les vêtements,le jean,jeans,vetements_le_jean.jpg
+Les vêtements,la robe,dress,vetements_la_robe.jpg
+Les vêtements,la jupe,skirt,vetements_la_jupe.jpg
+Les vêtements,la chemise,shirt,vetements_la_chemise.jpg
+Les vêtements,le tee-shirt,t-shirt,vetements_le_teeshirt.jpg
+Les vêtements,le pull,sweater,vetements_le_pull.jpg
+Les vêtements,la veste,jacket,vetements_la_veste.jpg
+Les vêtements,le manteau,coat,vetements_le_manteau.jpg
+Les vêtements,les chaussures,shoes,vetements_les_chaussures.jpg
+Les vêtements,les baskets,sneakers,vetements_les_baskets.jpg
+Les vêtements,les chaussettes,socks,vetements_les_chaussettes.jpg
+Les vêtements,les sous-vêtements,underwear,vetements_les_sousvetements.jpg
+Les vêtements,la casquette,cap,vetements_la_casquette.jpg
+Les vêtements,le chapeau,hat,vetements_le_chapeau.jpg
+Les vêtements,l'écharpe,scarf,vetements_l_echarpe.jpg
+Les vêtements,les gants,gloves,vetements_les_gants.jpg
+Les vêtements,la ceinture,belt,vetements_la_ceinture.jpg
+Les vêtements,le short,shorts,vetements_le_short.jpg
+Les vêtements,le maillot de bain,swimsuit,vetements_le_maillot_de_bain.jpg
+Les vêtements,le pyjama,pajamas,vetements_le_pyjama.jpg
+Les vêtements,les lunettes,glasses,vetements_les_lunettes.jpg
+Les vêtements,le sac à dos,backpack,vetements_le_sac_a_dos.jpg
+Les vêtements,le bijou,jewel / jewelry,vetements_le_bijou.jpg
+Les vêtements,la montre,watch,vetements_la_montre.jpg
+Les vêtements,la capuche,hood,vetements_la_capuche.jpg
+La nourriture et les boissons,le pain,bread,nourriture_le_pain.jpg
+La nourriture et les boissons,le beurre,butter,nourriture_le_beurre.jpg
+La nourriture et les boissons,la confiture,jam,nourriture_la_confiture.jpg
+La nourriture et les boissons,le fromage,cheese,nourriture_le_fromage.jpg
+La nourriture et les boissons,le lait,milk,nourriture_le_lait.jpg
+La nourriture et les boissons,l'œuf,egg,nourriture_l_oeuf.jpg
+La nourriture et les boissons,le jambon,ham,nourriture_le_jambon.jpg
+La nourriture et les boissons,le poulet,chicken,nourriture_le_poulet.jpg
+La nourriture et les boissons,la viande,meat,nourriture_la_viande.jpg
+La nourriture et les boissons,le poisson,fish,nourriture_le_poisson.jpg
+La nourriture et les boissons,le riz,rice,nourriture_le_riz.jpg
+La nourriture et les boissons,les pâtes,pasta,nourriture_les_pates.jpg
+La nourriture et les boissons,la pomme de terre,potato,nourriture_la_pomme_de_terre.jpg
+La nourriture et les boissons,les frites,fries,nourriture_les_frites.jpg
+La nourriture et les boissons,la salade,salad,nourriture_la_salade.jpg
+La nourriture et les boissons,la tomate,tomato,nourriture_la_tomate.jpg
+La nourriture et les boissons,la carotte,carrot,nourriture_la_carotte.jpg
+La nourriture et les boissons,l'oignon,onion,nourriture_l_oignon.jpg
+La nourriture et les boissons,l'ail,garlic,nourriture_l_ail.jpg
+La nourriture et les boissons,le haricot vert,green bean,nourriture_le_haricot_vert.jpg
+La nourriture et les boissons,le petit pois,pea,nourriture_le_petit_pois.jpg
+La nourriture et les boissons,la pomme,apple,nourriture_la_pomme.jpg
+La nourriture et les boissons,la banane,banana,nourriture_la_banane.jpg
+La nourriture et les boissons,l'orange,orange,nourriture_l_orange.jpg
+La nourriture et les boissons,la fraise,strawberry,nourriture_la_fraise.jpg
+La nourriture et les boissons,le raisin,grape,nourriture_le_raisin.jpg
+La nourriture et les boissons,la poire,pear,nourriture_la_poire.jpg
+La nourriture et les boissons,la pêche,peach,nourriture_la_peche.jpg
+La nourriture et les boissons,le citron,lemon,nourriture_le_citron.jpg
+La nourriture et les boissons,l'ananas,pineapple,nourriture_l_ananas.jpg
+La nourriture et les boissons,le melon,melon,nourriture_le_melon.jpg
+La nourriture et les boissons,la pastèque,watermelon,nourriture_la_pasteque.jpg
+La nourriture et les boissons,la cerise,cherry,nourriture_la_cerise.jpg
+La nourriture et les boissons,le chocolat,chocolate,nourriture_le_chocolat.jpg
+La nourriture et les boissons,le gâteau,cake,nourriture_le_gateau.jpg
+La nourriture et les boissons,le biscuit,biscuit / cookie,nourriture_le_biscuit.jpg
+La nourriture et les boissons,le bonbon,candy,nourriture_le_bonbon.jpg
+La nourriture et les boissons,la glace,ice cream,nourriture_la_glace.jpg
+La nourriture et les boissons,la crêpe,crepe / pancake,nourriture_la_crepe.jpg
+La nourriture et les boissons,le croissant,croissant,nourriture_le_croissant.jpg
+La nourriture et les boissons,la baguette,baguette,nourriture_la_baguette.jpg
+La nourriture et les boissons,le sucre,sugar,nourriture_le_sucre.jpg
+La nourriture et les boissons,le sel,salt,nourriture_le_sel.jpg
+La nourriture et les boissons,le poivre,pepper,nourriture_le_poivre.jpg
+La nourriture et les boissons,l'huile,oil,nourriture_l_huile.jpg
+La nourriture et les boissons,le vinaigre,vinegar,nourriture_le_vinaigre.jpg
+La nourriture et les boissons,la sauce,sauce,nourriture_la_sauce.jpg
+La nourriture et les boissons,la soupe,soup,nourriture_la_soupe.jpg
+La nourriture et les boissons,le sandwich,sandwich,nourriture_le_sandwich.jpg
+La nourriture et les boissons,la pizza,pizza,nourriture_la_pizza.jpg
+La nourriture et les boissons,le hamburger,hamburger,nourriture_le_hamburger.jpg
+La nourriture et les boissons,le yaourt,yogurt,nourriture_le_yaourt.jpg
+La nourriture et les boissons,les céréales,cereal,nourriture_les_cereales.jpg
+La nourriture et les boissons,le miel,honey,nourriture_le_miel.jpg
+La nourriture et les boissons,la farine,flour,nourriture_la_farine.jpg
+La nourriture et les boissons,l'eau,water,nourriture_l_eau.jpg
+La nourriture et les boissons,le jus de fruit,fruit juice,nourriture_le_jus_de_fruit.jpg
+La nourriture et les boissons,le soda,soda,nourriture_le_soda.jpg
+La nourriture et les boissons,le café,coffee,nourriture_le_cafe.jpg
+La nourriture et les boissons,le thé,tea,nourriture_le_the.jpg
+La nourriture et les boissons,le chocolat chaud,hot chocolate,nourriture_le_chocolat_chaud.jpg
+La nourriture et les boissons,le vin,wine,nourriture_le_vin.jpg
+La nourriture et les boissons,la bière,beer,nourriture_la_biere.jpg
+La nourriture et les boissons,le petit-déjeuner,breakfast,nourriture_le_petitdejeuner.jpg
+La nourriture et les boissons,le déjeuner,lunch,nourriture_le_dejeuner.jpg
+La nourriture et les boissons,le dîner,dinner,nourriture_le_diner.jpg
+La nourriture et les boissons,le goûter,afternoon snack,nourriture_le_gouter.jpg
+La nourriture et les boissons,le repas,meal,nourriture_le_repas.jpg
+La nourriture et les boissons,l'assiette,plate,nourriture_l_assiette.jpg
+La nourriture et les boissons,le verre,glass,nourriture_le_verre.jpg
+La nourriture et les boissons,la tasse,cup,nourriture_la_tasse.jpg
+La nourriture et les boissons,le couteau,knife,nourriture_le_couteau.jpg
+La nourriture et les boissons,la fourchette,fork,nourriture_la_fourchette.jpg
+La nourriture et les boissons,la cuillère,spoon,nourriture_la_cuillere.jpg
+La nourriture et les boissons,la serviette,napkin / towel,nourriture_la_serviette.jpg
+La nourriture et les boissons,la nappe,tablecloth,nourriture_la_nappe.jpg
+La nourriture et les boissons,le restaurant,restaurant,nourriture_le_restaurant.jpg
+La nourriture et les boissons,la cantine,school canteen,nourriture_la_cantine.jpg
+La nourriture et les boissons,la cuisine,kitchen / cooking,nourriture_la_cuisine.jpg
+La nourriture et les boissons,la recette,recipe,nourriture_la_recette.jpg
+La nourriture et les boissons,l'épicerie,grocery store,nourriture_l_epicerie.jpg
+La nourriture et les boissons,le supermarché,supermarket,nourriture_le_supermarche.jpg
+La nourriture et les boissons,la boulangerie,bakery,nourriture_la_boulangerie.jpg
+La nourriture et les boissons,la boucherie,butcher shop,nourriture_la_boucherie.jpg
+La nourriture et les boissons,le dessert,dessert,nourriture_le_dessert.jpg
+La nourriture et les boissons,l'entrée,starter,nourriture_l_entree.jpg
+La nourriture et les boissons,le plat principal,main course,nourriture_le_plat_principal.jpg
+La nourriture et les boissons,le menu,menu,nourriture_le_menu.jpg
+La nourriture et les boissons,l'addition,bill / check,nourriture_l_addition.jpg
+La nourriture et les boissons,le pourboire,tip,nourriture_le_pourboire.jpg
+La nourriture et les boissons,la faim,hunger,nourriture_la_faim.jpg
+La nourriture et les boissons,la soif,thirst,nourriture_la_soif.jpg
+La nourriture et les boissons,sucré,sweet,nourriture_sucre.jpg
+La nourriture et les boissons,salé,salty,nourriture_sale.jpg
+La nourriture et les boissons,épicé,spicy,nourriture_epice.jpg
+La nourriture et les boissons,amer,bitter,nourriture_amer.jpg
+La nourriture et les boissons,délicieux,delicious,nourriture_delicieux.jpg
+La nourriture et les boissons,cuit,cooked,nourriture_cuit.jpg
+La nourriture et les boissons,cru,raw,nourriture_cru.jpg
+La maison,la maison,house,maison_la_maison.jpg
+La maison,l'appartement,apartment,maison_l_appartement.jpg
+La maison,la chambre,bedroom,maison_la_chambre.jpg
+La maison,le salon,living room,maison_le_salon.jpg
+La maison,la salle de bain,bathroom,maison_la_salle_de_bain.jpg
+La maison,les toilettes,toilet,maison_les_toilettes.jpg
+La maison,le garage,garage,maison_le_garage.jpg
+La maison,le jardin,garden,maison_le_jardin.jpg
+La maison,le balcon,balcony,maison_le_balcon.jpg
+La maison,l'escalier,stairs,maison_l_escalier.jpg
+La maison,la porte,door,maison_la_porte.jpg
+La maison,la fenêtre,window,maison_la_fenetre.jpg
+La maison,le mur,wall,maison_le_mur.jpg
+La maison,le toit,roof,maison_le_toit.jpg
+La maison,le sol,floor,maison_le_sol.jpg
+La maison,le plafond,ceiling,maison_le_plafond.jpg
+La maison,le lit,bed,maison_le_lit.jpg
+La maison,l'oreiller,pillow,maison_l_oreiller.jpg
+La maison,la couverture,blanket,maison_la_couverture.jpg
+La maison,le drap,bedsheet,maison_le_drap.jpg
+La maison,l'armoire,wardrobe,maison_l_armoire.jpg
+La maison,la commode,chest of drawers,maison_la_commode.jpg
+La maison,le bureau,desk / office,maison_le_bureau.jpg
+La maison,la chaise,chair,maison_la_chaise.jpg
+La maison,la table,table,maison_la_table.jpg
+La maison,le canapé,sofa,maison_le_canape.jpg
+La maison,le fauteuil,armchair,maison_le_fauteuil.jpg
+La maison,l'étagère,shelf,maison_l_etagere.jpg
+La maison,la lampe,lamp,maison_la_lampe.jpg
+La maison,le miroir,mirror,maison_le_miroir.jpg
+La maison,le tapis,rug / carpet,maison_le_tapis.jpg
+La maison,le rideau,curtain,maison_le_rideau.jpg
+La maison,la télévision,television,maison_la_television.jpg
+La maison,le réfrigérateur,fridge,maison_le_refrigerateur.jpg
+La maison,le four,oven,maison_le_four.jpg
+La maison,le micro-ondes,microwave,maison_le_microondes.jpg
+La maison,le lave-linge,washing machine,maison_le_lavelinge.jpg
+La maison,le lave-vaisselle,dishwasher,maison_le_lavevaisselle.jpg
+La maison,l'évier,kitchen sink,maison_l_evier.jpg
+La maison,la douche,shower,maison_la_douche.jpg
+La maison,la baignoire,bathtub,maison_la_baignoire.jpg
+La maison,le robinet,tap / faucet,maison_le_robinet.jpg
+La maison,la clé,key,maison_la_cle.jpg
+La maison,la serrure,lock,maison_la_serrure.jpg
+La maison,la poubelle,trash can,maison_la_poubelle.jpg
+La maison,le balai,broom,maison_le_balai.jpg
+La maison,l'aspirateur,vacuum cleaner,maison_l_aspirateur.jpg
+La maison,la plante,plant,maison_la_plante.jpg
+L'école,l'école,school,ecole_l_ecole.jpg
+L'école,le collège,middle school,ecole_le_college.jpg
+L'école,le lycée,high school,ecole_le_lycee.jpg
+L'école,la salle de classe,classroom,ecole_la_salle_de_classe.jpg
+L'école,le professeur,teacher,ecole_le_professeur.jpg
+L'école,l'élève,student / pupil,ecole_l_eleve.jpg
+L'école,le camarade,classmate,ecole_le_camarade.jpg
+L'école,le directeur,principal,
+L'école,le cours,class / lesson,ecole_le_cours.jpg
+L'école,les devoirs,homework,ecole_les_devoirs.jpg
+L'école,l'examen,exam,ecole_l_examen.jpg
+L'école,la note,grade / mark,ecole_la_note.jpg
+L'école,le cahier,notebook,ecole_le_cahier.jpg
+L'école,le livre,book,ecole_le_livre.jpg
+L'école,le stylo,pen,ecole_le_stylo.jpg
+L'école,le crayon,pencil,ecole_le_crayon.jpg
+L'école,la gomme,eraser,ecole_la_gomme.jpg
+L'école,la règle,ruler,ecole_la_regle.jpg
+L'école,les ciseaux,scissors,ecole_les_ciseaux.jpg
+L'école,la colle,glue,ecole_la_colle.jpg
+L'école,la trousse,pencil case,ecole_la_trousse.jpg
+L'école,le sac,bag,ecole_le_sac.jpg
+L'école,le tableau,board,ecole_le_tableau.jpg
+L'école,la craie,chalk,ecole_la_craie.jpg
+L'école,l'ordinateur,computer,ecole_l_ordinateur.jpg
+L'école,la calculatrice,calculator,ecole_la_calculatrice.jpg
+L'école,le dictionnaire,dictionary,ecole_le_dictionnaire.jpg
+L'école,l'emploi du temps,timetable / schedule,ecole_l_emploi_du_temps.jpg
+L'école,la récréation,recess / break,ecole_la_recreation.jpg
+L'école,la bibliothèque,library,ecole_la_bibliotheque.jpg
+L'école,le gymnase,gym,ecole_le_gymnase.jpg
+L'école,la cour,schoolyard,ecole_la_cour.jpg
+L'école,les mathématiques,math,ecole_les_mathematiques.jpg
+L'école,le français,French (subject),ecole_le_francais.jpg
+L'école,l'histoire,history,ecole_l_histoire.jpg
+L'école,la géographie,geography,ecole_la_geographie.jpg
+L'école,les sciences,science,ecole_les_sciences.jpg
+L'école,l'anglais,English (subject),ecole_l_anglais.jpg
+L'école,l'espagnol,Spanish (subject),ecole_l_espagnol.jpg
+L'école,la musique,music,ecole_la_musique.jpg
+L'école,les arts plastiques,art,ecole_les_arts_plastiques.jpg
+L'école,le sport,sport / PE,ecole_le_sport.jpg
+L'école,la physique,physics,ecole_la_physique.jpg
+L'école,la chimie,chemistry,ecole_la_chimie.jpg
+L'école,la biologie,biology,ecole_la_biologie.jpg
+L'école,la technologie,technology (subject),ecole_la_technologie.jpg
+L'école,l'informatique,computer science,ecole_l_informatique.jpg
+L'école,la question,question,ecole_la_question.jpg
+L'école,la réponse,answer,ecole_la_reponse.jpg
+L'école,la leçon,lesson,ecole_la_lecon.jpg
+L'école,le chapitre,chapter,ecole_le_chapitre.jpg
+L'école,la page,page,ecole_la_page.jpg
+L'école,la phrase,sentence,ecole_la_phrase.jpg
+L'école,le mot,word,ecole_le_mot.jpg
+L'école,la lettre,letter,ecole_la_lettre.jpg
+L'école,l'exercice,exercise,ecole_l_exercice.jpg
+L'école,le contrôle,test / quiz,ecole_le_controle.jpg
+L'école,le brevet,middle school diploma,ecole_le_brevet.jpg
+L'école,le baccalauréat,high school diploma (bac),ecole_le_baccalaureat.jpg
+L'école,la rentrée,back to school,ecole_la_rentree.jpg
+Les nombres,zéro,zero,nombres_zero.jpg
+Les nombres,un,one,nombres_un.jpg
+Les nombres,deux,two,nombres_deux.jpg
+Les nombres,trois,three,nombres_trois.jpg
+Les nombres,quatre,four,nombres_quatre.jpg
+Les nombres,cinq,five,nombres_cinq.jpg
+Les nombres,six,six,nombres_six.jpg
+Les nombres,sept,seven,nombres_sept.jpg
+Les nombres,huit,eight,nombres_huit.jpg
+Les nombres,neuf,nine,nombres_neuf.jpg
+Les nombres,dix,ten,nombres_dix.jpg
+Les nombres,onze,eleven,nombres_onze.jpg
+Les nombres,douze,twelve,nombres_douze.jpg
+Les nombres,treize,thirteen,nombres_treize.jpg
+Les nombres,quatorze,fourteen,nombres_quatorze.jpg
+Les nombres,quinze,fifteen,nombres_quinze.jpg
+Les nombres,seize,sixteen,nombres_seize.jpg
+Les nombres,dix-sept,seventeen,nombres_dixsept.jpg
+Les nombres,dix-huit,eighteen,nombres_dixhuit.jpg
+Les nombres,dix-neuf,nineteen,nombres_dixneuf.jpg
+Les nombres,vingt,twenty,nombres_vingt.jpg
+Les nombres,trente,thirty,nombres_trente.jpg
+Les nombres,quarante,forty,nombres_quarante.jpg
+Les nombres,cinquante,fifty,nombres_cinquante.jpg
+Les nombres,soixante,sixty,nombres_soixante.jpg
+Les nombres,soixante-dix,seventy,nombres_soixantedix.jpg
+Les nombres,quatre-vingts,eighty,nombres_quatrevingts.jpg
+Les nombres,quatre-vingt-dix,ninety,nombres_quatrevingtdix.jpg
+Les nombres,cent,one hundred,nombres_cent.jpg
+Les nombres,mille,one thousand,nombres_mille.jpg
+Les nombres,premier,first,nombres_premier.jpg
+Les nombres,deuxième,second,nombres_deuxieme.jpg
+Les nombres,troisième,third,nombres_troisieme.jpg
+Les nombres,dernier,last,nombres_dernier.jpg
+Les nombres,la moitié,half,nombres_la_moitie.jpg
+Les nombres,le tiers,third (fraction),nombres_le_tiers.jpg
+Les nombres,le quart,quarter,nombres_le_quart.jpg
+Les nombres,le nombre,number,nombres_le_nombre.jpg
+Les nombres,le chiffre,digit / figure,nombres_le_chiffre.jpg
+Les nombres,la paire,pair,nombres_la_paire.jpg
+Le temps et le calendrier,lundi,Monday,temps_lundi.jpg
+Le temps et le calendrier,mardi,Tuesday,temps_mardi.jpg
+Le temps et le calendrier,mercredi,Wednesday,temps_mercredi.jpg
+Le temps et le calendrier,jeudi,Thursday,temps_jeudi.jpg
+Le temps et le calendrier,vendredi,Friday,temps_vendredi.jpg
+Le temps et le calendrier,samedi,Saturday,temps_samedi.jpg
+Le temps et le calendrier,dimanche,Sunday,temps_dimanche.jpg
+Le temps et le calendrier,janvier,January,temps_janvier.jpg
+Le temps et le calendrier,février,February,temps_fevrier.jpg
+Le temps et le calendrier,mars,March,temps_mars.jpg
+Le temps et le calendrier,avril,April,temps_avril.jpg
+Le temps et le calendrier,mai,May,temps_mai.jpg
+Le temps et le calendrier,juin,June,temps_juin.jpg
+Le temps et le calendrier,juillet,July,temps_juillet.jpg
+Le temps et le calendrier,août,August,temps_aout.jpg
+Le temps et le calendrier,septembre,September,temps_septembre.jpg
+Le temps et le calendrier,octobre,October,temps_octobre.jpg
+Le temps et le calendrier,novembre,November,temps_novembre.jpg
+Le temps et le calendrier,décembre,December,temps_decembre.jpg
+Le temps et le calendrier,le printemps,spring,temps_le_printemps.jpg
+Le temps et le calendrier,l'été,summer,temps_l_ete.jpg
+Le temps et le calendrier,l'automne,autumn / fall,temps_l_automne.jpg
+Le temps et le calendrier,l'hiver,winter,temps_l_hiver.jpg
+Le temps et le calendrier,le jour,day,temps_le_jour.jpg
+Le temps et le calendrier,la semaine,week,temps_la_semaine.jpg
+Le temps et le calendrier,le mois,month,temps_le_mois.jpg
+Le temps et le calendrier,l'année,year,temps_l_annee.jpg
+Le temps et le calendrier,l'heure,hour / time,temps_l_heure.jpg
+Le temps et le calendrier,la minute,minute,temps_la_minute.jpg
+Le temps et le calendrier,la seconde,second,temps_la_seconde.jpg
+Le temps et le calendrier,le matin,morning,temps_le_matin.jpg
+Le temps et le calendrier,l'après-midi,afternoon,temps_l_apresmidi.jpg
+Le temps et le calendrier,le soir,evening,temps_le_soir.jpg
+Le temps et le calendrier,la nuit,night,temps_la_nuit.jpg
+Le temps et le calendrier,aujourd'hui,today,temps_aujourd_hui.jpg
+Le temps et le calendrier,demain,tomorrow,temps_demain.jpg
+Le temps et le calendrier,hier,yesterday,temps_hier.jpg
+Le temps et le calendrier,maintenant,now,temps_maintenant.jpg
+Le temps et le calendrier,bientôt,soon,temps_bientot.jpg
+Le temps et le calendrier,tard,late,temps_tard.jpg
+Le temps et le calendrier,tôt,early,temps_tot.jpg
+Le temps et le calendrier,toujours,always,temps_toujours.jpg
+Le temps et le calendrier,jamais,never,temps_jamais.jpg
+Le temps et le calendrier,souvent,often,temps_souvent.jpg
+Le temps et le calendrier,parfois,sometimes,temps_parfois.jpg
+Le temps et le calendrier,le calendrier,calendar,temps_le_calendrier.jpg
+Le temps et le calendrier,la date,date,temps_la_date.jpg
+Le temps et le calendrier,l'anniversaire,birthday,temps_l_anniversaire.jpg
+Le temps et le calendrier,les vacances,vacation / holidays,temps_les_vacances.jpg
+Le temps et le calendrier,le week-end,weekend,temps_le_weekend.jpg
+Les couleurs et les formes,rouge,red,couleurs_formes_rouge.jpg
+Les couleurs et les formes,bleu,blue,couleurs_formes_bleu.jpg
+Les couleurs et les formes,vert,green,couleurs_formes_vert.jpg
+Les couleurs et les formes,jaune,yellow,couleurs_formes_jaune.jpg
+Les couleurs et les formes,orange,orange,couleurs_formes_orange.jpg
+Les couleurs et les formes,violet,purple,couleurs_formes_violet.jpg
+Les couleurs et les formes,rose,pink,couleurs_formes_rose.jpg
+Les couleurs et les formes,noir,black,couleurs_formes_noir.jpg
+Les couleurs et les formes,blanc,white,couleurs_formes_blanc.jpg
+Les couleurs et les formes,gris,grey,couleurs_formes_gris.jpg
+Les couleurs et les formes,marron,brown,couleurs_formes_marron.jpg
+Les couleurs et les formes,le cercle,circle,couleurs_formes_le_cercle.jpg
+Les couleurs et les formes,le carré,square,couleurs_formes_le_carre.jpg
+Les couleurs et les formes,le triangle,triangle,couleurs_formes_le_triangle.jpg
+Les couleurs et les formes,le rectangle,rectangle,couleurs_formes_le_rectangle.jpg
+Les couleurs et les formes,le losange,diamond shape,couleurs_formes_le_losange.jpg
+Les couleurs et les formes,l'étoile,star,couleurs_formes_l_etoile.jpg
+Les couleurs et les formes,la ligne,line,couleurs_formes_la_ligne.jpg
+Les couleurs et les formes,l'ovale,oval,couleurs_formes_l_ovale.jpg
+La météo,le soleil,sun,meteo_le_soleil.jpg
+La météo,la pluie,rain,meteo_la_pluie.jpg
+La météo,le nuage,cloud,meteo_le_nuage.jpg
+La météo,le vent,wind,meteo_le_vent.jpg
+La météo,la neige,snow,meteo_la_neige.jpg
+La météo,l'orage,storm,meteo_l_orage.jpg
+La météo,le brouillard,fog,meteo_le_brouillard.jpg
+La météo,l'arc-en-ciel,rainbow,meteo_l_arcenciel.jpg
+La météo,chaud,hot,meteo_chaud.jpg
+La météo,froid,cold,meteo_froid.jpg
+La météo,doux,mild,meteo_doux.jpg
+La météo,humide,humid,meteo_humide.jpg
+La météo,sec,dry,meteo_sec.jpg
+La météo,la tempête,storm,meteo_la_tempete.jpg
+La météo,l'éclair,lightning,meteo_l_eclair.jpg
+La météo,le tonnerre,thunder,meteo_le_tonnerre.jpg
+La météo,le ciel,sky,meteo_le_ciel.jpg
+La météo,la température,temperature,meteo_la_temperature.jpg
+La météo,le gel,frost,meteo_le_gel.jpg
+Les animaux,le chien,dog,animaux_le_chien.jpg
+Les animaux,le chat,cat,animaux_le_chat.jpg
+Les animaux,le cheval,horse,animaux_le_cheval.jpg
+Les animaux,la vache,cow,animaux_la_vache.jpg
+Les animaux,le cochon,pig,animaux_le_cochon.jpg
+Les animaux,le mouton,sheep,animaux_le_mouton.jpg
+Les animaux,la chèvre,goat,animaux_la_chevre.jpg
+Les animaux,la poule,hen,animaux_la_poule.jpg
+Les animaux,le coq,rooster,animaux_le_coq.jpg
+Les animaux,le canard,duck,animaux_le_canard.jpg
+Les animaux,le lapin,rabbit,animaux_le_lapin.jpg
+Les animaux,la souris,mouse,animaux_la_souris.jpg
+Les animaux,l'oiseau,bird,animaux_l_oiseau.jpg
+Les animaux,la tortue,turtle,animaux_la_tortue.jpg
+Les animaux,le serpent,snake,animaux_le_serpent.jpg
+Les animaux,la grenouille,frog,animaux_la_grenouille.jpg
+Les animaux,l'araignée,spider,animaux_l_araignee.jpg
+Les animaux,l'abeille,bee,animaux_l_abeille.jpg
+Les animaux,le papillon,butterfly,animaux_le_papillon.jpg
+Les animaux,la mouche,fly,animaux_la_mouche.jpg
+Les animaux,la fourmi,ant,animaux_la_fourmi.jpg
+Les animaux,le lion,lion,animaux_le_lion.jpg
+Les animaux,le tigre,tiger,animaux_le_tigre.jpg
+Les animaux,l'éléphant,elephant,animaux_l_elephant.jpg
+Les animaux,la girafe,giraffe,animaux_la_girafe.jpg
+Les animaux,le singe,monkey,animaux_le_singe.jpg
+Les animaux,l'ours,bear,animaux_l_ours.jpg
+Les animaux,le loup,wolf,animaux_le_loup.jpg
+Les animaux,le renard,fox,animaux_le_renard.jpg
+Les animaux,le cerf,deer,animaux_le_cerf.jpg
+Les animaux,l'écureuil,squirrel,animaux_l_ecureuil.jpg
+Les animaux,le hérisson,hedgehog,animaux_le_herisson.jpg
+Les animaux,le dauphin,dolphin,animaux_le_dauphin.jpg
+Les animaux,le requin,shark,animaux_le_requin.jpg
+Les animaux,la baleine,whale,animaux_la_baleine.jpg
+Les animaux,le crocodile,crocodile,animaux_le_crocodile.jpg
+Les animaux,le kangourou,kangaroo,animaux_le_kangourou.jpg
+Les animaux,le zèbre,zebra,animaux_le_zebre.jpg
+Les animaux,le chameau,camel,animaux_le_chameau.jpg
+Les animaux,le pingouin,penguin,animaux_le_pingouin.jpg
+Les animaux,le hibou,owl,animaux_le_hibou.jpg
+Les animaux,le perroquet,parrot,animaux_le_perroquet.jpg
+Les animaux,l'escargot,snail,animaux_l_escargot.jpg
+Les animaux,le crabe,crab,animaux_le_crabe.jpg
+Les animaux,la panthère,panther,animaux_la_panthere.jpg
+Les animaux,le koala,koala,animaux_le_koala.jpg
+La nature,l'arbre,tree,nature_l_arbre.jpg
+La nature,la fleur,flower,nature_la_fleur.jpg
+La nature,la feuille,leaf,nature_la_feuille.jpg
+La nature,l'herbe,grass,nature_l_herbe.jpg
+La nature,la forêt,forest,nature_la_foret.jpg
+La nature,la montagne,mountain,nature_la_montagne.jpg
+La nature,la rivière,river,nature_la_riviere.jpg
+La nature,le lac,lake,nature_le_lac.jpg
+La nature,la mer,sea,nature_la_mer.jpg
+La nature,l'océan,ocean,nature_l_ocean.jpg
+La nature,la plage,beach,nature_la_plage.jpg
+La nature,le sable,sand,nature_le_sable.jpg
+La nature,l'île,island,nature_l_ile.jpg
+La nature,le désert,desert,nature_le_desert.jpg
+La nature,la lune,moon,nature_la_lune.jpg
+La nature,la terre,earth / ground,nature_la_terre.jpg
+La nature,la roche,rock,nature_la_roche.jpg
+La nature,la vallée,valley,nature_la_vallee.jpg
+La nature,la colline,hill,nature_la_colline.jpg
+La nature,le volcan,volcano,nature_le_volcan.jpg
+La nature,la cascade,waterfall,nature_la_cascade.jpg
+La nature,la jungle,jungle,nature_la_jungle.jpg
+La nature,la campagne,countryside,nature_la_campagne.jpg
+La nature,la ferme,farm,nature_la_ferme.jpg
+La nature,le champ,field,nature_le_champ.jpg
+La ville et les lieux,la ville,city / town,ville_lieux_la_ville.jpg
+La ville et les lieux,le village,village,ville_lieux_le_village.jpg
+La ville et les lieux,la rue,street,ville_lieux_la_rue.jpg
+La ville et les lieux,l'avenue,avenue,ville_lieux_l_avenue.jpg
+La ville et les lieux,la place,square,ville_lieux_la_place.jpg
+La ville et les lieux,le pont,bridge,ville_lieux_le_pont.jpg
+La ville et les lieux,l'immeuble,building,ville_lieux_l_immeuble.jpg
+La ville et les lieux,le magasin,shop,ville_lieux_le_magasin.jpg
+La ville et les lieux,le marché,market,ville_lieux_le_marche.jpg
+La ville et les lieux,la banque,bank,ville_lieux_la_banque.jpg
+La ville et les lieux,la poste,post office,ville_lieux_la_poste.jpg
+La ville et les lieux,l'hôpital,hospital,ville_lieux_l_hopital.jpg
+La ville et les lieux,la pharmacie,pharmacy,ville_lieux_la_pharmacie.jpg
+La ville et les lieux,la mairie,town hall,ville_lieux_la_mairie.jpg
+La ville et les lieux,l'église,church,ville_lieux_l_eglise.jpg
+La ville et les lieux,le musée,museum,ville_lieux_le_musee.jpg
+La ville et les lieux,le cinéma,cinema,ville_lieux_le_cinema.jpg
+La ville et les lieux,le théâtre,theater,ville_lieux_le_theatre.jpg
+La ville et les lieux,le parc,park,ville_lieux_le_parc.jpg
+La ville et les lieux,la piscine,swimming pool,ville_lieux_la_piscine.jpg
+La ville et les lieux,le stade,stadium,ville_lieux_le_stade.jpg
+La ville et les lieux,l'aéroport,airport,ville_lieux_l_aeroport.jpg
+La ville et les lieux,la gare,train station,ville_lieux_la_gare.jpg
+La ville et les lieux,l'arrêt de bus,bus stop,ville_lieux_l_arret_de_bus.jpg
+La ville et les lieux,la station de métro,metro station,ville_lieux_la_station_de_metro.jpg
+La ville et les lieux,l'hôtel,hotel,ville_lieux_l_hotel.jpg
+La ville et les lieux,le centre commercial,shopping mall,ville_lieux_le_centre_commercial.jpg
+La ville et les lieux,le zoo,zoo,ville_lieux_le_zoo.jpg
+La ville et les lieux,le quartier,neighborhood,ville_lieux_le_quartier.jpg
+La ville et les lieux,le trottoir,sidewalk,ville_lieux_le_trottoir.jpg
+La ville et les lieux,le feu rouge,traffic light,ville_lieux_le_feu_rouge.jpg
+La ville et les lieux,le panneau,sign,ville_lieux_le_panneau.jpg
+La ville et les lieux,le carrefour,intersection,ville_lieux_le_carrefour.jpg
+La ville et les lieux,le coin,corner,ville_lieux_le_coin.jpg
+La ville et les lieux,l'adresse,address,ville_lieux_l_adresse.jpg
+La ville et les lieux,le nord,north,ville_lieux_le_nord.jpg
+La ville et les lieux,le sud,south,ville_lieux_le_sud.jpg
+La ville et les lieux,l'est,east,ville_lieux_l_est.jpg
+La ville et les lieux,l'ouest,west,ville_lieux_l_ouest.jpg
+La ville et les lieux,à droite,right (direction),ville_lieux_a_droite.jpg
+La ville et les lieux,à gauche,left (direction),ville_lieux_a_gauche.jpg
+La ville et les lieux,tout droit,straight ahead,
+La ville et les lieux,loin,far,
+La ville et les lieux,près,near,
+Les transports,la voiture,car,transports_la_voiture.jpg
+Les transports,le bus,bus,transports_le_bus.jpg
+Les transports,le train,train,transports_le_train.jpg
+Les transports,l'avion,airplane,transports_l_avion.jpg
+Les transports,le bateau,boat,transports_le_bateau.jpg
+Les transports,le vélo,bicycle,transports_le_velo.jpg
+Les transports,la moto,motorcycle,transports_la_moto.jpg
+Les transports,le métro,subway,transports_le_metro.jpg
+Les transports,le tramway,tram,transports_le_tramway.jpg
+Les transports,le taxi,taxi,transports_le_taxi.jpg
+Les transports,le camion,truck,transports_le_camion.jpg
+Les transports,le scooter,scooter,transports_le_scooter.jpg
+Les transports,la trottinette,kick scooter,transports_la_trottinette.jpg
+Les transports,la roue,wheel,transports_la_roue.jpg
+Les transports,le moteur,engine,transports_le_moteur.jpg
+Les transports,l'essence,gasoline,transports_l_essence.jpg
+Les transports,le billet,ticket,transports_le_billet.jpg
+Les transports,le conducteur,driver,transports_le_conducteur.jpg
+Les transports,le passager,passenger,transports_le_passager.jpg
+Les transports,la ceinture de sécurité,seatbelt,transports_la_ceinture_de_securite.jpg
+Les transports,le permis de conduire,driver's license,transports_le_permis_de_conduire.jpg
+Les transports,l'autoroute,highway,transports_l_autoroute.jpg
+Les transports,la route,road,transports_la_route.jpg
+Les transports,l'embouteillage,traffic jam,transports_l_embouteillage.jpg
+Les transports,le retard,delay,transports_le_retard.jpg
+La technologie,le téléphone,phone,technologie_le_telephone.jpg
+La technologie,le portable,cellphone,technologie_le_portable.jpg
+La technologie,le smartphone,smartphone,technologie_le_smartphone.jpg
+La technologie,l'ordinateur,computer,technologie_l_ordinateur.jpg
+La technologie,la tablette,tablet,technologie_la_tablette.jpg
+La technologie,l'écran,screen,technologie_l_ecran.jpg
+La technologie,le clavier,keyboard,technologie_le_clavier.jpg
+La technologie,la souris,mouse (computer),technologie_la_souris.jpg
+La technologie,internet,internet,technologie_internet.jpg
+La technologie,le wifi,wifi,technologie_le_wifi.jpg
+La technologie,l'application,app,technologie_l_application.jpg
+La technologie,le réseau social,social network,technologie_le_reseau_social.jpg
+La technologie,le message,message,technologie_le_message.jpg
+La technologie,l'appel,phone call,technologie_l_appel.jpg
+La technologie,la photo,photo,technologie_la_photo.jpg
+La technologie,la vidéo,video,technologie_la_video.jpg
+La technologie,le jeu vidéo,video game,technologie_le_jeu_video.jpg
+La technologie,le casque,headset,technologie_le_casque.jpg
+La technologie,les écouteurs,earphones,technologie_les_ecouteurs.jpg
+La technologie,la batterie,battery,technologie_la_batterie.jpg
+La technologie,le chargeur,charger,technologie_le_chargeur.jpg
+La technologie,le mot de passe,password,technologie_le_mot_de_passe.jpg
+La technologie,le compte,account,technologie_le_compte.jpg
+La technologie,l'e-mail,email,technologie_l_email.jpg
+La technologie,le réseau,network,technologie_le_reseau.jpg
+La technologie,le site web,website,technologie_le_site_web.jpg
+La technologie,télécharger,to download,technologie_telecharger.jpg
+La technologie,envoyer,to send,technologie_envoyer.jpg
+La technologie,recevoir,to receive,technologie_recevoir.jpg
+La technologie,la caméra,camera,technologie_la_camera.jpg
+La technologie,le haut-parleur,speaker,technologie_le_hautparleur.jpg
+La technologie,l'imprimante,printer,technologie_l_imprimante.jpg
+La technologie,la clé USB,USB drive,technologie_la_cle_usb.jpg
+La technologie,les données,data,technologie_les_donnees.jpg
+La technologie,la connexion,connection,technologie_la_connexion.jpg
+Les sports et loisirs,le football,soccer,sports_loisirs_le_football.jpg
+Les sports et loisirs,le basketball,basketball,sports_loisirs_le_basketball.jpg
+Les sports et loisirs,le tennis,tennis,sports_loisirs_le_tennis.jpg
+Les sports et loisirs,la natation,swimming,sports_loisirs_la_natation.jpg
+Les sports et loisirs,la course à pied,running,sports_loisirs_la_course_a_pied.jpg
+Les sports et loisirs,la danse,dance,sports_loisirs_la_danse.jpg
+Les sports et loisirs,le dessin,drawing,sports_loisirs_le_dessin.jpg
+Les sports et loisirs,la peinture,painting,sports_loisirs_la_peinture.jpg
+Les sports et loisirs,la lecture,reading,sports_loisirs_la_lecture.jpg
+Les sports et loisirs,l'équipe,team,sports_loisirs_l_equipe.jpg
+Les sports et loisirs,le match,match / game,sports_loisirs_le_match.jpg
+Les sports et loisirs,l'entraînement,training,sports_loisirs_l_entrainement.jpg
+Les sports et loisirs,le ballon,ball,sports_loisirs_le_ballon.jpg
+Les sports et loisirs,le terrain,field / court,sports_loisirs_le_terrain.jpg
+Les sports et loisirs,le champion,champion,sports_loisirs_le_champion.jpg
+Les sports et loisirs,la victoire,victory,sports_loisirs_la_victoire.jpg
+Les sports et loisirs,la défaite,defeat,sports_loisirs_la_defaite.jpg
+Les sports et loisirs,le score,score,sports_loisirs_le_score.jpg
+Les sports et loisirs,l'arbitre,referee,sports_loisirs_l_arbitre.jpg
+Les sports et loisirs,le joueur,player,sports_loisirs_le_joueur.jpg
+Les sports et loisirs,le spectateur,spectator,sports_loisirs_le_spectateur.jpg
+Les sports et loisirs,la randonnée,hiking,sports_loisirs_la_randonnee.jpg
+Les sports et loisirs,le camping,camping,sports_loisirs_le_camping.jpg
+Les sports et loisirs,la pêche,fishing,sports_loisirs_la_peche.jpg
+Les sports et loisirs,le ski,skiing,sports_loisirs_le_ski.jpg
+Les sports et loisirs,le patinage,skating,sports_loisirs_le_patinage.jpg
+Les sports et loisirs,l'escalade,climbing,sports_loisirs_l_escalade.jpg
+Les sports et loisirs,le yoga,yoga,sports_loisirs_le_yoga.jpg
+Les sports et loisirs,les arts martiaux,martial arts,sports_loisirs_les_arts_martiaux.jpg
+Les sports et loisirs,le rugby,rugby,sports_loisirs_le_rugby.jpg
+Les sports et loisirs,le volleyball,volleyball,sports_loisirs_le_volleyball.jpg
+Les sports et loisirs,le handball,handball,sports_loisirs_le_handball.jpg
+Les sports et loisirs,l'athlétisme,track and field,sports_loisirs_l_athletisme.jpg
+Les sports et loisirs,la gymnastique,gymnastics,sports_loisirs_la_gymnastique.jpg
+Les sports et loisirs,les échecs,chess,sports_loisirs_les_echecs.jpg
+Les sports et loisirs,les cartes,cards (game),sports_loisirs_les_cartes.jpg
+Les sports et loisirs,l'instrument de musique,musical instrument,sports_loisirs_l_instrument_de_musique.jpg
+Les sports et loisirs,la guitare,guitar,sports_loisirs_la_guitare.jpg
+Les sports et loisirs,le piano,piano,sports_loisirs_le_piano.jpg
+Les sports et loisirs,la batterie (instrument),drums,sports_loisirs_la_batterie_instrument.jpg
+Les sports et loisirs,le chant,singing,sports_loisirs_le_chant.jpg
+Les sports et loisirs,le groupe,band,sports_loisirs_le_groupe.jpg
+Les sports et loisirs,le concert,concert,sports_loisirs_le_concert.jpg
+Les sports et loisirs,le festival,festival,sports_loisirs_le_festival.jpg
+Les émotions et la personnalité,heureux,happy,emotions_personnalite_heureux.jpg
+Les émotions et la personnalité,triste,sad,emotions_personnalite_triste.jpg
+Les émotions et la personnalité,content,glad / pleased,emotions_personnalite_content.jpg
+Les émotions et la personnalité,fâché,angry,emotions_personnalite_fache.jpg
+Les émotions et la personnalité,énervé,annoyed,emotions_personnalite_enerve.jpg
+Les émotions et la personnalité,fatigué,tired,emotions_personnalite_fatigue.jpg
+Les émotions et la personnalité,stressé,stressed,emotions_personnalite_stresse.jpg
+Les émotions et la personnalité,inquiet,worried,emotions_personnalite_inquiet.jpg
+Les émotions et la personnalité,effrayé,scared,emotions_personnalite_effraye.jpg
+Les émotions et la personnalité,surpris,surprised,emotions_personnalite_surpris.jpg
+Les émotions et la personnalité,amoureux,in love,emotions_personnalite_amoureux.jpg
+Les émotions et la personnalité,jaloux,jealous,emotions_personnalite_jaloux.jpg
+Les émotions et la personnalité,timide,shy,emotions_personnalite_timide.jpg
+Les émotions et la personnalité,gêné,embarrassed,emotions_personnalite_gene.jpg
+Les émotions et la personnalité,fier,proud,emotions_personnalite_fier.jpg
+Les émotions et la personnalité,déçu,disappointed,emotions_personnalite_decu.jpg
+Les émotions et la personnalité,excité,excited,emotions_personnalite_excite.jpg
+Les émotions et la personnalité,calme,calm,emotions_personnalite_calme.jpg
+Les émotions et la personnalité,nerveux,nervous,emotions_personnalite_nerveux.jpg
+Les émotions et la personnalité,gentil,kind / nice,emotions_personnalite_gentil.jpg
+Les émotions et la personnalité,méchant,mean,emotions_personnalite_mechant.jpg
+Les émotions et la personnalité,drôle,funny,emotions_personnalite_drole.jpg
+Les émotions et la personnalité,sérieux,serious,emotions_personnalite_serieux.jpg
+Les émotions et la personnalité,intelligent,smart,emotions_personnalite_intelligent.jpg
+Les émotions et la personnalité,curieux,curious,emotions_personnalite_curieux.jpg
+Les émotions et la personnalité,patient,patient,emotions_personnalite_patient.jpg
+Les émotions et la personnalité,impatient,impatient,emotions_personnalite_impatient.jpg
+Les émotions et la personnalité,généreux,generous,emotions_personnalite_genereux.jpg
+Les émotions et la personnalité,égoïste,selfish,emotions_personnalite_egoiste.jpg
+Les émotions et la personnalité,honnête,honest,emotions_personnalite_honnete.jpg
+Les émotions et la personnalité,courageux,brave,emotions_personnalite_courageux.jpg
+Les émotions et la personnalité,sociable,sociable,emotions_personnalite_sociable.jpg
+Les émotions et la personnalité,sympathique,nice / friendly,emotions_personnalite_sympathique.jpg
+Les émotions et la personnalité,optimiste,optimistic,emotions_personnalite_optimiste.jpg
+Les émotions et la personnalité,pessimiste,pessimistic,emotions_personnalite_pessimiste.jpg
+Les émotions et la personnalité,sensible,sensitive,emotions_personnalite_sensible.jpg
+Les émotions et la personnalité,têtu,stubborn,emotions_personnalite_tetu.jpg
+Les émotions et la personnalité,poli,polite,emotions_personnalite_poli.jpg
+Les émotions et la personnalité,impoli,impolite,emotions_personnalite_impoli.jpg
+Les émotions et la personnalité,sage,well-behaved,emotions_personnalite_sage.jpg
+Les émotions et la personnalité,confiant,confident,emotions_personnalite_confiant.jpg
+Les émotions et la personnalité,le sourire,smile,emotions_personnalite_le_sourire.jpg
+Les émotions et la personnalité,le rire,laughter,emotions_personnalite_le_rire.jpg
+Les émotions et la personnalité,pleurer,to cry,emotions_personnalite_pleurer.jpg
+Les émotions et la personnalité,la peur,fear,emotions_personnalite_la_peur.jpg
+Les émotions et la personnalité,la joie,joy,emotions_personnalite_la_joie.jpg
+Les émotions et la personnalité,la colère,anger,emotions_personnalite_la_colere.jpg
+Les émotions et la personnalité,la tristesse,sadness,emotions_personnalite_la_tristesse.jpg
+Les émotions et la personnalité,l'amour,love,emotions_personnalite_l_amour.jpg
+Les émotions et la personnalité,l'amitié,friendship,emotions_personnalite_l_amitie.jpg
+Les émotions et la personnalité,l'espoir,hope,emotions_personnalite_l_espoir.jpg
+Les émotions et la personnalité,la confiance,confidence / trust,emotions_personnalite_la_confiance.jpg
+Les émotions et la personnalité,le stress,stress,emotions_personnalite_le_stress.jpg
+Les métiers,le médecin,doctor,metiers_le_medecin.jpg
+Les métiers,l'infirmier,nurse,metiers_l_infirmier.jpg
+Les métiers,le dentiste,dentist,metiers_le_dentiste.jpg
+Les métiers,l'avocat,lawyer,metiers_l_avocat.jpg
+Les métiers,le policier,police officer,metiers_le_policier.jpg
+Les métiers,le pompier,firefighter,metiers_le_pompier.jpg
+Les métiers,l'ingénieur,engineer,metiers_l_ingenieur.jpg
+Les métiers,l'architecte,architect,metiers_l_architecte.jpg
+Les métiers,le cuisinier,cook,metiers_le_cuisinier.jpg
+Les métiers,le boulanger,baker,metiers_le_boulanger.jpg
+Les métiers,le coiffeur,hairdresser,metiers_le_coiffeur.jpg
+Les métiers,le vendeur,salesperson,metiers_le_vendeur.jpg
+Les métiers,le caissier,cashier,metiers_le_caissier.jpg
+Les métiers,le mécanicien,mechanic,metiers_le_mecanicien.jpg
+Les métiers,l'agriculteur,farmer,metiers_l_agriculteur.jpg
+Les métiers,le pilote,pilot,metiers_le_pilote.jpg
+Les métiers,le chauffeur,driver (job),metiers_le_chauffeur.jpg
+Les métiers,le facteur,mail carrier,metiers_le_facteur.jpg
+Les métiers,le journaliste,journalist,metiers_le_journaliste.jpg
+Les métiers,l'écrivain,writer,metiers_l_ecrivain.jpg
+Les métiers,l'artiste,artist,metiers_l_artiste.jpg
+Les métiers,le musicien,musician,metiers_le_musicien.jpg
+Les métiers,le chanteur,singer,metiers_le_chanteur.jpg
+Les métiers,l'acteur,actor,metiers_l_acteur.jpg
+Les métiers,le réalisateur,film director,metiers_le_realisateur.jpg
+Les métiers,le photographe,photographer,metiers_le_photographe.jpg
+Les métiers,l'informaticien,IT specialist,metiers_l_informaticien.jpg
+Les métiers,le scientifique,scientist,metiers_le_scientifique.jpg
+Les métiers,le comptable,accountant,metiers_le_comptable.jpg
+Les métiers,l'employé,employee,metiers_l_employe.jpg
+Les métiers,le patron,boss,metiers_le_patron.jpg
+Les métiers,le secrétaire,secretary,metiers_le_secretaire.jpg
+Les métiers,le vétérinaire,veterinarian,metiers_le_veterinaire.jpg
+Les métiers,le pharmacien,pharmacist,metiers_le_pharmacien.jpg
+Les métiers,l'électricien,electrician,metiers_l_electricien.jpg
+Les métiers,le plombier,plumber,metiers_le_plombier.jpg
+Les achats et l'argent,l'argent,money,achats_argent_l_argent.jpg
+Les achats et l'argent,l'euro,euro,achats_argent_l_euro.jpg
+Les achats et l'argent,le centime,cent,achats_argent_le_centime.jpg
+Les achats et l'argent,le prix,price,achats_argent_le_prix.jpg
+Les achats et l'argent,cher,expensive,achats_argent_cher.jpg
+Les achats et l'argent,bon marché,cheap,achats_argent_bon_marche.jpg
+Les achats et l'argent,gratuit,free (no cost),achats_argent_gratuit.jpg
+Les achats et l'argent,la monnaie,change / currency,achats_argent_la_monnaie.jpg
+Les achats et l'argent,le portefeuille,wallet,achats_argent_le_portefeuille.jpg
+Les achats et l'argent,la carte bancaire,bank card,achats_argent_la_carte_bancaire.jpg
+Les achats et l'argent,la caisse,checkout,achats_argent_la_caisse.jpg
+Les achats et l'argent,le reçu,receipt,achats_argent_le_recu.jpg
+Les achats et l'argent,la réduction,discount,achats_argent_la_reduction.jpg
+Les achats et l'argent,les soldes,sales,achats_argent_les_soldes.jpg
+Les achats et l'argent,l'achat,purchase,achats_argent_l_achat.jpg
+Les achats et l'argent,le client,customer,achats_argent_le_client.jpg
+Les achats et l'argent,la boutique,shop / boutique,achats_argent_la_boutique.jpg
+Les achats et l'argent,la taille,size,achats_argent_la_taille.jpg
+Les achats et l'argent,essayer,to try on,achats_argent_essayer.jpg
+Les achats et l'argent,payer,to pay,achats_argent_payer.jpg
+Les achats et l'argent,coûter,to cost,achats_argent_couter.jpg
+Les achats et l'argent,dépenser,to spend (money),achats_argent_depenser.jpg
+Les achats et l'argent,économiser,to save (money),achats_argent_economiser.jpg
+Les achats et l'argent,le budget,budget,achats_argent_le_budget.jpg
+Les achats et l'argent,le cadeau,gift,achats_argent_le_cadeau.jpg
+Les achats et l'argent,le panier,basket,achats_argent_le_panier.jpg
+Les achats et l'argent,le chariot,shopping cart,achats_argent_le_chariot.jpg
+Les achats et l'argent,l'argent de poche,pocket money,achats_argent_l_argent_de_poche.jpg
+Adjectifs courants,grand,tall / big,adjectifs_grand.jpg
+Adjectifs courants,petit,small,adjectifs_petit.jpg
+Adjectifs courants,gros,big / fat,adjectifs_gros.jpg
+Adjectifs courants,mince,thin / slim,adjectifs_mince.jpg
+Adjectifs courants,long,long,adjectifs_long.jpg
+Adjectifs courants,court,short,adjectifs_court.jpg
+Adjectifs courants,large,wide,adjectifs_large.jpg
+Adjectifs courants,étroit,narrow,adjectifs_etroit.jpg
+Adjectifs courants,haut,high,adjectifs_haut.jpg
+Adjectifs courants,bas,low,adjectifs_bas.jpg
+Adjectifs courants,nouveau,new,adjectifs_nouveau.jpg
+Adjectifs courants,vieux,old,adjectifs_vieux.jpg
+Adjectifs courants,jeune,young,adjectifs_jeune.jpg
+Adjectifs courants,beau,beautiful,adjectifs_beau.jpg
+Adjectifs courants,laid,ugly,adjectifs_laid.jpg
+Adjectifs courants,joli,pretty,adjectifs_joli.jpg
+Adjectifs courants,propre,clean,adjectifs_propre.jpg
+Adjectifs courants,sale,dirty,adjectifs_sale.jpg
+Adjectifs courants,plein,full,adjectifs_plein.jpg
+Adjectifs courants,vide,empty,adjectifs_vide.jpg
+Adjectifs courants,facile,easy,adjectifs_facile.jpg
+Adjectifs courants,difficile,difficult,adjectifs_difficile.jpg
+Adjectifs courants,rapide,fast,adjectifs_rapide.jpg
+Adjectifs courants,lent,slow,adjectifs_lent.jpg
+Adjectifs courants,fort,strong,adjectifs_fort.jpg
+Adjectifs courants,faible,weak,adjectifs_faible.jpg
+Adjectifs courants,lourd,heavy,adjectifs_lourd.jpg
+Adjectifs courants,léger,light (weight),adjectifs_leger.jpg
+Adjectifs courants,dur,hard,adjectifs_dur.jpg
+Adjectifs courants,mou,soft,adjectifs_mou.jpg
+Adjectifs courants,bon,good,adjectifs_bon.jpg
+Adjectifs courants,mauvais,bad,adjectifs_mauvais.jpg
+Adjectifs courants,meilleur,better,adjectifs_meilleur.jpg
+Adjectifs courants,important,important,adjectifs_important.jpg
+Adjectifs courants,utile,useful,adjectifs_utile.jpg
+Adjectifs courants,dangereux,dangerous,adjectifs_dangereux.jpg
+Adjectifs courants,bruyant,noisy,adjectifs_bruyant.jpg
+Adjectifs courants,silencieux,silent,adjectifs_silencieux.jpg
+Adjectifs courants,ouvert,open,adjectifs_ouvert.jpg
+Adjectifs courants,fermé,closed,adjectifs_ferme.jpg
+Adjectifs courants,correct,correct,adjectifs_correct.jpg
+Adjectifs courants,faux,wrong / false,adjectifs_faux.jpg
+Adjectifs courants,vrai,true,adjectifs_vrai.jpg
+Adjectifs courants,simple,simple,adjectifs_simple.jpg
+Adjectifs courants,compliqué,complicated,adjectifs_complique.jpg
+Adjectifs courants,moderne,modern,adjectifs_moderne.jpg
+Adjectifs courants,ancien,old / former,adjectifs_ancien.jpg
+Adjectifs courants,différent,different,
+Adjectifs courants,pareil,same / similar,
+Adjectifs courants,principal,main,
+Adjectifs courants,normal,normal,adjectifs_normal.jpg
+Adjectifs courants,bizarre,weird,adjectifs_bizarre.jpg
+Adverbes et connecteurs,très,very,
+Adverbes et connecteurs,trop,too much,
+Adverbes et connecteurs,beaucoup,a lot,
+Adverbes et connecteurs,peu,little / few,adverbes_connecteurs_peu.jpg
+Adverbes et connecteurs,assez,enough / rather,
+Adverbes et connecteurs,presque,almost,
+Adverbes et connecteurs,encore,again / still,adverbes_connecteurs_encore.jpg
+Adverbes et connecteurs,déjà,already,
+Adverbes et connecteurs,rarement,rarely,
+Adverbes et connecteurs,ici,here,adverbes_connecteurs_ici.jpg
+Adverbes et connecteurs,là,there,
+Adverbes et connecteurs,là-bas,over there,
+Adverbes et connecteurs,partout,everywhere,
+Adverbes et connecteurs,ensemble,together,adverbes_connecteurs_ensemble.jpg
+Adverbes et connecteurs,seul,alone,
+Adverbes et connecteurs,aussi,also / too,
+Adverbes et connecteurs,mais,but,
+Adverbes et connecteurs,donc,so / therefore,
+Adverbes et connecteurs,alors,so / then,
+Adverbes et connecteurs,parce que,because,
+Adverbes et connecteurs,pourquoi,why,
+Adverbes et connecteurs,comment,how,
+Adverbes et connecteurs,quand,when,
+Adverbes et connecteurs,où,where,
+Adverbes et connecteurs,combien,how much / many,
+Ados et vie sociale,l'ami,friend,ados_vie_sociale_l_ami.jpg
+Ados et vie sociale,le copain,friend / boyfriend,ados_vie_sociale_le_copain.jpg
+Ados et vie sociale,le meilleur ami,best friend,ados_vie_sociale_le_meilleur_ami.jpg
+Ados et vie sociale,la fête,party,ados_vie_sociale_la_fete.jpg
+Ados et vie sociale,la soirée,evening party,ados_vie_sociale_la_soiree.jpg
+Ados et vie sociale,la sortie,outing,ados_vie_sociale_la_sortie.jpg
+Ados et vie sociale,le rendez-vous,appointment / date,ados_vie_sociale_le_rendezvous.jpg
+Ados et vie sociale,l'influenceur,influencer,ados_vie_sociale_l_influenceur.jpg
+Ados et vie sociale,la tendance,trend,ados_vie_sociale_la_tendance.jpg
+Ados et vie sociale,la mode,fashion,ados_vie_sociale_la_mode.jpg
+Ados et vie sociale,le look,look / style,ados_vie_sociale_le_look.jpg
+Ados et vie sociale,l'indépendance,independence,ados_vie_sociale_l_independance.jpg
+Ados et vie sociale,l'avenir,future,ados_vie_sociale_l_avenir.jpg
+Ados et vie sociale,le projet,project / plan,ados_vie_sociale_le_projet.jpg
+Ados et vie sociale,le rêve,dream,ados_vie_sociale_le_reve.jpg
+Ados et vie sociale,l'objectif,goal,ados_vie_sociale_l_objectif.jpg
+Ados et vie sociale,la motivation,motivation,ados_vie_sociale_la_motivation.jpg
+Ados et vie sociale,la réussite,success,ados_vie_sociale_la_reussite.jpg
+Ados et vie sociale,l'échec,failure,ados_vie_sociale_l_echec.jpg
+Ados et vie sociale,le choix,choice,ados_vie_sociale_le_choix.jpg
+Ados et vie sociale,la décision,decision,ados_vie_sociale_la_decision.jpg
+Ados et vie sociale,la responsabilité,responsibility,ados_vie_sociale_la_responsabilite.jpg
+Salutations et expressions courantes,bonjour,hello / good morning,salutations_bonjour.jpg
+Salutations et expressions courantes,bonsoir,good evening,salutations_bonsoir.jpg
+Salutations et expressions courantes,salut,hi / bye (informal),salutations_salut.jpg
+Salutations et expressions courantes,au revoir,goodbye,salutations_au_revoir.jpg
+Salutations et expressions courantes,à bientôt,see you soon,salutations_a_bientot.jpg
+Salutations et expressions courantes,à demain,see you tomorrow,salutations_a_demain.jpg
+Salutations et expressions courantes,s'il vous plaît,please (formal),salutations_s_il_vous_plait.jpg
+Salutations et expressions courantes,s'il te plaît,please (informal),salutations_s_il_te_plait.jpg
+Salutations et expressions courantes,merci,thank you,salutations_merci.jpg
+Salutations et expressions courantes,de rien,you're welcome,salutations_de_rien.jpg
+Salutations et expressions courantes,pardon,sorry / excuse me,salutations_pardon.jpg
+Salutations et expressions courantes,excusez-moi,excuse me (formal),salutations_excusezmoi.jpg
+Salutations et expressions courantes,bienvenue,welcome,salutations_bienvenue.jpg
+Salutations et expressions courantes,félicitations,congratulations,salutations_felicitations.jpg
+Salutations et expressions courantes,bon anniversaire,happy birthday,salutations_bon_anniversaire.jpg
+Salutations et expressions courantes,bonne chance,good luck,salutations_bonne_chance.jpg
+Salutations et expressions courantes,bon appétit,enjoy your meal,salutations_bon_appetit.jpg
+Salutations et expressions courantes,enchanté,nice to meet you,salutations_enchante.jpg
+Vacances et bord de mer,la valise,suitcase,vacances_mer_la_valise.jpg
+Vacances et bord de mer,le passeport,passport,vacances_mer_le_passeport.jpg
+Vacances et bord de mer,la crème solaire,sunscreen,vacances_mer_la_creme_solaire.jpg
+Vacances et bord de mer,les lunettes de soleil,sunglasses,vacances_mer_les_lunettes_de_soleil.jpg
+Vacances et bord de mer,le parasol,beach umbrella,vacances_mer_le_parasol.jpg
+Vacances et bord de mer,la vague,wave,vacances_mer_la_vague.jpg
+Vacances et bord de mer,le coquillage,seashell,vacances_mer_le_coquillage.jpg
+Vacances et bord de mer,la croisière,cruise,vacances_mer_la_croisiere.jpg
+Vacances et bord de mer,bronzer,to tan,vacances_mer_bronzer.jpg
+Vacances et bord de mer,se baigner,to swim / bathe,vacances_mer_se_baigner.jpg
+Vacances et bord de mer,le port,harbor / port,vacances_mer_le_port.jpg
+Le marché et les commerçants,le boucher,butcher (person),marche_commercants_le_boucher.jpg
+Le marché et les commerçants,le poissonnier,fishmonger,marche_commercants_le_poissonnier.jpg
+Le marché et les commerçants,le fleuriste,florist,marche_commercants_le_fleuriste.jpg
+Le marché et les commerçants,le primeur,greengrocer,marche_commercants_le_primeur.jpg
+Le marché et les commerçants,le marchand,merchant / seller,marche_commercants_le_marchand.jpg
+Le marché et les commerçants,un kilo de,a kilo of,marche_commercants_un_kilo_de.jpg
+Le marché et les commerçants,l'étal,market stall,marche_commercants_l_etal.jpg
+Les jeux,le jeu de société,board game,jeux_le_jeu_de_societe.jpg
+Les jeux,les dés,dice,jeux_les_des.jpg
+Les jeux,le puzzle,puzzle,jeux_le_puzzle.jpg
+Les jeux,la devinette,riddle,jeux_la_devinette.jpg
+Les jeux,le pion,game piece / pawn,jeux_le_pion.jpg
+Les jeux,le plateau de jeu,game board,jeux_le_plateau_de_jeu.jpg
+Les jeux,la piñata,piñata,jeux_la_pinata.jpg
+États physiques et santé,malade,sick,sante_physique_malade.jpg
+États physiques et santé,en bonne santé,healthy,sante_physique_en_bonne_sante.jpg
+États physiques et santé,en forme,fit / well,sante_physique_en_forme.jpg
+États physiques et santé,guéri,healed / recovered,sante_physique_gueri.jpg
+États physiques et santé,blessé,injured,sante_physique_blesse.jpg
+États physiques et santé,la fièvre,fever,sante_physique_la_fievre.jpg
+États physiques et santé,le rhume,cold (illness),sante_physique_le_rhume.jpg
+États physiques et santé,la maladie,illness,sante_physique_la_maladie.jpg
+États physiques et santé,la grippe,flu,sante_physique_la_grippe.jpg
+États physiques et santé,tousser,to cough,sante_physique_tousser.jpg
+États physiques et santé,éternuer,to sneeze,sante_physique_eternuer.jpg
+États physiques et santé,avoir mal,to hurt / be in pain,sante_physique_avoir_mal.jpg

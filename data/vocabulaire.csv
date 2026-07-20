@@ -1,0 +1,898 @@
+﻿Francais,Japonais,Niveau,Categorie,Image_a_chercher
+le père,父（ちち）,A1,La famille,father
+la mère,母（はは）,A1,La famille,mother
+le frère,兄弟（きょうだい）,A1,La famille,brother
+la sœur,姉妹（しまい）,A1,La famille,sister
+le grand-père,祖父（そふ）,A1,La famille,grandfather
+la grand-mère,祖母（そぼ）,A1,La famille,grandmother
+l'oncle,おじ,A1,La famille,uncle
+la tante,おば,A1,La famille,aunt
+le cousin,いとこ（男）,A1,La famille,cousin
+la cousine,いとこ（女）,A1,La famille,cousin
+le fils,息子（むすこ）,A1,La famille,son
+la fille,娘（むすめ）,A1,La famille,daughter
+le mari,夫（おっと）,A2,La famille,husband
+la femme,妻（つま）,A2,La famille,wife
+les parents,両親（りょうしん）,A1,La famille,parents
+l'enfant,子供（こども）,A1,La famille,child
+le bébé,赤ちゃん（あかちゃん）,A1,La famille,baby
+le neveu,甥（おい）,A2,La famille,nephew
+la nièce,姪（めい）,A2,La famille,niece
+la famille,家族（かぞく）,A1,La famille,family
+le beau-père,義父（ぎふ）,A2,La famille,stepfather
+la belle-mère,義母（ぎぼ）,A2,La famille,stepmother
+les jumeaux,双子（ふたご）,A2,La famille,twins
+la tête,頭（あたま）,A1,Le corps,head
+les cheveux,髪（かみ）,A1,Le corps,hair
+le visage,顔（かお）,A1,Le corps,face
+l'œil / les yeux,目（め）,A1,Le corps,eye
+le nez,鼻（はな）,A1,Le corps,nose
+la bouche,口（くち）,A1,Le corps,mouth
+la dent,歯（は）,A1,Le corps,tooth
+l'oreille,耳（みみ）,A1,Le corps,ear
+le cou,首（くび）,A1,Le corps,neck
+l'épaule,肩（かた）,A2,Le corps,shoulder
+le bras,腕（うで）,A1,Le corps,arm
+la main,手（て）,A1,Le corps,hand
+le doigt,指（ゆび）,A1,Le corps,finger
+la jambe,脚（あし）,A1,Le corps,leg
+le pied,足（あし）,A1,Le corps,foot
+le genou,膝（ひざ）,A2,Le corps,knee
+le dos,背中（せなか）,A2,Le corps,back
+le ventre,お腹（おなか）,A2,Le corps,stomach
+le cœur,心臓（しんぞう）,A2,Le corps,heart
+la peau,肌（はだ）,A2,Le corps,skin
+le sourcil,眉（まゆ）,A2,Le corps,eyebrow
+le menton,あご,A2,Le corps,chin
+la poitrine,胸（むね）,A2,Le corps,chest
+l'ongle,爪（つめ）,A2,Le corps,nail
+le coude,肘（ひじ）,A2,Le corps,elbow
+le pantalon,ズボン,A1,Les vêtements,trousers
+le jean,ジーンズ,A1,Les vêtements,jeans
+la robe,ワンピース,A1,Les vêtements,dress
+la jupe,スカート,A1,Les vêtements,skirt
+la chemise,シャツ,A1,Les vêtements,shirt
+le tee-shirt,Tシャツ,A1,Les vêtements,t-shirt
+le pull,セーター,A1,Les vêtements,sweater
+la veste,ジャケット,A1,Les vêtements,jacket
+le manteau,コート,A1,Les vêtements,coat
+les chaussures,靴（くつ）,A1,Les vêtements,shoes
+les baskets,スニーカー,A1,Les vêtements,sneakers
+les chaussettes,靴下（くつした）,A1,Les vêtements,socks
+les sous-vêtements,下着（したぎ）,A2,Les vêtements,underwear
+la casquette,キャップ,A1,Les vêtements,cap
+le chapeau,帽子（ぼうし）,A1,Les vêtements,hat
+l'écharpe,マフラー,A2,Les vêtements,scarf
+les gants,手袋（てぶくろ）,A2,Les vêtements,gloves
+la ceinture,ベルト,A2,Les vêtements,belt
+le short,ショートパンツ,A1,Les vêtements,shorts
+le maillot de bain,水着（みずぎ）,A2,Les vêtements,swimsuit
+le pyjama,パジャマ,A1,Les vêtements,pajamas
+les lunettes,眼鏡（めがね）,A1,Les vêtements,glasses
+le sac à dos,リュックサック,A1,Les vêtements,backpack
+le bijou,宝石（ほうせき）,A2,Les vêtements,jewel
+la montre,腕時計（うでどけい）,A1,Les vêtements,watch
+la capuche,フード,A2,Les vêtements,hood
+le pain,パン,A1,La nourriture et les boissons,bread
+le beurre,バター,A1,La nourriture et les boissons,butter
+la confiture,ジャム,A1,La nourriture et les boissons,jam
+le fromage,チーズ,A1,La nourriture et les boissons,cheese
+le lait,牛乳（ぎゅうにゅう）,A1,La nourriture et les boissons,milk
+l'œuf,卵（たまご）,A1,La nourriture et les boissons,egg
+le jambon,ハム,A1,La nourriture et les boissons,ham
+le poulet,鶏肉（とりにく）,A1,La nourriture et les boissons,chicken
+la viande,肉（にく）,A1,La nourriture et les boissons,meat
+le poisson,魚（さかな）,A1,La nourriture et les boissons,fish
+le riz,米（こめ）／ご飯,A1,La nourriture et les boissons,rice
+les pâtes,パスタ,A1,La nourriture et les boissons,pasta
+la pomme de terre,じゃがいも,A1,La nourriture et les boissons,potato
+les frites,フライドポテト,A1,La nourriture et les boissons,fries
+la salade,サラダ,A1,La nourriture et les boissons,salad
+la tomate,トマト,A1,La nourriture et les boissons,tomato
+la carotte,にんじん,A1,La nourriture et les boissons,carrot
+l'oignon,たまねぎ,A1,La nourriture et les boissons,onion
+l'ail,にんにく,A2,La nourriture et les boissons,garlic
+le haricot vert,いんげん豆（まめ）,A2,La nourriture et les boissons,green bean
+le petit pois,グリーンピース,A2,La nourriture et les boissons,pea
+la pomme,りんご,A1,La nourriture et les boissons,apple
+la banane,バナナ,A1,La nourriture et les boissons,banana
+l'orange,オレンジ,A1,La nourriture et les boissons,orange
+la fraise,いちご,A1,La nourriture et les boissons,strawberry
+le raisin,ぶどう,A1,La nourriture et les boissons,grape
+la poire,梨（なし）,A2,La nourriture et les boissons,pear
+la pêche,桃（もも）,A2,La nourriture et les boissons,peach
+le citron,レモン,A1,La nourriture et les boissons,lemon
+l'ananas,パイナップル,A2,La nourriture et les boissons,pineapple
+le melon,メロン,A2,La nourriture et les boissons,melon
+la pastèque,スイカ,A2,La nourriture et les boissons,watermelon
+la cerise,さくらんぼ,A2,La nourriture et les boissons,cherry
+le chocolat,チョコレート,A1,La nourriture et les boissons,chocolate
+le gâteau,ケーキ,A1,La nourriture et les boissons,cake
+le biscuit,クッキー,A1,La nourriture et les boissons,biscuit
+le bonbon,飴（あめ）,A1,La nourriture et les boissons,candy
+la glace,アイスクリーム,A1,La nourriture et les boissons,ice cream
+la crêpe,クレープ,A1,La nourriture et les boissons,crepe
+le croissant,クロワッサン,A1,La nourriture et les boissons,croissant
+la baguette,バゲット,A1,La nourriture et les boissons,baguette
+le sucre,砂糖（さとう）,A1,La nourriture et les boissons,sugar
+le sel,塩（しお）,A1,La nourriture et les boissons,salt
+le poivre,こしょう,A1,La nourriture et les boissons,pepper
+l'huile,油（あぶら）,A2,La nourriture et les boissons,oil
+le vinaigre,酢（す）,A2,La nourriture et les boissons,vinegar
+la sauce,ソース,A1,La nourriture et les boissons,sauce
+la soupe,スープ,A1,La nourriture et les boissons,soup
+le sandwich,サンドイッチ,A1,La nourriture et les boissons,sandwich
+la pizza,ピザ,A1,La nourriture et les boissons,pizza
+le hamburger,ハンバーガー,A1,La nourriture et les boissons,hamburger
+le yaourt,ヨーグルト,A1,La nourriture et les boissons,yogurt
+les céréales,シリアル,A1,La nourriture et les boissons,cereal
+le miel,はちみつ,A2,La nourriture et les boissons,honey
+la farine,小麦粉（こむぎこ）,A2,La nourriture et les boissons,flour
+l'eau,水（みず）,A1,La nourriture et les boissons,water
+le jus de fruit,フルーツジュース,A1,La nourriture et les boissons,fruit juice
+le soda,ソーダ,A1,La nourriture et les boissons,soda
+le café,コーヒー,A1,La nourriture et les boissons,coffee
+le thé,お茶（おちゃ）,A1,La nourriture et les boissons,tea
+le chocolat chaud,ホットチョコレート,A1,La nourriture et les boissons,hot chocolate
+le vin,ワイン,A2,La nourriture et les boissons,wine
+la bière,ビール,A2,La nourriture et les boissons,beer
+le petit-déjeuner,朝食（ちょうしょく）,A1,La nourriture et les boissons,breakfast
+le déjeuner,昼食（ちゅうしょく）,A1,La nourriture et les boissons,lunch
+le dîner,夕食（ゆうしょく）,A1,La nourriture et les boissons,dinner
+le goûter,おやつ,A1,La nourriture et les boissons,afternoon snack
+le repas,食事（しょくじ）,A1,La nourriture et les boissons,meal
+l'assiette,皿（さら）,A1,La nourriture et les boissons,plate
+le verre,コップ,A1,La nourriture et les boissons,glass
+la tasse,カップ,A1,La nourriture et les boissons,cup
+le couteau,ナイフ,A1,La nourriture et les boissons,knife
+la fourchette,フォーク,A1,La nourriture et les boissons,fork
+la cuillère,スプーン,A1,La nourriture et les boissons,spoon
+la serviette,ナプキン／タオル,A1,La nourriture et les boissons,napkin
+la nappe,テーブルクロス,A2,La nourriture et les boissons,tablecloth
+le restaurant,レストラン,A1,La nourriture et les boissons,restaurant
+la cantine,給食室（きゅうしょくしつ）,A1,La nourriture et les boissons,school canteen
+la cuisine,台所（だいどころ）／料理,A1,La nourriture et les boissons,kitchen
+la recette,レシピ,A2,La nourriture et les boissons,recipe
+l'épicerie,食料品店（しょくりょうひんてん）,A2,La nourriture et les boissons,grocery store
+le supermarché,スーパー,A1,La nourriture et les boissons,supermarket
+la boulangerie,パン屋（や）,A1,La nourriture et les boissons,bakery
+la boucherie,肉屋（にくや）,A2,La nourriture et les boissons,butcher shop
+le dessert,デザート,A1,La nourriture et les boissons,dessert
+l'entrée,前菜（ぜんさい）,A2,La nourriture et les boissons,starter
+le plat principal,メイン料理,A2,La nourriture et les boissons,main course
+le menu,メニュー,A1,La nourriture et les boissons,menu
+l'addition,お会計（おかいけい）,A2,La nourriture et les boissons,bill
+le pourboire,チップ,A2,La nourriture et les boissons,tip
+la faim,空腹（くうふく）,A1,La nourriture et les boissons,hunger
+la soif,喉の渇き（のどのかわき）,A1,La nourriture et les boissons,thirst
+sucré,甘い（あまい）,A1,La nourriture et les boissons,sweet
+salé,しょっぱい,A1,La nourriture et les boissons,salty
+épicé,辛い（からい）,A2,La nourriture et les boissons,spicy
+amer,苦い（にがい）,A2,La nourriture et les boissons,bitter
+délicieux,美味しい（おいしい）,A1,La nourriture et les boissons,delicious
+cuit,火が通った,A2,La nourriture et les boissons,cooked
+cru,生（なま）の,A2,La nourriture et les boissons,raw
+la maison,家（いえ）,A1,La maison,house
+l'appartement,アパート,A1,La maison,apartment
+la chambre,寝室（しんしつ）,A1,La maison,bedroom
+le salon,リビング,A1,La maison,living room
+la salle de bain,浴室（よくしつ）,A1,La maison,bathroom
+les toilettes,トイレ,A1,La maison,toilet
+le garage,車庫（しゃこ）,A1,La maison,garage
+le jardin,庭（にわ）,A1,La maison,garden
+le balcon,バルコニー,A2,La maison,balcony
+l'escalier,階段（かいだん）,A1,La maison,stairs
+la porte,ドア,A1,La maison,door
+la fenêtre,窓（まど）,A1,La maison,window
+le mur,壁（かべ）,A1,La maison,wall
+le toit,屋根（やね）,A2,La maison,roof
+le sol,床（ゆか）,A2,La maison,floor
+le plafond,天井（てんじょう）,A2,La maison,ceiling
+le lit,ベッド,A1,La maison,bed
+l'oreiller,枕（まくら）,A1,La maison,pillow
+la couverture,毛布（もうふ）,A1,La maison,blanket
+le drap,シーツ,A2,La maison,bedsheet
+l'armoire,クローゼット,A2,La maison,wardrobe
+la commode,たんす,A2,La maison,chest of drawers
+le bureau,机（つくえ）,A1,La maison,desk
+la chaise,椅子（いす）,A1,La maison,chair
+la table,テーブル,A1,La maison,table
+le canapé,ソファー,A1,La maison,sofa
+le fauteuil,肘掛け椅子（ひじかけいす）,A2,La maison,armchair
+l'étagère,棚（たな）,A2,La maison,shelf
+la lampe,ランプ,A1,La maison,lamp
+le miroir,鏡（かがみ）,A2,La maison,mirror
+le tapis,じゅうたん,A2,La maison,rug
+le rideau,カーテン,A2,La maison,curtain
+la télévision,テレビ,A1,La maison,television
+le réfrigérateur,冷蔵庫（れいぞうこ）,A1,La maison,fridge
+le four,オーブン,A2,La maison,oven
+le micro-ondes,電子レンジ（でんしレンジ）,A2,La maison,microwave
+le lave-linge,洗濯機（せんたくき）,A2,La maison,washing machine
+le lave-vaisselle,食洗機（しょくせんき）,A2,La maison,dishwasher
+l'évier,流し台（ながしだい）,A2,La maison,kitchen sink
+la douche,シャワー,A1,La maison,shower
+la baignoire,浴槽（よくそう）,A2,La maison,bathtub
+le robinet,蛇口（じゃぐち）,A2,La maison,tap
+la clé,鍵（かぎ）,A1,La maison,key
+la serrure,錠（じょう）,A2,La maison,lock
+la poubelle,ゴミ箱（ゴミばこ）,A1,La maison,trash can
+le balai,ほうき,A2,La maison,broom
+l'aspirateur,掃除機（そうじき）,A2,La maison,vacuum cleaner
+la plante,植物（しょくぶつ）,A1,La maison,plant
+l'école,学校（がっこう）,A1,L'école,school
+le collège,中学校（ちゅうがっこう）,A1,L'école,middle school
+le lycée,高校（こうこう）,A1,L'école,high school
+la salle de classe,教室（きょうしつ）,A1,L'école,classroom
+le professeur,先生（せんせい）,A1,L'école,teacher
+l'élève,生徒（せいと）,A1,L'école,student
+le camarade,クラスメート,A1,L'école,classmate
+le directeur,校長（こうちょう）,A2,L'école,principal
+le cours,授業（じゅぎょう）,A1,L'école,class
+les devoirs,宿題（しゅくだい）,A1,L'école,homework
+l'examen,試験（しけん）,A1,L'école,exam
+la note,成績（せいせき）,A1,L'école,grade
+le cahier,ノート,A1,L'école,notebook
+le livre,本（ほん）,A1,L'école,book
+le stylo,ペン,A1,L'école,pen
+le crayon,鉛筆（えんぴつ）,A1,L'école,pencil
+la gomme,消しゴム（けしゴム）,A1,L'école,eraser
+la règle,定規（じょうぎ）,A1,L'école,ruler
+les ciseaux,はさみ,A1,L'école,scissors
+la colle,のり,A1,L'école,glue
+la trousse,筆箱（ふでばこ）,A1,L'école,pencil case
+le sac,かばん,A1,L'école,bag
+le tableau,黒板（こくばん）,A1,L'école,board
+la craie,チョーク,A2,L'école,chalk
+l'ordinateur,パソコン,A1,L'école,computer
+la calculatrice,電卓（でんたく）,A1,L'école,calculator
+le dictionnaire,辞書（じしょ）,A1,L'école,dictionary
+l'emploi du temps,時間割（じかんわり）,A2,L'école,timetable
+la récréation,休み時間（やすみじかん）,A1,L'école,recess
+la bibliothèque,図書館（としょかん）,A1,L'école,library
+le gymnase,体育館（たいいくかん）,A2,L'école,gym
+la cour,校庭（こうてい）,A2,L'école,schoolyard
+les mathématiques,数学（すうがく）,A1,L'école,math
+le français,フランス語（フランスご）,A1,L'école,French
+l'histoire,歴史（れきし）,A1,L'école,history
+la géographie,地理（ちり）,A1,L'école,geography
+les sciences,理科（りか）,A1,L'école,science
+l'anglais,英語（えいご）,A1,L'école,English
+l'espagnol,スペイン語（スペインご）,A2,L'école,Spanish
+la musique,音楽（おんがく）,A1,L'école,music
+les arts plastiques,美術（びじゅつ）,A1,L'école,art
+le sport,体育（たいいく）,A1,L'école,sport
+la physique,物理（ぶつり）,A2,L'école,physics
+la chimie,化学（かがく）,A2,L'école,chemistry
+la biologie,生物（せいぶつ）,A2,L'école,biology
+la technologie,技術（ぎじゅつ）,A2,L'école,technology
+l'informatique,情報科学（じょうほうかがく）,A2,L'école,computer science
+la question,質問（しつもん）,A1,L'école,question
+la réponse,答え（こたえ）,A1,L'école,answer
+la leçon,レッスン,A1,L'école,lesson
+le chapitre,章（しょう）,A2,L'école,chapter
+la page,ページ,A1,L'école,page
+la phrase,文（ぶん）,A1,L'école,sentence
+le mot,単語（たんご）,A1,L'école,word
+la lettre,文字（もじ）,A1,L'école,letter
+l'exercice,練習問題（れんしゅうもんだい）,A1,L'école,exercise
+le contrôle,小テスト（しょうテスト）,A1,L'école,test
+le brevet,中学卒業資格（ちゅうがくそつぎょうしかく）,A2,L'école,middle school diploma
+le baccalauréat,バカロレア,A2,L'école,high school diploma
+la rentrée,新学期（しんがっき）,A2,L'école,back to school
+zéro,ゼロ／零,A1,Les nombres,zero
+un,一（いち）,A1,Les nombres,one
+deux,二（に）,A1,Les nombres,two
+trois,三（さん）,A1,Les nombres,three
+quatre,四（よん）,A1,Les nombres,four
+cinq,五（ご）,A1,Les nombres,five
+six,六（ろく）,A1,Les nombres,six
+sept,七（なな）,A1,Les nombres,seven
+huit,八（はち）,A1,Les nombres,eight
+neuf,九（きゅう）,A1,Les nombres,nine
+dix,十（じゅう）,A1,Les nombres,ten
+onze,十一（じゅういち）,A1,Les nombres,eleven
+douze,十二（じゅうに）,A1,Les nombres,twelve
+treize,十三（じゅうさん）,A1,Les nombres,thirteen
+quatorze,十四（じゅうよん）,A1,Les nombres,fourteen
+quinze,十五（じゅうご）,A1,Les nombres,fifteen
+seize,十六（じゅうろく）,A1,Les nombres,sixteen
+dix-sept,十七（じゅうなな）,A1,Les nombres,seventeen
+dix-huit,十八（じゅうはち）,A1,Les nombres,eighteen
+dix-neuf,十九（じゅうきゅう）,A1,Les nombres,nineteen
+vingt,二十（にじゅう）,A1,Les nombres,twenty
+trente,三十（さんじゅう）,A1,Les nombres,thirty
+quarante,四十（よんじゅう）,A1,Les nombres,forty
+cinquante,五十（ごじゅう）,A1,Les nombres,fifty
+soixante,六十（ろくじゅう）,A1,Les nombres,sixty
+soixante-dix,七十（ななじゅう）,A2,Les nombres,seventy
+quatre-vingts,八十（はちじゅう）,A2,Les nombres,eighty
+quatre-vingt-dix,九十（きゅうじゅう）,A2,Les nombres,ninety
+cent,百（ひゃく）,A1,Les nombres,one hundred
+mille,千（せん）,A2,Les nombres,one thousand
+premier,一番目（いちばんめ）,A1,Les nombres,first
+deuxième,二番目（にばんめ）,A1,Les nombres,second
+troisième,三番目（さんばんめ）,A1,Les nombres,third
+dernier,最後（さいご）,A2,Les nombres,last
+la moitié,半分（はんぶん）,A2,Les nombres,half
+le tiers,三分の一（さんぶんのいち）,A2,Les nombres,third
+le quart,四分の一（よんぶんのいち）,A2,Les nombres,quarter
+le nombre,数（かず）,A1,Les nombres,number
+le chiffre,数字（すうじ）,A2,Les nombres,digit
+la paire,一組（ひとくみ）,A2,Les nombres,pair
+lundi,月曜日（げつようび）,A1,Le temps et le calendrier,Monday
+mardi,火曜日（かようび）,A1,Le temps et le calendrier,Tuesday
+mercredi,水曜日（すいようび）,A1,Le temps et le calendrier,Wednesday
+jeudi,木曜日（もくようび）,A1,Le temps et le calendrier,Thursday
+vendredi,金曜日（きんようび）,A1,Le temps et le calendrier,Friday
+samedi,土曜日（どようび）,A1,Le temps et le calendrier,Saturday
+dimanche,日曜日（にちようび）,A1,Le temps et le calendrier,Sunday
+janvier,一月（いちがつ）,A1,Le temps et le calendrier,January
+février,二月（にがつ）,A1,Le temps et le calendrier,February
+mars,三月（さんがつ）,A1,Le temps et le calendrier,March
+avril,四月（しがつ）,A1,Le temps et le calendrier,April
+mai,五月（ごがつ）,A1,Le temps et le calendrier,May
+juin,六月（ろくがつ）,A1,Le temps et le calendrier,June
+juillet,七月（しちがつ）,A1,Le temps et le calendrier,July
+août,八月（はちがつ）,A1,Le temps et le calendrier,August
+septembre,九月（くがつ）,A1,Le temps et le calendrier,September
+octobre,十月（じゅうがつ）,A1,Le temps et le calendrier,October
+novembre,十一月（じゅういちがつ）,A1,Le temps et le calendrier,November
+décembre,十二月（じゅうにがつ）,A1,Le temps et le calendrier,December
+le printemps,春（はる）,A1,Le temps et le calendrier,spring
+l'été,夏（なつ）,A1,Le temps et le calendrier,summer
+l'automne,秋（あき）,A1,Le temps et le calendrier,autumn
+l'hiver,冬（ふゆ）,A1,Le temps et le calendrier,winter
+le jour,日（ひ）,A1,Le temps et le calendrier,day
+la semaine,週（しゅう）,A1,Le temps et le calendrier,week
+le mois,月（つき）,A1,Le temps et le calendrier,month
+l'année,年（ねん）,A1,Le temps et le calendrier,year
+l'heure,時間（じかん）,A1,Le temps et le calendrier,hour
+la minute,分（ふん）,A1,Le temps et le calendrier,minute
+la seconde,秒（びょう）,A1,Le temps et le calendrier,second
+le matin,朝（あさ）,A1,Le temps et le calendrier,morning
+l'après-midi,午後（ごご）,A1,Le temps et le calendrier,afternoon
+le soir,夜（よる）,A1,Le temps et le calendrier,evening
+la nuit,夜中（よなか）,A1,Le temps et le calendrier,night
+aujourd'hui,今日（きょう）,A1,Le temps et le calendrier,today
+demain,明日（あした）,A1,Le temps et le calendrier,tomorrow
+hier,昨日（きのう）,A1,Le temps et le calendrier,yesterday
+maintenant,今（いま）,A1,Le temps et le calendrier,now
+bientôt,すぐに,A1,Le temps et le calendrier,soon
+tard,遅く（おそく）,A1,Le temps et le calendrier,late
+tôt,早く（はやく）,A1,Le temps et le calendrier,early
+toujours,いつも,A1,Le temps et le calendrier,always
+jamais,決して〜ない,A1,Le temps et le calendrier,never
+souvent,よく,A1,Le temps et le calendrier,often
+parfois,時々（ときどき）,A1,Le temps et le calendrier,sometimes
+le calendrier,カレンダー,A2,Le temps et le calendrier,calendar
+la date,日付（ひづけ）,A1,Le temps et le calendrier,date
+l'anniversaire,誕生日（たんじょうび）,A1,Le temps et le calendrier,birthday
+les vacances,休暇（きゅうか）,A1,Le temps et le calendrier,vacation
+le week-end,週末（しゅうまつ）,A1,Le temps et le calendrier,weekend
+rouge,赤（あか）,A1,Les couleurs et les formes,red
+bleu,青（あお）,A1,Les couleurs et les formes,blue
+vert,緑（みどり）,A1,Les couleurs et les formes,green
+jaune,黄色（きいろ）,A1,Les couleurs et les formes,yellow
+orange,オレンジ色（オレンジいろ）,A1,Les couleurs et les formes,orange
+violet,紫（むらさき）,A1,Les couleurs et les formes,purple
+rose,ピンク,A1,Les couleurs et les formes,pink
+noir,黒（くろ）,A1,Les couleurs et les formes,black
+blanc,白（しろ）,A1,Les couleurs et les formes,white
+gris,灰色（はいいろ）,A1,Les couleurs et les formes,grey
+marron,茶色（ちゃいろ）,A1,Les couleurs et les formes,brown
+le cercle,円（えん）,A1,Les couleurs et les formes,circle
+le carré,四角（しかく）,A1,Les couleurs et les formes,square
+le triangle,三角形（さんかくけい）,A1,Les couleurs et les formes,triangle
+le rectangle,長方形（ちょうほうけい）,A1,Les couleurs et les formes,rectangle
+le losange,ひし形（ひしがた）,A2,Les couleurs et les formes,diamond shape
+l'étoile,星（ほし）,A1,Les couleurs et les formes,star
+la ligne,線（せん）,A2,Les couleurs et les formes,line
+l'ovale,楕円（だえん）,A2,Les couleurs et les formes,oval
+le soleil,太陽（たいよう）,A1,La météo,sun
+la pluie,雨（あめ）,A1,La météo,rain
+le nuage,雲（くも）,A1,La météo,cloud
+le vent,風（かぜ）,A1,La météo,wind
+la neige,雪（ゆき）,A1,La météo,snow
+l'orage,嵐（あらし）,A2,La météo,storm
+le brouillard,霧（きり）,A2,La météo,fog
+l'arc-en-ciel,虹（にじ）,A2,La météo,rainbow
+chaud,暑い（あつい）,A1,La météo,hot
+froid,寒い（さむい）,A1,La météo,cold
+doux,穏やか（おだやか）,A2,La météo,mild
+humide,湿った（しめった）,A2,La météo,humid
+sec,乾いた（かわいた）,A2,La météo,dry
+la tempête,暴風雨（ぼうふうう）,A2,La météo,storm
+l'éclair,稲妻（いなずま）,A2,La météo,lightning
+le tonnerre,雷（かみなり）,A2,La météo,thunder
+le ciel,空（そら）,A1,La météo,sky
+la température,気温（きおん）,A2,La météo,temperature
+le gel,霜（しも）,A2,La météo,frost
+le chien,犬（いぬ）,A1,Les animaux,dog
+le chat,猫（ねこ）,A1,Les animaux,cat
+le cheval,馬（うま）,A1,Les animaux,horse
+la vache,牛（うし）,A1,Les animaux,cow
+le cochon,豚（ぶた）,A1,Les animaux,pig
+le mouton,羊（ひつじ）,A1,Les animaux,sheep
+la chèvre,ヤギ,A2,Les animaux,goat
+la poule,雌鶏（めんどり）,A1,Les animaux,hen
+le coq,雄鶏（おんどり）,A2,Les animaux,rooster
+le canard,アヒル,A1,Les animaux,duck
+le lapin,うさぎ,A1,Les animaux,rabbit
+la souris,ねずみ,A1,Les animaux,mouse
+l'oiseau,鳥（とり）,A1,Les animaux,bird
+la tortue,亀（かめ）,A1,Les animaux,turtle
+le serpent,蛇（へび）,A1,Les animaux,snake
+la grenouille,カエル,A1,Les animaux,frog
+l'araignée,クモ,A1,Les animaux,spider
+l'abeille,蜂（はち）,A1,Les animaux,bee
+le papillon,蝶（ちょう）,A1,Les animaux,butterfly
+la mouche,ハエ,A2,Les animaux,fly
+la fourmi,アリ,A2,Les animaux,ant
+le lion,ライオン,A1,Les animaux,lion
+le tigre,トラ,A1,Les animaux,tiger
+l'éléphant,象（ぞう）,A1,Les animaux,elephant
+la girafe,キリン,A1,Les animaux,giraffe
+le singe,猿（さる）,A1,Les animaux,monkey
+l'ours,熊（くま）,A1,Les animaux,bear
+le loup,オオカミ,A2,Les animaux,wolf
+le renard,キツネ,A2,Les animaux,fox
+le cerf,鹿（しか）,A2,Les animaux,deer
+l'écureuil,リス,A2,Les animaux,squirrel
+le hérisson,ハリネズミ,A2,Les animaux,hedgehog
+le dauphin,イルカ,A1,Les animaux,dolphin
+le requin,サメ,A1,Les animaux,shark
+la baleine,クジラ,A2,Les animaux,whale
+le crocodile,ワニ,A1,Les animaux,crocodile
+le kangourou,カンガルー,A2,Les animaux,kangaroo
+le zèbre,シマウマ,A2,Les animaux,zebra
+le chameau,ラクダ,A2,Les animaux,camel
+le pingouin,ペンギン,A1,Les animaux,penguin
+le hibou,フクロウ,A2,Les animaux,owl
+le perroquet,オウム,A2,Les animaux,parrot
+l'escargot,カタツムリ,A2,Les animaux,snail
+le crabe,カニ,A2,Les animaux,crab
+la panthère,ヒョウ,A2,Les animaux,panther
+le koala,コアラ,A2,Les animaux,koala
+l'arbre,木（き）,A1,La nature,tree
+la fleur,花（はな）,A1,La nature,flower
+la feuille,葉（は）,A1,La nature,leaf
+l'herbe,草（くさ）,A1,La nature,grass
+la forêt,森（もり）,A1,La nature,forest
+la montagne,山（やま）,A1,La nature,mountain
+la rivière,川（かわ）,A1,La nature,river
+le lac,湖（みずうみ）,A1,La nature,lake
+la mer,海（うみ）,A1,La nature,sea
+l'océan,大洋（たいよう）,A1,La nature,ocean
+la plage,浜辺（はまべ）,A1,La nature,beach
+le sable,砂（すな）,A1,La nature,sand
+l'île,島（しま）,A2,La nature,island
+le désert,砂漠（さばく）,A2,La nature,desert
+la lune,月（つき）,A1,La nature,moon
+la terre,地面（じめん）,A1,La nature,earth
+la roche,岩（いわ）,A2,La nature,rock
+la vallée,谷（たに）,A2,La nature,valley
+la colline,丘（おか）,A2,La nature,hill
+le volcan,火山（かざん）,A2,La nature,volcano
+la cascade,滝（たき）,A2,La nature,waterfall
+la jungle,ジャングル,A2,La nature,jungle
+la campagne,田舎（いなか）,A1,La nature,countryside
+la ferme,農場（のうじょう）,A1,La nature,farm
+le champ,畑（はたけ）,A2,La nature,field
+la ville,街（まち）,A1,La ville et les lieux,city
+le village,村（むら）,A1,La ville et les lieux,village
+la rue,通り（とおり）,A1,La ville et les lieux,street
+l'avenue,大通り（おおどおり）,A2,La ville et les lieux,avenue
+la place,広場（ひろば）,A1,La ville et les lieux,square
+le pont,橋（はし）,A1,La ville et les lieux,bridge
+l'immeuble,ビル,A1,La ville et les lieux,building
+le magasin,店（みせ）,A1,La ville et les lieux,shop
+le marché,市場（いちば）,A1,La ville et les lieux,market
+la banque,銀行（ぎんこう）,A1,La ville et les lieux,bank
+la poste,郵便局（ゆうびんきょく）,A1,La ville et les lieux,post office
+l'hôpital,病院（びょういん）,A1,La ville et les lieux,hospital
+la pharmacie,薬局（やっきょく）,A1,La ville et les lieux,pharmacy
+la mairie,市役所（しやくしょ）,A2,La ville et les lieux,town hall
+l'église,教会（きょうかい）,A2,La ville et les lieux,church
+le musée,美術館／博物館,A1,La ville et les lieux,museum
+le cinéma,映画館（えいがかん）,A1,La ville et les lieux,cinema
+le théâtre,劇場（げきじょう）,A2,La ville et les lieux,theater
+le parc,公園（こうえん）,A1,La ville et les lieux,park
+la piscine,プール,A1,La ville et les lieux,swimming pool
+le stade,スタジアム,A1,La ville et les lieux,stadium
+l'aéroport,空港（くうこう）,A1,La ville et les lieux,airport
+la gare,駅（えき）,A1,La ville et les lieux,train station
+l'arrêt de bus,バス停（バスてい）,A1,La ville et les lieux,bus stop
+la station de métro,地下鉄の駅（ちかてつのえき）,A2,La ville et les lieux,metro station
+l'hôtel,ホテル,A1,La ville et les lieux,hotel
+le centre commercial,ショッピングモール,A1,La ville et les lieux,shopping mall
+le zoo,動物園（どうぶつえん）,A1,La ville et les lieux,zoo
+le quartier,地区（ちく）,A2,La ville et les lieux,neighborhood
+le trottoir,歩道（ほどう）,A2,La ville et les lieux,sidewalk
+le feu rouge,信号（しんごう）,A2,La ville et les lieux,traffic light
+le panneau,標識（ひょうしき）,A2,La ville et les lieux,sign
+le carrefour,交差点（こうさてん）,A2,La ville et les lieux,intersection
+le coin,角（かど）,A2,La ville et les lieux,corner
+l'adresse,住所（じゅうしょ）,A1,La ville et les lieux,address
+le nord,北（きた）,A2,La ville et les lieux,north
+le sud,南（みなみ）,A2,La ville et les lieux,south
+l'est,東（ひがし）,A2,La ville et les lieux,east
+l'ouest,西（にし）,A2,La ville et les lieux,west
+à droite,右（みぎ）,A1,La ville et les lieux,right
+à gauche,左（ひだり）,A1,La ville et les lieux,left
+tout droit,まっすぐ,A2,La ville et les lieux,straight ahead
+loin,遠い（とおい）,A1,La ville et les lieux,far
+près,近い（ちかい）,A1,La ville et les lieux,near
+la voiture,車（くるま）,A1,Les transports,car
+le bus,バス,A1,Les transports,bus
+le train,電車（でんしゃ）,A1,Les transports,train
+l'avion,飛行機（ひこうき）,A1,Les transports,airplane
+le bateau,船（ふね）,A1,Les transports,boat
+le vélo,自転車（じてんしゃ）,A1,Les transports,bicycle
+la moto,バイク,A1,Les transports,motorcycle
+le métro,地下鉄（ちかてつ）,A1,Les transports,subway
+le tramway,路面電車（ろめんでんしゃ）,A2,Les transports,tram
+le taxi,タクシー,A1,Les transports,taxi
+le camion,トラック,A2,Les transports,truck
+le scooter,スクーター,A1,Les transports,scooter
+la trottinette,キックボード,A1,Les transports,kick scooter
+la roue,車輪（しゃりん）,A2,Les transports,wheel
+le moteur,エンジン,A2,Les transports,engine
+l'essence,ガソリン,A2,Les transports,gasoline
+le billet,切符（きっぷ）,A1,Les transports,ticket
+le conducteur,運転手（うんてんしゅ）,A2,Les transports,driver
+le passager,乗客（じょうきゃく）,A2,Les transports,passenger
+la ceinture de sécurité,シートベルト,A2,Les transports,seatbelt
+le permis de conduire,運転免許（うんてんめんきょ）,A2,Les transports,driver's license
+l'autoroute,高速道路（こうそくどうろ）,A2,Les transports,highway
+la route,道（みち）,A1,Les transports,road
+l'embouteillage,渋滞（じゅうたい）,A2,Les transports,traffic jam
+le retard,遅れ（おくれ）,A2,Les transports,delay
+le téléphone,電話（でんわ）,A1,La technologie,phone
+le portable,携帯電話（けいたいでんわ）,A1,La technologie,cellphone
+le smartphone,スマートフォン,A1,La technologie,smartphone
+la tablette,タブレット,A1,La technologie,tablet
+l'écran,画面（がめん）,A1,La technologie,screen
+le clavier,キーボード,A2,La technologie,keyboard
+la souris (informatique),マウス,A2,La technologie,mouse (computer)
+internet,インターネット,A1,La technologie,internet
+le wifi,ワイファイ,A1,La technologie,wifi
+l'application,アプリ,A1,La technologie,app
+le réseau social,SNS,A1,La technologie,social network
+le message,メッセージ,A1,La technologie,message
+l'appel,電話（でんわ）,A1,La technologie,phone call
+la photo,写真（しゃしん）,A1,La technologie,photo
+la vidéo,動画（どうが）,A1,La technologie,video
+le jeu vidéo,テレビゲーム,A1,La technologie,video game
+le casque,ヘッドホン,A2,La technologie,headset
+les écouteurs,イヤホン,A1,La technologie,earphones
+la batterie,バッテリー,A1,La technologie,battery
+le chargeur,充電器（じゅうでんき）,A1,La technologie,charger
+le mot de passe,パスワード,A1,La technologie,password
+le compte,アカウント,A1,La technologie,account
+l'e-mail,メール,A1,La technologie,email
+le réseau,ネットワーク,A2,La technologie,network
+le site web,ウェブサイト,A1,La technologie,website
+télécharger,ダウンロードする,A2,La technologie,to download
+envoyer,送る（おくる）,A1,La technologie,to send
+recevoir,受け取る（うけとる）,A2,La technologie,to receive
+la caméra,カメラ,A1,La technologie,camera
+le haut-parleur,スピーカー,A2,La technologie,speaker
+l'imprimante,プリンター,A2,La technologie,printer
+la clé USB,USBメモリ,A2,La technologie,USB drive
+les données,データ,A2,La technologie,data
+la connexion,接続（せつぞく）,A2,La technologie,connection
+le football,サッカー,A1,Les sports et loisirs,soccer
+le basketball,バスケットボール,A1,Les sports et loisirs,basketball
+le tennis,テニス,A1,Les sports et loisirs,tennis
+la natation,水泳（すいえい）,A1,Les sports et loisirs,swimming
+la course à pied,ランニング,A1,Les sports et loisirs,running
+la danse,ダンス,A1,Les sports et loisirs,dance
+le dessin,絵（え）,A1,Les sports et loisirs,drawing
+la peinture,絵画（かいが）,A1,Les sports et loisirs,painting
+la lecture,読書（どくしょ）,A1,Les sports et loisirs,reading
+l'équipe,チーム,A1,Les sports et loisirs,team
+le match,試合（しあい）,A1,Les sports et loisirs,match
+l'entraînement,練習（れんしゅう）,A2,Les sports et loisirs,training
+le ballon,ボール,A1,Les sports et loisirs,ball
+le terrain,コート／グラウンド,A2,Les sports et loisirs,field
+le champion,チャンピオン,A2,Les sports et loisirs,champion
+la victoire,勝利（しょうり）,A2,Les sports et loisirs,victory
+la défaite,敗北（はいぼく）,A2,Les sports et loisirs,defeat
+le score,得点（とくてん）,A1,Les sports et loisirs,score
+l'arbitre,審判（しんぱん）,A2,Les sports et loisirs,referee
+le joueur,選手（せんしゅ）,A1,Les sports et loisirs,player
+le spectateur,観客（かんきゃく）,A2,Les sports et loisirs,spectator
+la randonnée,ハイキング,A2,Les sports et loisirs,hiking
+le camping,キャンプ,A1,Les sports et loisirs,camping
+le ski,スキー,A1,Les sports et loisirs,skiing
+le patinage,スケート,A2,Les sports et loisirs,skating
+l'escalade,クライミング,A2,Les sports et loisirs,climbing
+le yoga,ヨガ,A2,Les sports et loisirs,yoga
+les arts martiaux,武道（ぶどう）,A2,Les sports et loisirs,martial arts
+le rugby,ラグビー,A1,Les sports et loisirs,rugby
+le volleyball,バレーボール,A1,Les sports et loisirs,volleyball
+le handball,ハンドボール,A1,Les sports et loisirs,handball
+l'athlétisme,陸上競技（りくじょうきょうぎ）,A2,Les sports et loisirs,track and field
+la gymnastique,体操（たいそう）,A1,Les sports et loisirs,gymnastics
+les échecs,チェス,A2,Les sports et loisirs,chess
+les cartes,トランプ,A1,Les sports et loisirs,cards
+l'instrument de musique,楽器（がっき）,A1,Les sports et loisirs,musical instrument
+la guitare,ギター,A1,Les sports et loisirs,guitar
+le piano,ピアノ,A1,Les sports et loisirs,piano
+la batterie (instrument),ドラム,A1,Les sports et loisirs,drums
+le chant,歌（うた）,A2,Les sports et loisirs,singing
+le groupe,バンド,A1,Les sports et loisirs,band
+le concert,コンサート,A1,Les sports et loisirs,concert
+le festival,フェスティバル,A2,Les sports et loisirs,festival
+heureux,幸せ（しあわせ）な,A1,Les émotions et la personnalité,happy
+triste,悲しい（かなしい）,A1,Les émotions et la personnalité,sad
+content,嬉しい（うれしい）,A1,Les émotions et la personnalité,glad
+fâché,怒った（おこった）,A1,Les émotions et la personnalité,angry
+énervé,イライラした,A2,Les émotions et la personnalité,annoyed
+fatigué,疲れた（つかれた）,A1,Les émotions et la personnalité,tired
+stressé,ストレスがたまった,A2,Les émotions et la personnalité,stressed
+inquiet,心配な（しんぱいな）,A2,Les émotions et la personnalité,worried
+effrayé,怖がった（こわがった）,A2,Les émotions et la personnalité,scared
+surpris,驚いた（おどろいた）,A2,Les émotions et la personnalité,surprised
+amoureux,恋している（こいしている）,A2,Les émotions et la personnalité,in love
+jaloux,嫉妬した（しっとした）,A2,Les émotions et la personnalité,jealous
+timide,内気な（うちきな）,A1,Les émotions et la personnalité,shy
+gêné,恥ずかしい（はずかしい）,A2,Les émotions et la personnalité,embarrassed
+fier,誇りに思う（ほこりにおもう）,A2,Les émotions et la personnalité,proud
+déçu,がっかりした,A2,Les émotions et la personnalité,disappointed
+excité,興奮した（こうふんした）,A2,Les émotions et la personnalité,excited
+calme,落ち着いた（おちついた）,A1,Les émotions et la personnalité,calm
+nerveux,緊張した（きんちょうした）,A2,Les émotions et la personnalité,nervous
+gentil,優しい（やさしい）,A1,Les émotions et la personnalité,kind
+méchant,意地悪な（いじわるな）,A1,Les émotions et la personnalité,mean
+drôle,面白い（おもしろい）,A1,Les émotions et la personnalité,funny
+sérieux,真面目な（まじめな）,A1,Les émotions et la personnalité,serious
+intelligent,頭がいい（あたまがいい）,A1,Les émotions et la personnalité,smart
+curieux,好奇心旺盛な（こうきしんおうせいな）,A2,Les émotions et la personnalité,curious
+patient,忍耐強い（にんたいづよい）,A2,Les émotions et la personnalité,patient
+impatient,せっかちな,A2,Les émotions et la personnalité,impatient
+généreux,寛大な（かんだいな）,A2,Les émotions et la personnalité,generous
+égoïste,わがままな,A2,Les émotions et la personnalité,selfish
+honnête,正直な（しょうじきな）,A2,Les émotions et la personnalité,honest
+courageux,勇敢な（ゆうかんな）,A2,Les émotions et la personnalité,brave
+sociable,社交的な（しゃこうてきな）,A2,Les émotions et la personnalité,sociable
+sympathique,感じがいい（かんじがいい）,A1,Les émotions et la personnalité,nice
+optimiste,楽観的な（らっかんてきな）,A2,Les émotions et la personnalité,optimistic
+pessimiste,悲観的な（ひかんてきな）,A2,Les émotions et la personnalité,pessimistic
+sensible,繊細な（せんさいな）,A2,Les émotions et la personnalité,sensitive
+têtu,頑固な（がんこな）,A2,Les émotions et la personnalité,stubborn
+poli,礼儀正しい（れいぎただしい）,A1,Les émotions et la personnalité,polite
+impoli,失礼な（しつれいな）,A2,Les émotions et la personnalité,impolite
+sage,おとなしい,A2,Les émotions et la personnalité,well-behaved
+confiant,自信がある（じしんがある）,A2,Les émotions et la personnalité,confident
+le sourire,笑顔（えがお）,A1,Les émotions et la personnalité,smile
+le rire,笑い（わらい）,A1,Les émotions et la personnalité,laughter
+pleurer,泣く（なく）,A1,Les émotions et la personnalité,to cry
+la peur,恐怖（きょうふ）,A1,Les émotions et la personnalité,fear
+la joie,喜び（よろこび）,A1,Les émotions et la personnalité,joy
+la colère,怒り（いかり）,A1,Les émotions et la personnalité,anger
+la tristesse,悲しみ（かなしみ）,A2,Les émotions et la personnalité,sadness
+l'amour,愛（あい）,A1,Les émotions et la personnalité,love
+l'amitié,友情（ゆうじょう）,A1,Les émotions et la personnalité,friendship
+l'espoir,希望（きぼう）,A2,Les émotions et la personnalité,hope
+la confiance,信頼（しんらい）,A2,Les émotions et la personnalité,confidence
+le stress,ストレス,A2,Les émotions et la personnalité,stress
+le médecin,医者（いしゃ）,A1,Les métiers,doctor
+l'infirmier,看護師（かんごし）,A1,Les métiers,nurse
+le dentiste,歯医者（はいしゃ）,A1,Les métiers,dentist
+l'avocat,弁護士（べんごし）,A2,Les métiers,lawyer
+le policier,警察官（けいさつかん）,A1,Les métiers,police officer
+le pompier,消防士（しょうぼうし）,A1,Les métiers,firefighter
+l'ingénieur,エンジニア,A2,Les métiers,engineer
+l'architecte,建築家（けんちくか）,A2,Les métiers,architect
+le cuisinier,料理人（りょうりにん）,A1,Les métiers,cook
+le boulanger,パン屋さん（パンやさん）,A1,Les métiers,baker
+le coiffeur,美容師（びようし）,A2,Les métiers,hairdresser
+le vendeur,店員（てんいん）,A1,Les métiers,salesperson
+le caissier,レジ係（レジがかり）,A2,Les métiers,cashier
+le mécanicien,整備士（せいびし）,A2,Les métiers,mechanic
+l'agriculteur,農家（のうか）,A2,Les métiers,farmer
+le pilote,パイロット,A1,Les métiers,pilot
+le chauffeur,運転手（うんてんしゅ）,A1,Les métiers,driver
+le facteur,郵便配達員（ゆうびんはいたついん）,A2,Les métiers,mail carrier
+le journaliste,ジャーナリスト,A2,Les métiers,journalist
+l'écrivain,作家（さっか）,A2,Les métiers,writer
+l'artiste,芸術家（げいじゅつか）,A1,Les métiers,artist
+le musicien,音楽家（おんがくか）,A1,Les métiers,musician
+le chanteur,歌手（かしゅ）,A1,Les métiers,singer
+l'acteur,俳優（はいゆう）,A1,Les métiers,actor
+le réalisateur,映画監督（えいがかんとく）,A2,Les métiers,film director
+le photographe,写真家（しゃしんか）,A2,Les métiers,photographer
+l'informaticien,エンジニア（IT）,A2,Les métiers,IT specialist
+le scientifique,科学者（かがくしゃ）,A2,Les métiers,scientist
+le comptable,会計士（かいけいし）,A2,Les métiers,accountant
+l'employé,会社員（かいしゃいん）,A2,Les métiers,employee
+le patron,上司（じょうし）,A2,Les métiers,boss
+le secrétaire,秘書（ひしょ）,A2,Les métiers,secretary
+le vétérinaire,獣医（じゅうい）,A1,Les métiers,veterinarian
+le pharmacien,薬剤師（やくざいし）,A2,Les métiers,pharmacist
+l'électricien,電気技師（でんきぎし）,A2,Les métiers,electrician
+le plombier,配管工（はいかんこう）,A2,Les métiers,plumber
+l'argent,お金（おかね）,A1,Les achats et l'argent,money
+l'euro,ユーロ,A1,Les achats et l'argent,euro
+le centime,サンチーム,A2,Les achats et l'argent,cent
+le prix,値段（ねだん）,A1,Les achats et l'argent,price
+cher,高い（たかい）,A1,Les achats et l'argent,expensive
+bon marché,安い（やすい）,A2,Les achats et l'argent,cheap
+gratuit,無料（むりょう）,A1,Les achats et l'argent,free
+la monnaie,小銭（こぜに）,A2,Les achats et l'argent,change
+le portefeuille,財布（さいふ）,A1,Les achats et l'argent,wallet
+la carte bancaire,銀行カード（ぎんこうカード）,A2,Les achats et l'argent,bank card
+la caisse,レジ,A2,Les achats et l'argent,checkout
+le reçu,レシート,A2,Les achats et l'argent,receipt
+la réduction,割引（わりびき）,A2,Les achats et l'argent,discount
+les soldes,セール,A2,Les achats et l'argent,sales
+l'achat,買い物（かいもの）,A2,Les achats et l'argent,purchase
+le client,客（きゃく）,A1,Les achats et l'argent,customer
+la boutique,ブティック,A1,Les achats et l'argent,shop
+la taille,サイズ,A1,Les achats et l'argent,size
+essayer,試着する（しちゃくする）,A2,Les achats et l'argent,to try on
+payer,払う（はらう）,A1,Les achats et l'argent,to pay
+coûter,（値段が）かかる,A1,Les achats et l'argent,to cost
+dépenser,使う（つかう）,A2,Les achats et l'argent,to spend
+économiser,貯める（ためる）,A2,Les achats et l'argent,to save
+le budget,予算（よさん）,A2,Les achats et l'argent,budget
+le cadeau,プレゼント,A1,Les achats et l'argent,gift
+le panier,かご,A1,Les achats et l'argent,basket
+le chariot,カート,A2,Les achats et l'argent,shopping cart
+l'argent de poche,お小遣い（おこづかい）,A2,Les achats et l'argent,pocket money
+grand,大きい（おおきい）,A1,Adjectifs courants,tall
+petit,小さい（ちいさい）,A1,Adjectifs courants,small
+gros,太い（ふとい）,A1,Adjectifs courants,big
+mince,細い（ほそい）,A2,Adjectifs courants,thin
+long,長い（ながい）,A1,Adjectifs courants,long
+court,短い（みじかい）,A1,Adjectifs courants,short
+large,広い（ひろい）,A2,Adjectifs courants,wide
+étroit,狭い（せまい）,A2,Adjectifs courants,narrow
+haut,高い（たかい）,A2,Adjectifs courants,high
+bas,低い（ひくい）,A2,Adjectifs courants,low
+nouveau,新しい（あたらしい）,A1,Adjectifs courants,new
+vieux,古い（ふるい）,A1,Adjectifs courants,old
+jeune,若い（わかい）,A1,Adjectifs courants,young
+beau,美しい（うつくしい）,A1,Adjectifs courants,beautiful
+laid,醜い（みにくい）,A2,Adjectifs courants,ugly
+joli,かわいい,A1,Adjectifs courants,pretty
+propre,きれいな,A1,Adjectifs courants,clean
+sale,汚い（きたない）,A1,Adjectifs courants,dirty
+plein,いっぱいの,A1,Adjectifs courants,full
+vide,空の（からの）,A1,Adjectifs courants,empty
+facile,簡単な（かんたんな）,A1,Adjectifs courants,easy
+difficile,難しい（むずかしい）,A1,Adjectifs courants,difficult
+rapide,速い（はやい）,A1,Adjectifs courants,fast
+lent,遅い（おそい）,A1,Adjectifs courants,slow
+fort,強い（つよい）,A1,Adjectifs courants,strong
+faible,弱い（よわい）,A2,Adjectifs courants,weak
+lourd,重い（おもい）,A2,Adjectifs courants,heavy
+léger,軽い（かるい）,A2,Adjectifs courants,light
+dur,硬い（かたい）,A2,Adjectifs courants,hard
+mou,柔らかい（やわらかい）,A2,Adjectifs courants,soft
+bon,良い（いい）,A1,Adjectifs courants,good
+mauvais,悪い（わるい）,A1,Adjectifs courants,bad
+meilleur,より良い（よりいい）,A2,Adjectifs courants,better
+important,重要な（じゅうような）,A1,Adjectifs courants,important
+utile,便利な（べんりな）,A2,Adjectifs courants,useful
+dangereux,危険な（きけんな）,A2,Adjectifs courants,dangerous
+bruyant,うるさい,A2,Adjectifs courants,noisy
+silencieux,静かな（しずかな）,A2,Adjectifs courants,silent
+ouvert,開いた（あいた）,A1,Adjectifs courants,open
+fermé,閉まった（しまった）,A1,Adjectifs courants,closed
+correct,正しい（ただしい）,A2,Adjectifs courants,correct
+faux,間違った（まちがった）,A1,Adjectifs courants,wrong
+vrai,本当の（ほんとうの）,A1,Adjectifs courants,true
+simple,簡単な（かんたんな）,A1,Adjectifs courants,simple
+compliqué,複雑な（ふくざつな）,A2,Adjectifs courants,complicated
+moderne,現代的な（げんだいてきな）,A2,Adjectifs courants,modern
+ancien,古い（ふるい）,A2,Adjectifs courants,old
+différent,違う（ちがう）,A1,Adjectifs courants,different
+pareil,同じ（おなじ）,A2,Adjectifs courants,same
+principal,主な（おもな）,A2,Adjectifs courants,main
+normal,普通の（ふつうの）,A1,Adjectifs courants,normal
+bizarre,変な（へんな）,A1,Adjectifs courants,weird
+très,とても,A1,Adverbes et connecteurs,very
+trop,〜すぎる,A1,Adverbes et connecteurs,too much
+beaucoup,たくさん,A1,Adverbes et connecteurs,a lot
+peu,少し（すこし）,A1,Adverbes et connecteurs,little
+assez,十分に（じゅうぶんに）,A1,Adverbes et connecteurs,enough
+presque,ほとんど,A2,Adverbes et connecteurs,almost
+encore,まだ／もう一度,A1,Adverbes et connecteurs,again
+déjà,もう,A1,Adverbes et connecteurs,already
+rarement,めったに〜ない,A2,Adverbes et connecteurs,rarely
+ici,ここ,A1,Adverbes et connecteurs,here
+là,そこ,A1,Adverbes et connecteurs,there
+là-bas,あそこ,A1,Adverbes et connecteurs,over there
+partout,どこでも,A2,Adverbes et connecteurs,everywhere
+ensemble,一緒に（いっしょに）,A1,Adverbes et connecteurs,together
+seul,一人で（ひとりで）,A1,Adverbes et connecteurs,alone
+aussi,〜も,A1,Adverbes et connecteurs,also
+mais,でも,A1,Adverbes et connecteurs,but
+donc,だから,A2,Adverbes et connecteurs,so
+alors,それでは,A1,Adverbes et connecteurs,so
+parce que,なぜなら,A1,Adverbes et connecteurs,because
+pourquoi,なぜ,A1,Adverbes et connecteurs,why
+comment,どうやって,A1,Adverbes et connecteurs,how
+quand,いつ,A1,Adverbes et connecteurs,when
+où,どこ,A1,Adverbes et connecteurs,where
+combien,いくつ／いくら,A1,Adverbes et connecteurs,how much
+l'ami,友達（ともだち）,A1,Ados et vie sociale,friend
+le copain,彼氏／友達,A1,Ados et vie sociale,friend
+le meilleur ami,親友（しんゆう）,A1,Ados et vie sociale,best friend
+la fête,パーティー,A1,Ados et vie sociale,party
+la soirée,夜のパーティー,A1,Ados et vie sociale,evening party
+la sortie,外出（がいしゅつ）,A1,Ados et vie sociale,outing
+le rendez-vous,約束／デート,A2,Ados et vie sociale,appointment
+l'influenceur,インフルエンサー,A2,Ados et vie sociale,influencer
+la tendance,トレンド,A2,Ados et vie sociale,trend
+la mode,ファッション,A1,Ados et vie sociale,fashion
+le look,見た目（みため）,A2,Ados et vie sociale,look
+l'indépendance,自立（じりつ）,A2,Ados et vie sociale,independence
+l'avenir,将来（しょうらい）,A2,Ados et vie sociale,future
+le projet,計画（けいかく）,A2,Ados et vie sociale,project
+le rêve,夢（ゆめ）,A1,Ados et vie sociale,dream
+l'objectif,目標（もくひょう）,A2,Ados et vie sociale,goal
+la motivation,やる気,A2,Ados et vie sociale,motivation
+la réussite,成功（せいこう）,A2,Ados et vie sociale,success
+l'échec,失敗（しっぱい）,A2,Ados et vie sociale,failure
+le choix,選択（せんたく）,A2,Ados et vie sociale,choice
+la décision,決断（けつだん）,A2,Ados et vie sociale,decision
+la responsabilité,責任（せきにん）,A2,Ados et vie sociale,responsibility
+bonjour,こんにちは,A1,Salutations et expressions courantes,hello
+bonsoir,こんばんは,A1,Salutations et expressions courantes,good evening
+salut,やあ／じゃあね,A1,Salutations et expressions courantes,hi
+au revoir,さようなら,A1,Salutations et expressions courantes,goodbye
+à bientôt,またね,A1,Salutations et expressions courantes,see you soon
+à demain,また明日（あした）,A1,Salutations et expressions courantes,see you tomorrow
+s'il vous plaît,お願いします（おねがいします）,A1,Salutations et expressions courantes,please
+s'il te plaît,お願い（おねがい）,A1,Salutations et expressions courantes,please
+merci,ありがとう,A1,Salutations et expressions courantes,thank you
+de rien,どういたしまして,A1,Salutations et expressions courantes,you're welcome
+pardon,すみません,A1,Salutations et expressions courantes,sorry
+excusez-moi,失礼します（しつれいします）,A1,Salutations et expressions courantes,excuse me
+bienvenue,ようこそ,A1,Salutations et expressions courantes,welcome
+félicitations,おめでとう,A1,Salutations et expressions courantes,congratulations
+bon anniversaire,誕生日おめでとう（たんじょうびおめでとう）,A1,Salutations et expressions courantes,happy birthday
+bonne chance,頑張って（がんばって）,A1,Salutations et expressions courantes,good luck
+bon appétit,いただきます,A1,Salutations et expressions courantes,enjoy your meal
+enchanté,はじめまして,A1,Salutations et expressions courantes,nice to meet you
+la valise,スーツケース,A1,Vacances et bord de mer,suitcase
+le passeport,パスポート,A1,Vacances et bord de mer,passport
+la crème solaire,日焼け止め（ひやけどめ）,A2,Vacances et bord de mer,sunscreen
+les lunettes de soleil,サングラス,A1,Vacances et bord de mer,sunglasses
+le parasol,ビーチパラソル,A2,Vacances et bord de mer,beach umbrella
+la vague,波（なみ）,A2,Vacances et bord de mer,wave
+le coquillage,貝殻（かいがら）,A2,Vacances et bord de mer,seashell
+la croisière,クルーズ,A2,Vacances et bord de mer,cruise
+bronzer,日焼けする（ひやけする）,A2,Vacances et bord de mer,to tan
+se baigner,泳ぐ（およぐ）,A2,Vacances et bord de mer,to swim
+le port,港（みなと）,A2,Vacances et bord de mer,harbor
+le boucher,肉屋さん（にくやさん）,A2,Le marché et les commerçants,butcher
+le poissonnier,魚屋さん（さかなやさん）,A2,Le marché et les commerçants,fishmonger
+le fleuriste,花屋さん（はなやさん）,A2,Le marché et les commerçants,florist
+le primeur,八百屋さん（やおやさん）,A2,Le marché et les commerçants,greengrocer
+le marchand,売り手（うりて）,A2,Le marché et les commerçants,merchant
+un kilo de,1キロの,A2,Le marché et les commerçants,a kilo of
+l'étal,屋台（やたい）,A2,Le marché et les commerçants,market stall
+le jeu de société,ボードゲーム,A1,Les jeux,board game
+les dés,サイコロ,A1,Les jeux,dice
+le puzzle,パズル,A1,Les jeux,puzzle
+la devinette,なぞなぞ,A1,Les jeux,riddle
+le pion,駒（こま）,A2,Les jeux,game piece
+le plateau de jeu,ゲーム盤（ゲームばん）,A2,Les jeux,game board
+la piñata,ピニャータ,A2,Les jeux,piñata
+malade,病気の（びょうきの）,A1,États physiques et santé,sick
+en bonne santé,健康な（けんこうな）,A1,États physiques et santé,healthy
+en forme,元気な（げんきな）,A1,États physiques et santé,fit
+guéri,治った（なおった）,A2,États physiques et santé,healed
+blessé,怪我をした（けがをした）,A2,États physiques et santé,injured
+la fièvre,熱（ねつ）,A1,États physiques et santé,fever
+le rhume,風邪（かぜ）,A1,États physiques et santé,cold
+la maladie,病気（びょうき）,A2,États physiques et santé,illness
+la grippe,インフルエンザ,A2,États physiques et santé,flu
+tousser,咳をする（せきをする）,A2,États physiques et santé,to cough
+éternuer,くしゃみをする,A2,États physiques et santé,to sneeze
+avoir mal,痛い（いたい）,A1,États physiques et santé,to hurt

@@ -1,0 +1,21 @@
+﻿Ordre,Niveau,Theme,Points_cles,Exemple
+1,A1,Les articles définis et indéfinis,"le/la/les, un/une/des","le chien, une pomme"
+2,A1,Le genre et le nombre des noms,"masculin/féminin, singulier/pluriel","un ami -> une amie, un chat -> des chats"
+3,A1,Les pronoms sujets,"je, tu, il/elle, nous, vous, ils/elles",Je mange. Elle joue.
+4,A1,Le présent de l'indicatif,"verbes en -er, -ir, -re + être/avoir",Je parle. Nous finissons. Ils vendent.
+5,A1,Les adjectifs possessifs,"mon/ma/mes, ton/ta/tes...","mon frère, ma sœur, mes parents"
+6,A1,Les adjectifs qualificatifs (accord),accord en genre et en nombre,"un grand chien, une grande maison"
+7,A1,La négation simple,ne...pas,Je ne mange pas de viande.
+8,A1,Poser des questions,"est-ce que, inversion, intonation",Est-ce que tu aimes le foot ?
+9,A1,Les prépositions de lieu,"dans, sur, sous, devant, derrière",Le livre est sur la table.
+10,A1,L'heure et la date,"Il est... heures, le calendrier",Il est 15h30. Nous sommes lundi.
+11,A2,Le futur proche,aller + infinitif,Je vais manger. Ils vont sortir.
+12,A2,Le futur simple,"verbe + terminaisons -ai, -as, -a...",Je mangerai. Nous partirons.
+13,A2,Le passé composé (avec avoir),avoir + participe passé,J'ai mangé. Elle a fini.
+14,A2,Le passé composé (avec être),être + participe passé + accord,Je suis allé(e). Elles sont parties.
+15,A2,Les verbes pronominaux,"se + verbe, accord avec être",Je me lève. Elle s'habille.
+16,A2,Les comparatifs,"plus... que, moins... que, aussi... que",Il est plus grand que moi.
+17,A2,Les superlatifs,"le/la plus..., le/la moins...",C'est le plus intelligent de la classe.
+18,A2,Les pronoms compléments (COD/COI),"le, la, les, lui, leur",Je le vois. Je lui parle.
+19,A2,Les connecteurs logiques,"parce que, donc, mais, alors",Je reste car il pleut.
+20,A2,L'impératif,ordres et conseils,Mange tes légumes ! Ne cours pas !

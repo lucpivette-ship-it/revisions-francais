@@ -1,0 +1,28 @@
+Comment ajouter les photos de vocabulaire
+==========================================
+
+1. Pour chaque mot, la colonne "Nom_fichier_attendu" du fichier
+   data/images_a_fournir.csv indique le nom de fichier exact attendu.
+   Exemple : "le père" (famille) -> famille_le_pere.jpg
+
+2. Déposez simplement la photo directement dans CE dossier
+   (images/vocab/), avec exactement ce nom de fichier. Pas de
+   sous-dossiers, un seul dossier plat pour tout.
+
+3. Format recommandé : .jpg, image carrée si possible (ex. 600x600 px),
+   fichier compressé/léger (l'app doit pouvoir fonctionner hors-ligne,
+   donc mieux vaut éviter des photos de plusieurs Mo chacune).
+
+4. Vous pouvez ajouter les photos petit à petit, dans n'importe quel
+   ordre. Tant qu'une photo n'est pas encore là, l'app affichera un
+   simple espace réservé à la place — rien à casser, rien à prévenir.
+
+5. 28 mots (mots-outils abstraits comme "mais", "donc", "très") n'ont
+   pas de nom de fichier prévu : ce sont volontairement des fiches
+   texte seules, sans image.
+
+Le nom de fichier intègre déjà la catégorie (ex. "famille_", "corps_",
+"ecole_"...) donc pas de confusion possible entre deux mots identiques
+de catégories différentes (ex. "la pêche" = pêche/fruit vs pêche/loisir
+ont des noms différents : nourriture_la_peche.jpg vs
+sports_loisirs_la_peche.jpg).

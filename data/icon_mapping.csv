@@ -1,0 +1,900 @@
+﻿Categorie,Francais,Image_a_chercher,Icone_openmoji,Hexcode,Emoji,Type_correspondance,Qualite
+La famille,le père,father,man,1F468,👨,override,bon
+La famille,la mère,mother,woman,1F469,👩,override,bon
+La famille,le frère,brother,boy,1F466,👦,override,bon
+La famille,la sœur,sister,girl,1F467,👧,override,bon
+La famille,le grand-père,grandfather,old man,1F474,👴,override,bon
+La famille,la grand-mère,grandmother,old woman,1F475,👵,override,bon
+La famille,l'oncle,uncle,man,1F468,👨,override,bon
+La famille,la tante,aunt,woman,1F469,👩,override,bon
+La famille,le cousin,cousin (male),boy,1F466,👦,override,bon
+La famille,la cousine,cousin (female),girl,1F467,👧,override,bon
+La famille,le fils,son,boy,1F466,👦,override,bon
+La famille,la fille,daughter,girl,1F467,👧,override,bon
+La famille,le mari,husband,man,1F468,👨,override,bon
+La famille,la femme,wife,woman,1F469,👩,override,bon
+La famille,les parents,parents,family,1F46A,👪️,override,bon
+La famille,l'enfant,child,child,1F9D2,🧒,override,bon
+La famille,le bébé,baby,baby,1F476,👶,annotation,bon
+La famille,le neveu,nephew,boy,1F466,👦,override,approximatif
+La famille,la nièce,niece,girl,1F467,👧,override,approximatif
+La famille,la famille,family,family,1F46A,👪️,annotation,bon
+La famille,le beau-père,stepfather / father-in-law,man,1F468,👨,override,approximatif
+La famille,la belle-mère,stepmother / mother-in-law,woman,1F469,👩,override,approximatif
+La famille,les jumeaux,twins,family,1F46A,👪️,override,bon
+Le corps,la tête,head,face in clouds,1F636-200D-1F32B-FE0F,😶‍🌫️,tag,bon
+Le corps,les cheveux,hair,woman: blond hair,1F471-200D-2640-FE0F,👱‍♀️,tag,bon
+Le corps,le visage,face,grinning face,1F600,😀,tag,bon
+Le corps,l'œil / les yeux,eye / eyes,eye,1F441,👁️,annotation,bon
+Le corps,le nez,nose,nose,1F443,👃,annotation,bon
+Le corps,la bouche,mouth,mouth,1F444,👄,annotation,bon
+Le corps,la dent,tooth,tooth,1F9B7,🦷,annotation,bon
+Le corps,l'oreille,ear,ear,1F442,👂️,annotation,bon
+Le corps,le cou,neck,giraffe,1F992,🦒,tag,bon
+Le corps,l'épaule,shoulder,person,1F9D1,🧑,override,bon
+Le corps,le bras,arm,flexed biceps,1F4AA,💪,tag,bon
+Le corps,la main,hand,face with hand over mouth,1F92D,🤭,tag,bon
+Le corps,le doigt,finger,hand with fingers splayed,1F590,🖐️,tag,bon
+Le corps,la jambe,leg,leg,1F9B5,🦵,annotation,bon
+Le corps,le pied,foot,foot,1F9B6,🦶,annotation,bon
+Le corps,le genou,knee,leg,1F9B5,🦵,tag,bon
+Le corps,le dos,back,person,1F9D1,🧑,override,bon
+Le corps,le ventre,stomach / belly,stomach,E313,,annotation,bon
+Le corps,le cœur,heart,smiling face with hearts,1F970,🥰,tag,bon
+Le corps,la peau,skin,adhesive bandage,1FA79,🩹,override,bon
+Le corps,le sourcil,eyebrow,eye,1F441,👁️,override,bon
+Le corps,le menton,chin,grinning face,1F600,😀,override,bon
+Le corps,la poitrine,chest,person,1F9D1,🧑,override,bon
+Le corps,l'ongle,nail,nail polish,1F485,💅,override,bon
+Le corps,le coude,elbow,person,1F9D1,🧑,override,bon
+Les vêtements,le pantalon,trousers / pants,jeans,1F456,👖,tag,bon
+Les vêtements,le jean,jeans,jeans,1F456,👖,annotation,bon
+Les vêtements,la robe,dress,dress,1F457,👗,annotation,bon
+Les vêtements,la jupe,skirt,dress,1F457,👗,override,approximatif
+Les vêtements,la chemise,shirt,running shirt,1F3BD,🎽,tag,bon
+Les vêtements,le tee-shirt,t-shirt,t-shirt,1F455,👕,annotation,bon
+Les vêtements,le pull,sweater,coat,1F9E5,🧥,override,approximatif
+Les vêtements,la veste,jacket,lab coat,1F97C,🥼,tag,bon
+Les vêtements,le manteau,coat,coat,1F9E5,🧥,annotation,bon
+Les vêtements,les chaussures,shoes,man's shoe,1F45E,👞,tag,bon
+Les vêtements,les baskets,sneakers,running shoe,1F45F,👟,tag-singular,bon
+Les vêtements,les chaussettes,socks,socks,1F9E6,🧦,annotation,bon
+Les vêtements,les sous-vêtements,underwear,briefs,1FA72,🩲,tag,bon
+Les vêtements,la casquette,cap,person with skullcap,1F472,👲,tag,bon
+Les vêtements,le chapeau,hat,cowboy hat face,1F920,🤠,tag,bon
+Les vêtements,l'écharpe,scarf,scarf,1F9E3,🧣,annotation,bon
+Les vêtements,les gants,gloves,gloves,1F9E4,🧤,annotation,bon
+Les vêtements,la ceinture,belt,jeans,1F456,👖,override,approximatif
+Les vêtements,le short,shorts,shorts,1FA73,🩳,annotation,bon
+Les vêtements,le maillot de bain,swimsuit,one-piece swimsuit,1FA71,🩱,tag,bon
+Les vêtements,le pyjama,pajamas,coat,1F9E5,🧥,override,approximatif
+Les vêtements,les lunettes,glasses,glasses,1F453,👓️,annotation,bon
+Les vêtements,le sac à dos,backpack,backpack,1F392,🎒,annotation,bon
+Les vêtements,le bijou,jewel / jewelry,gem stone,1F48E,💎,tag,bon
+Les vêtements,la montre,watch,watch,231A,⌚️,annotation,bon
+Les vêtements,la capuche,hood,coat,1F9E5,🧥,override,approximatif
+La nourriture et les boissons,le pain,bread,bread,1F35E,🍞,annotation,bon
+La nourriture et les boissons,le beurre,butter,butter,1F9C8,🧈,annotation,bon
+La nourriture et les boissons,la confiture,jam,jar with red content,1FAD9-200D-1F7E5,🫙‍🟥,tag,bon
+La nourriture et les boissons,le fromage,cheese,cow face,1F42E,🐮,tag,bon
+La nourriture et les boissons,le lait,milk,cow face,1F42E,🐮,tag,bon
+La nourriture et les boissons,l'œuf,egg,egg,1F95A,🥚,annotation,bon
+La nourriture et les boissons,le jambon,ham,bacon,1F953,🥓,override,approximatif
+La nourriture et les boissons,le poulet,chicken,chicken,1F414,🐔,annotation,bon
+La nourriture et les boissons,la viande,meat,pig face,1F437,🐷,tag,bon
+La nourriture et les boissons,le poisson,fish,fish,1F41F,🐟️,annotation,bon
+La nourriture et les boissons,le riz,rice,sheaf of rice,1F33E,🌾,tag,bon
+La nourriture et les boissons,les pâtes,pasta,spaghetti,1F35D,🍝,tag,bon
+La nourriture et les boissons,la pomme de terre,potato,potato,1F954,🥔,annotation,bon
+La nourriture et les boissons,les frites,fries,french fries,1F35F,🍟,tag,bon
+La nourriture et les boissons,la salade,salad,leafy green,1F96C,🥬,tag,bon
+La nourriture et les boissons,la tomate,tomato,tomato,1F345,🍅,annotation,bon
+La nourriture et les boissons,la carotte,carrot,carrot,1F955,🥕,annotation,bon
+La nourriture et les boissons,l'oignon,onion,onion,1F9C5,🧅,annotation,bon
+La nourriture et les boissons,l'ail,garlic,garlic,1F9C4,🧄,annotation,bon
+La nourriture et les boissons,le haricot vert,green bean,beans,1FAD8,🫘,override,approximatif
+La nourriture et les boissons,le petit pois,pea,pea pod,1FADB,🫛,tag,bon
+La nourriture et les boissons,la pomme,apple,apple,F8FF,,annotation,bon
+La nourriture et les boissons,la banane,banana,banana,1F34C,🍌,annotation,bon
+La nourriture et les boissons,l'orange,orange,orange heart,1F9E1,🧡,tag,bon
+La nourriture et les boissons,la fraise,strawberry,strawberry,1F353,🍓,annotation,bon
+La nourriture et les boissons,le raisin,grape,grapes,1F347,🍇,tag,bon
+La nourriture et les boissons,la poire,pear,pear,1F350,🍐,annotation,bon
+La nourriture et les boissons,la pêche,peach,peach,1F351,🍑,annotation,bon
+La nourriture et les boissons,le citron,lemon,lemon,1F34B,🍋,annotation,bon
+La nourriture et les boissons,l'ananas,pineapple,pineapple,1F34D,🍍,annotation,bon
+La nourriture et les boissons,le melon,melon,melon,1F348,🍈,annotation,bon
+La nourriture et les boissons,la pastèque,watermelon,watermelon,1F349,🍉,annotation,bon
+La nourriture et les boissons,la cerise,cherry,cherry blossom,1F338,🌸,tag,bon
+La nourriture et les boissons,le chocolat,chocolate,fondue,1FAD5,🫕,tag,bon
+La nourriture et les boissons,le gâteau,cake,cake,E0C7,,annotation,bon
+La nourriture et les boissons,le biscuit,biscuit / cookie,cookie,1F36A,🍪,override,approximatif
+La nourriture et les boissons,le bonbon,candy,candy,1F36C,🍬,annotation,bon
+La nourriture et les boissons,la glace,ice cream,ice cream,1F368,🍨,annotation,bon
+La nourriture et les boissons,la crêpe,crepe / pancake,pancakes,1F95E,🥞,override,approximatif
+La nourriture et les boissons,le croissant,croissant,croissant,1F950,🥐,annotation,bon
+La nourriture et les boissons,la baguette,baguette,baguette bread,1F956,🥖,tag,bon
+La nourriture et les boissons,le sucre,sugar,cupcake,1F9C1,🧁,tag,bon
+La nourriture et les boissons,le sel,salt,salt,1F9C2,🧂,annotation,bon
+La nourriture et les boissons,le poivre,pepper,hot pepper,1F336,🌶️,tag,bon
+La nourriture et les boissons,l'huile,oil,oil drum,1F6E2,🛢️,tag,bon
+La nourriture et les boissons,le vinaigre,vinegar,amphora,1F3FA,🏺,override,approximatif
+La nourriture et les boissons,la sauce,sauce,jar,1FAD9,🫙,tag,bon
+La nourriture et les boissons,la soupe,soup,pot of food,1F372,🍲,tag,bon
+La nourriture et les boissons,le sandwich,sandwich,sandwich,1F96A,🥪,annotation,bon
+La nourriture et les boissons,la pizza,pizza,pizza,1F355,🍕,annotation,bon
+La nourriture et les boissons,le hamburger,hamburger,hamburger,1F354,🍔,annotation,bon
+La nourriture et les boissons,le yaourt,yogurt,glass of milk,1F95B,🥛,override,approximatif
+La nourriture et les boissons,les céréales,cereal,bowl with spoon,1F963,🥣,tag,bon
+La nourriture et les boissons,le miel,honey,bear,1F43B,🐻,tag,bon
+La nourriture et les boissons,la farine,flour,bread,1F35E,🍞,override,approximatif
+La nourriture et les boissons,l'eau,water,sweat droplets,1F4A6,💦,tag,bon
+La nourriture et les boissons,le jus de fruit,fruit juice,tropical drink,1F379,🍹,override,approximatif
+La nourriture et les boissons,le soda,soda,cup with straw,1F964,🥤,tag,bon
+La nourriture et les boissons,le café,coffee,hot beverage,2615,☕️,tag,bon
+La nourriture et les boissons,le thé,tea,hot beverage,2615,☕️,tag,bon
+La nourriture et les boissons,le chocolat chaud,hot chocolate,hot beverage,2615,☕️,override,approximatif
+La nourriture et les boissons,le vin,wine,wine glass,1F377,🍷,tag,bon
+La nourriture et les boissons,la bière,beer,ginger root,1FADA,🫚,tag,bon
+La nourriture et les boissons,le petit-déjeuner,breakfast,croissant,1F950,🥐,tag,bon
+La nourriture et les boissons,le déjeuner,lunch,fork and knife,1F374,🍴,tag,bon
+La nourriture et les boissons,le dîner,dinner,fish,1F41F,🐟️,tag,bon
+La nourriture et les boissons,le goûter,afternoon snack,cookie,1F36A,🍪,override,bon
+La nourriture et les boissons,le repas,meal,maultasche,E0C1,,tag,bon
+La nourriture et les boissons,l'assiette,plate,fork and knife with plate,1F37D,🍽️,tag,bon
+La nourriture et les boissons,le verre,glass,glass of milk,1F95B,🥛,tag,bon
+La nourriture et les boissons,la tasse,cup,teacup without handle,1F375,🍵,tag,bon
+La nourriture et les boissons,le couteau,knife,fork and knife with plate,1F37D,🍽️,tag,bon
+La nourriture et les boissons,la fourchette,fork,fork and knife with plate,1F37D,🍽️,tag,bon
+La nourriture et les boissons,la cuillère,spoon,spoon,1F944,🥄,annotation,bon
+La nourriture et les boissons,la serviette,napkin / towel,rolled-up newspaper,1F5DE,🗞️,override,approximatif
+La nourriture et les boissons,la nappe,tablecloth,blue square,1F7E6,🟦,override,approximatif
+La nourriture et les boissons,le restaurant,restaurant,bread,1F35E,🍞,tag,bon
+La nourriture et les boissons,la cantine,school canteen,fork and knife with plate,1F37D,🍽️,override,bon
+La nourriture et les boissons,la cuisine,kitchen / cooking,kitchen knife,1F52A,🔪,tag,bon
+La nourriture et les boissons,la recette,recipe,notebook,1F4D3,📓,override,approximatif
+La nourriture et les boissons,l'épicerie,grocery store,shopping cart,1F6D2,🛒,override,bon
+La nourriture et les boissons,le supermarché,supermarket,convenience store,1F3EA,🏪,override,approximatif
+La nourriture et les boissons,la boulangerie,bakery,bagel,1F96F,🥯,tag,bon
+La nourriture et les boissons,la boucherie,butcher shop,cut of meat,1F969,🥩,override,approximatif
+La nourriture et les boissons,le dessert,dessert,dango,1F361,🍡,tag,bon
+La nourriture et les boissons,l'entrée,starter,leafy green,1F96C,🥬,override,bon
+La nourriture et les boissons,le plat principal,main course,shallow pan of food,1F958,🥘,override,bon
+La nourriture et les boissons,le menu,menu,notebook,1F4D3,📓,override,approximatif
+La nourriture et les boissons,l'addition,bill / check,yen banknote,1F4B4,💴,tag,bon
+La nourriture et les boissons,le pourboire,tip,money bag,1F4B0,💰️,override,bon
+La nourriture et les boissons,la faim,hunger,hamburger,1F354,🍔,override,approximatif
+La nourriture et les boissons,la soif,thirst,droplet,1F4A7,💧,override,approximatif
+La nourriture et les boissons,sucré,sweet,face with tongue,1F61B,😛,tag,bon
+La nourriture et les boissons,salé,salty,salt,1F9C2,🧂,tag,bon
+La nourriture et les boissons,épicé,spicy,hot pepper,1F336,🌶️,override,approximatif
+La nourriture et les boissons,amer,bitter,lemon,1F34B,🍋,override,approximatif
+La nourriture et les boissons,délicieux,delicious,face savoring food,1F60B,😋,tag,bon
+La nourriture et les boissons,cuit,cooked,cooked rice,1F35A,🍚,tag,bon
+La nourriture et les boissons,cru,raw,cut of meat,1F969,🥩,override,approximatif
+La maison,la maison,house,house,1F3E0,🏠️,annotation,bon
+La maison,l'appartement,apartment,houses,1F3D8,🏘️,override,approximatif
+La maison,la chambre,bedroom,bed,1F6CF,🛏️,override,approximatif
+La maison,le salon,living room,couch and lamp,1F6CB,🛋️,override,approximatif
+La maison,la salle de bain,bathroom,toilet,1F6BD,🚽,tag,bon
+La maison,les toilettes,toilet,toilet,1F6BD,🚽,annotation,bon
+La maison,le garage,garage,parking garage,E206,,override,approximatif
+La maison,le jardin,garden,snail,1F40C,🐌,tag,bon
+La maison,le balcon,balcony,houses,1F3D8,🏘️,override,approximatif
+La maison,l'escalier,stairs,stairway,E202,,override,approximatif
+La maison,la porte,door,door,1F6AA,🚪,annotation,bon
+La maison,la fenêtre,window,window,1FA9F,🪟,annotation,bon
+La maison,le mur,wall,brick,1F9F1,🧱,tag,bon
+La maison,le toit,roof,houses,1F3D8,🏘️,override,approximatif
+La maison,le sol,floor,broom,1F9F9,🧹,override,approximatif
+La maison,le plafond,ceiling,houses,1F3D8,🏘️,override,approximatif
+La maison,le lit,bed,bed,1F6CF,🛏️,annotation,bon
+La maison,l'oreiller,pillow,bed,1F6CF,🛏️,override,approximatif
+La maison,la couverture,blanket,bed,1F6CF,🛏️,override,approximatif
+La maison,le drap,bedsheet,bed,1F6CF,🛏️,override,approximatif
+La maison,l'armoire,wardrobe,package,1F4E6,📦️,override,approximatif
+La maison,la commode,chest of drawers,package,1F4E6,📦️,override,bon
+La maison,le bureau,desk / office,desktop computer,1F5A5,🖥️,override,approximatif
+La maison,la chaise,chair,chair,1FA91,🪑,annotation,bon
+La maison,la table,table,ping pong,1F3D3,🏓,tag,bon
+La maison,le canapé,sofa,couch and lamp,1F6CB,🛋️,override,approximatif
+La maison,le fauteuil,armchair,armchair,E141,,annotation,bon
+La maison,l'étagère,shelf,books,1F4DA,📚️,override,approximatif
+La maison,la lampe,lamp,genie,1F9DE,🧞,tag,bon
+La maison,le miroir,mirror,mirror,1FA9E,🪞,annotation,bon
+La maison,le tapis,rug / carpet,blue square,1F7E6,🟦,override,approximatif
+La maison,le rideau,curtain,window,1FA9F,🪟,override,approximatif
+La maison,la télévision,television,television,1F4FA,📺️,annotation,bon
+La maison,le réfrigérateur,fridge,kitchen knife,1F52A,🔪,override,bon
+La maison,le four,oven,kitchen knife,1F52A,🔪,override,bon
+La maison,le micro-ondes,microwave,kitchen knife,1F52A,🔪,override,approximatif
+La maison,le lave-linge,washing machine,washing machine,E1CF,,annotation,bon
+La maison,le lave-vaisselle,dishwasher,kitchen knife,1F52A,🔪,override,approximatif
+La maison,l'évier,kitchen sink,kitchen knife,1F52A,🔪,override,approximatif
+La maison,la douche,shower,shower,1F6BF,🚿,annotation,bon
+La maison,la baignoire,bathtub,bathtub,1F6C1,🛁,annotation,bon
+La maison,le robinet,tap / faucet,tap,E100,,annotation,bon
+La maison,la clé,key,key,1F511,🔑,annotation,bon
+La maison,la serrure,lock,locked,1F512,🔒️,tag,bon
+La maison,la poubelle,trash can,wastebasket,1F5D1,🗑️,override,bon
+La maison,le balai,broom,broom,1F9F9,🧹,annotation,bon
+La maison,l'aspirateur,vacuum cleaner,broom,1F9F9,🧹,override,approximatif
+La maison,la plante,plant,bouquet,1F490,💐,tag,bon
+L'école,l'école,school,school,1F3EB,🏫,annotation,bon
+L'école,le collège,middle school,school,1F3EB,🏫,override,bon
+L'école,le lycée,high school,school,1F3EB,🏫,override,bon
+L'école,la salle de classe,classroom,school,1F3EB,🏫,override,approximatif
+L'école,le professeur,teacher,teacher,1F9D1-200D-1F3EB,🧑‍🏫,annotation,bon
+L'école,l'élève,student / pupil,student,1F9D1-200D-1F393,🧑‍🎓,annotation,bon
+L'école,le camarade,classmate,student,1F9D1-200D-1F393,🧑‍🎓,override,approximatif
+L'école,le directeur,principal,,,,abstrait,sans image
+L'école,le cours,class / lesson,bicycle,1F6B2,🚲️,tag,bon
+L'école,les devoirs,homework,notebook,1F4D3,📓,override,approximatif
+L'école,l'examen,exam,spiral notepad,1F5D2,🗒️,override,bon
+L'école,la note,grade / mark,Japanese "passing grade" button,1F234,🈴,tag,bon
+L'école,le cahier,notebook,notebook,1F4D3,📓,annotation,bon
+L'école,le livre,book,notebook with decorative cover,1F4D4,📔,tag,bon
+L'école,le stylo,pen,pen,1F58A,🖊️,annotation,bon
+L'école,le crayon,pencil,pencil,270F,✏️,annotation,bon
+L'école,la gomme,eraser,pencil,270F,✏️,override,approximatif
+L'école,la règle,ruler,straight ruler,1F4CF,📏,tag,bon
+L'école,les ciseaux,scissors,scissors,2702,✂️,annotation,bon
+L'école,la colle,glue,roll of paper,1F9FB,🧻,override,approximatif
+L'école,la trousse,pencil case,pencil,270F,✏️,override,approximatif
+L'école,le sac,bag,luggage,1F9F3,🧳,tag,bon
+L'école,le tableau,board,skateboard,1F6F9,🛹,tag,bon
+L'école,la craie,chalk,pencil,270F,✏️,override,approximatif
+L'école,l'ordinateur,computer,technologist,1F9D1-200D-1F4BB,🧑‍💻,tag,bon
+L'école,la calculatrice,calculator,abacus,1F9EE,🧮,tag,bon
+L'école,le dictionnaire,dictionary,books,1F4DA,📚️,override,approximatif
+L'école,l'emploi du temps,timetable / schedule,spiral calendar,1F5D3,🗓️,override,approximatif
+L'école,la récréation,recess / break,children crossing,1F6B8,🚸,override,approximatif
+L'école,la bibliothèque,library,open book,1F4D6,📖,tag,bon
+L'école,le gymnase,gym,flexed biceps,1F4AA,💪,tag,bon
+L'école,la cour,schoolyard,school,1F3EB,🏫,override,bon
+L'école,les mathématiques,math,straight ruler,1F4CF,📏,tag,bon
+L'école,le français,French (subject),flag: France,1F1EB-1F1F7,🇫🇷,override,bon
+L'école,l'histoire,history,scroll,1F4DC,📜,override,approximatif
+L'école,la géographie,geography,globe showing Europe-Africa,1F30D,🌍️,override,approximatif
+L'école,les sciences,science,microbe,1F9A0,🦠,tag,bon
+L'école,l'anglais,English (subject),flag: United Kingdom,1F1EC-1F1E7,🇬🇧,override,bon
+L'école,l'espagnol,Spanish (subject),flag: Spain,1F1EA-1F1F8,🇪🇸,override,bon
+L'école,la musique,music,speaker high volume,1F50A,🔊,tag,bon
+L'école,les arts plastiques,art,man artist,1F468-200D-1F3A8,👨‍🎨,tag,bon
+L'école,le sport,sport / PE,horse racing,1F3C7,🏇,tag,bon
+L'école,la physique,physics,atom symbol,269B,⚛️,override,approximatif
+L'école,la chimie,chemistry,alembic,2697,⚗️,tag,bon
+L'école,la biologie,biology,petri dish,1F9EB,🧫,tag,bon
+L'école,la technologie,technology (subject),gear,2699,⚙️,override,bon
+L'école,l'informatique,computer science,laptop,1F4BB,💻️,override,bon
+L'école,la question,question,person raising hand,1F64B,🙋,tag,bon
+L'école,la réponse,answer,heavy equals sign,1F7F0,🟰,tag,bon
+L'école,la leçon,lesson,books,1F4DA,📚️,override,approximatif
+L'école,le chapitre,chapter,bookmark tabs,1F4D1,📑,override,approximatif
+L'école,la page,page,page with curl,1F4C3,📃,tag,bon
+L'école,la phrase,sentence,memo,1F4DD,📝,override,approximatif
+L'école,le mot,word,input latin letters,1F524,🔤,override,approximatif
+L'école,la lettre,letter,love letter,1F48C,💌,tag,bon
+L'école,l'exercice,exercise,person gesturing OK,1F646,🙆,tag,bon
+L'école,le contrôle,test / quiz,test tube,1F9EA,🧪,tag,bon
+L'école,le brevet,middle school diploma,graduation cap,1F393,🎓️,override,bon
+L'école,le baccalauréat,high school diploma (bac),graduation cap,1F393,🎓️,override,bon
+L'école,la rentrée,back to school,backpack,1F392,🎒,override,bon
+Les nombres,zéro,zero,keycap: 0,0030-FE0F-20E3,0️⃣,override,bon
+Les nombres,un,one,keycap: 1,0031-FE0F-20E3,1️⃣,override,bon
+Les nombres,deux,two,keycap: 2,0032-FE0F-20E3,2️⃣,override,bon
+Les nombres,trois,three,keycap: 3,0033-FE0F-20E3,3️⃣,override,bon
+Les nombres,quatre,four,keycap: 4,0034-FE0F-20E3,4️⃣,override,bon
+Les nombres,cinq,five,keycap: 5,0035-FE0F-20E3,5️⃣,override,bon
+Les nombres,six,six,keycap: 6,0036-FE0F-20E3,6️⃣,override,bon
+Les nombres,sept,seven,keycap: 7,0037-FE0F-20E3,7️⃣,override,bon
+Les nombres,huit,eight,keycap: 8,0038-FE0F-20E3,8️⃣,override,bon
+Les nombres,neuf,nine,keycap: 9,0039-FE0F-20E3,9️⃣,override,bon
+Les nombres,dix,ten,keycap: 10,1F51F,🔟,override,bon
+Les nombres,onze,eleven,input numbers,1F522,🔢,override,bon
+Les nombres,douze,twelve,input numbers,1F522,🔢,override,bon
+Les nombres,treize,thirteen,input numbers,1F522,🔢,override,bon
+Les nombres,quatorze,fourteen,input numbers,1F522,🔢,override,bon
+Les nombres,quinze,fifteen,input numbers,1F522,🔢,override,bon
+Les nombres,seize,sixteen,input numbers,1F522,🔢,override,bon
+Les nombres,dix-sept,seventeen,input numbers,1F522,🔢,override,bon
+Les nombres,dix-huit,eighteen,input numbers,1F522,🔢,override,bon
+Les nombres,dix-neuf,nineteen,input numbers,1F522,🔢,override,bon
+Les nombres,vingt,twenty,input numbers,1F522,🔢,override,bon
+Les nombres,trente,thirty,input numbers,1F522,🔢,override,bon
+Les nombres,quarante,forty,input numbers,1F522,🔢,override,bon
+Les nombres,cinquante,fifty,input numbers,1F522,🔢,override,bon
+Les nombres,soixante,sixty,input numbers,1F522,🔢,override,bon
+Les nombres,soixante-dix,seventy,input numbers,1F522,🔢,override,bon
+Les nombres,quatre-vingts,eighty,input numbers,1F522,🔢,override,bon
+Les nombres,quatre-vingt-dix,ninety,input numbers,1F522,🔢,override,bon
+Les nombres,cent,one hundred,hundred points,1F4AF,💯,override,bon
+Les nombres,mille,one thousand,input numbers,1F522,🔢,override,bon
+Les nombres,premier,first,1st place medal,1F947,🥇,override,bon
+Les nombres,deuxième,second,2nd place medal,1F948,🥈,override,bon
+Les nombres,troisième,third,3rd place medal,1F949,🥉,override,bon
+Les nombres,dernier,last,last quarter moon,1F317,🌗,tag,bon
+Les nombres,la moitié,half,pie,1F967,🥧,override,bon
+Les nombres,le tiers,third (fraction),3rd place medal,1F949,🥉,tag,bon
+Les nombres,le quart,quarter,pie,1F967,🥧,override,bon
+Les nombres,le nombre,number,input numbers,1F522,🔢,override,bon
+Les nombres,le chiffre,digit / figure,input numbers,1F522,🔢,override,bon
+Les nombres,la paire,pair,handshake,1F91D,🤝,override,bon
+Le temps et le calendrier,lundi,Monday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,mardi,Tuesday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,mercredi,Wednesday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,jeudi,Thursday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,vendredi,Friday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,samedi,Saturday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,dimanche,Sunday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,janvier,January,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,février,February,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,mars,March,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,avril,April,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,mai,May,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,juin,June,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,juillet,July,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,août,August,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,septembre,September,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,octobre,October,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,novembre,November,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,décembre,December,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,le printemps,spring,honeybee,1F41D,🐝,tag,bon
+Le temps et le calendrier,l'été,summer,sunflower,1F33B,🌻,tag,bon
+Le temps et le calendrier,l'automne,autumn / fall,maple leaf,1F341,🍁,tag,bon
+Le temps et le calendrier,l'hiver,winter,skier,26F7,⛷️,tag,bon
+Le temps et le calendrier,le jour,day,sun,2600,☀️,override,bon
+Le temps et le calendrier,la semaine,week,spiral calendar,1F5D3,🗓️,override,bon
+Le temps et le calendrier,le mois,month,tear-off calendar,1F4C6,📆,override,bon
+Le temps et le calendrier,l'année,year,spiral calendar,1F5D3,🗓️,tag,bon
+Le temps et le calendrier,l'heure,hour / time,mantelpiece clock,1F570,🕰️,override,bon
+Le temps et le calendrier,la minute,minute,stopwatch,23F1,⏱️,override,bon
+Le temps et le calendrier,la seconde,second,2nd place medal,1F948,🥈,override,bon
+Le temps et le calendrier,le matin,morning,sunrise,1F305,🌅,override,bon
+Le temps et le calendrier,l'après-midi,afternoon,sun behind small cloud,1F324,🌤️,override,bon
+Le temps et le calendrier,le soir,evening,cityscape at dusk,1F306,🌆,tag,bon
+Le temps et le calendrier,la nuit,night,crescent moon,1F319,🌙,override,bon
+Le temps et le calendrier,aujourd'hui,today,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,demain,tomorrow,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,hier,yesterday,calendar,1F4C5,📅,override,bon
+Le temps et le calendrier,maintenant,now,alarm clock,23F0,⏰️,override,bon
+Le temps et le calendrier,bientôt,soon,right arrow,27A1,➡️,tag,bon
+Le temps et le calendrier,tard,late,face with bags under eyes,1FAE9,🫩,tag,bon
+Le temps et le calendrier,tôt,early,sunrise,1F305,🌅,override,bon
+Le temps et le calendrier,toujours,always,infinity,267E,♾️,override,bon
+Le temps et le calendrier,jamais,never,no entry,26D4,⛔️,override,bon
+Le temps et le calendrier,souvent,often,repeat button,1F501,🔁,override,bon
+Le temps et le calendrier,parfois,sometimes,shuffle tracks button,1F500,🔀,override,bon
+Le temps et le calendrier,le calendrier,calendar,calendar,1F4C5,📅,annotation,bon
+Le temps et le calendrier,la date,date,spiral calendar,1F5D3,🗓️,override,bon
+Le temps et le calendrier,l'anniversaire,birthday,partying face,1F973,🥳,tag,bon
+Le temps et le calendrier,les vacances,vacation / holidays,palm tree,1F334,🌴,tag,bon
+Le temps et le calendrier,le week-end,weekend,calendar,1F4C5,📅,override,bon
+Les couleurs et les formes,rouge,red,enraged face,1F621,😡,tag,bon
+Les couleurs et les formes,bleu,blue,cold face,1F976,🥶,tag,bon
+Les couleurs et les formes,vert,green,nauseated face,1F922,🤢,tag,bon
+Les couleurs et les formes,jaune,yellow,yellow heart,1F49B,💛,tag,bon
+Les couleurs et les formes,orange,orange,orange heart,1F9E1,🧡,tag,bon
+Les couleurs et les formes,violet,purple,smiling face with horns,1F608,😈,tag,bon
+Les couleurs et les formes,rose,pink,pink heart,1FA77,🩷,tag,bon
+Les couleurs et les formes,noir,black,black heart,1F5A4,🖤,tag,bon
+Les couleurs et les formes,blanc,white,heart decoration,1F49F,💟,tag,bon
+Les couleurs et les formes,gris,grey,grey heart,1FA76,🩶,tag,bon
+Les couleurs et les formes,marron,brown,brown heart,1F90E,🤎,tag,bon
+Les couleurs et les formes,le cercle,circle,wheel,1F6DE,🛞,tag,bon
+Les couleurs et les formes,le carré,square,stop button,23F9,⏹️,tag,bon
+Les couleurs et les formes,le triangle,triangle,triangular ruler,1F4D0,📐,tag,bon
+Les couleurs et les formes,le rectangle,rectangle,orange square,1F7E7,🟧,override,bon
+Les couleurs et les formes,le losange,diamond shape,gem stone,1F48E,💎,override,bon
+Les couleurs et les formes,l'étoile,star,star,2B50,⭐️,annotation,bon
+Les couleurs et les formes,la ligne,line,dotted line face,1FAE5,🫥,tag,bon
+Les couleurs et les formes,l'ovale,oval,orange circle,1F7E0,🟠,override,bon
+La météo,le soleil,sun,sun,2600,☀️,annotation,bon
+La météo,la pluie,rain,cloud,2601,☁️,tag,bon
+La météo,le nuage,cloud,cloud,2601,☁️,annotation,bon
+La météo,le vent,wind,leaf fluttering in wind,1F343,🍃,tag,bon
+La météo,la neige,snow,skier,26F7,⛷️,tag,bon
+La météo,l'orage,storm,cloud with lightning and rain,26C8,⛈️,override,bon
+La météo,le brouillard,fog,fog,1F32B,🌫️,annotation,bon
+La météo,l'arc-en-ciel,rainbow,rainbow,1F308,🌈,annotation,bon
+La météo,chaud,hot,melting face,1FAE0,🫠,tag,bon
+La météo,froid,cold,grinning face with sweat,1F605,😅,tag,bon
+La météo,doux,mild,sun behind small cloud,1F324,🌤️,override,bon
+La météo,humide,humid,droplet,1F4A7,💧,override,bon
+La météo,sec,dry,desert,1F3DC,🏜️,tag,bon
+La météo,la tempête,storm,cloud with lightning and rain,26C8,⛈️,override,bon
+La météo,l'éclair,lightning,shooting star,1F320,🌠,tag,bon
+La météo,le tonnerre,thunder,cloud with lightning and rain,26C8,⛈️,tag,bon
+La météo,le ciel,sky,light blue heart,1FA75,🩵,tag,bon
+La météo,la température,temperature,thermometer,1F321,🌡️,override,bon
+La météo,le gel,frost,snowflake,2744,❄️,override,bon
+Les animaux,le chien,dog,dog,1F415,🐕️,annotation,bon
+Les animaux,le chat,cat,cat,1F408,🐈️,annotation,bon
+Les animaux,le cheval,horse,horse,1F40E,🐎,annotation,bon
+Les animaux,la vache,cow,cow,1F404,🐄,annotation,bon
+Les animaux,le cochon,pig,pig,1F416,🐖,annotation,bon
+Les animaux,le mouton,sheep,ram,1F40F,🐏,tag,bon
+Les animaux,la chèvre,goat,goat,1F410,🐐,annotation,bon
+Les animaux,la poule,hen,chicken,1F414,🐔,override,bon
+Les animaux,le coq,rooster,rooster,1F413,🐓,annotation,bon
+Les animaux,le canard,duck,duck,1F986,🦆,annotation,bon
+Les animaux,le lapin,rabbit,rabbit,1F407,🐇,annotation,bon
+Les animaux,la souris,mouse,mouse,1F401,🐁,annotation,bon
+Les animaux,l'oiseau,bird,bird,1F426,🐦️,annotation,bon
+Les animaux,la tortue,turtle,turtle,1F422,🐢,annotation,bon
+Les animaux,le serpent,snake,snake,1F40D,🐍,annotation,bon
+Les animaux,la grenouille,frog,frog,1F438,🐸,annotation,bon
+Les animaux,l'araignée,spider,spider,1F577,🕷️,annotation,bon
+Les animaux,l'abeille,bee,honeybee,1F41D,🐝,tag,bon
+Les animaux,le papillon,butterfly,butterfly,1F98B,🦋,annotation,bon
+Les animaux,la mouche,fly,fly,1FAB0,🪰,annotation,bon
+Les animaux,la fourmi,ant,ant,1F41C,🐜,annotation,bon
+Les animaux,le lion,lion,lion,1F981,🦁,annotation,bon
+Les animaux,le tigre,tiger,tiger,1F405,🐅,annotation,bon
+Les animaux,l'éléphant,elephant,elephant,1F418,🐘,annotation,bon
+Les animaux,la girafe,giraffe,giraffe,1F992,🦒,annotation,bon
+Les animaux,le singe,monkey,monkey,1F412,🐒,annotation,bon
+Les animaux,l'ours,bear,bear,1F43B,🐻,annotation,bon
+Les animaux,le loup,wolf,wolf,1F43A,🐺,annotation,bon
+Les animaux,le renard,fox,fox,1F98A,🦊,annotation,bon
+Les animaux,le cerf,deer,deer,1F98C,🦌,annotation,bon
+Les animaux,l'écureuil,squirrel,chipmunk,1F43F,🐿️,tag,bon
+Les animaux,le hérisson,hedgehog,hedgehog,1F994,🦔,annotation,bon
+Les animaux,le dauphin,dolphin,dolphin,1F42C,🐬,annotation,bon
+Les animaux,le requin,shark,shark,1F988,🦈,annotation,bon
+Les animaux,la baleine,whale,whale,1F40B,🐋,annotation,bon
+Les animaux,le crocodile,crocodile,crocodile,1F40A,🐊,annotation,bon
+Les animaux,le kangourou,kangaroo,kangaroo,1F998,🦘,annotation,bon
+Les animaux,le zèbre,zebra,zebra,1F993,🦓,annotation,bon
+Les animaux,le chameau,camel,camel,1F42A,🐪,annotation,bon
+Les animaux,le pingouin,penguin,penguin,1F427,🐧,annotation,bon
+Les animaux,le hibou,owl,owl,1F989,🦉,annotation,bon
+Les animaux,le perroquet,parrot,parrot,1F99C,🦜,annotation,bon
+Les animaux,l'escargot,snail,snail,1F40C,🐌,annotation,bon
+Les animaux,le crabe,crab,crab,1F980,🦀,annotation,bon
+Les animaux,la panthère,panther,leopard,1F406,🐆,override,bon
+Les animaux,le koala,koala,koala,1F428,🐨,annotation,bon
+La nature,l'arbre,tree,evergreen tree,1F332,🌲,tag,bon
+La nature,la fleur,flower,bouquet,1F490,💐,tag,bon
+La nature,la feuille,leaf,seedling,1F331,🌱,tag,bon
+La nature,l'herbe,grass,cow face,1F42E,🐮,tag,bon
+La nature,la forêt,forest,hairy creature,1FAC8,🫈,tag,bon
+La nature,la montagne,mountain,mountain,26F0,⛰️,annotation,bon
+La nature,la rivière,river,person rowing boat,1F6A3,🚣,tag,bon
+La nature,le lac,lake,person rowing boat,1F6A3,🚣,tag,bon
+La nature,la mer,sea,merperson,1F9DC,🧜,tag,bon
+La nature,l'océan,ocean,merperson,1F9DC,🧜,tag,bon
+La nature,la plage,beach,smiling face with sunglasses,1F60E,😎,tag,bon
+La nature,le sable,sand,turtle,1F422,🐢,tag,bon
+La nature,l'île,island,desert island,1F3DD,🏝️,tag,bon
+La nature,le désert,desert,desert,1F3DC,🏜️,annotation,bon
+La nature,la lune,moon,moon cake,1F96E,🥮,tag,bon
+La nature,la terre,earth / ground,globe showing Europe-Africa,1F30D,🌍️,tag,bon
+La nature,la roche,rock,rock,1FAA8,🪨,annotation,bon
+La nature,la vallée,valley,mountain,26F0,⛰️,override,bon
+La nature,la colline,hill,national park,1F3DE,🏞️,override,bon
+La nature,le volcan,volcano,volcano,1F30B,🌋,annotation,bon
+La nature,la cascade,waterfall,water wave,1F30A,🌊,override,bon
+La nature,la jungle,jungle,monkey face,1F435,🐵,tag,bon
+La nature,la campagne,countryside,deciduous tree,1F333,🌳,override,bon
+La nature,la ferme,farm,horse face,1F434,🐴,tag,bon
+La nature,le champ,field,tractor,1F69C,🚜,tag,bon
+La ville et les lieux,la ville,city / town,office building,1F3E2,🏢,tag,bon
+La ville et les lieux,le village,village,town,E203,,tag,bon
+La ville et les lieux,la rue,street,houses,1F3D8,🏘️,override,bon
+La ville et les lieux,l'avenue,avenue,houses,1F3D8,🏘️,override,bon
+La ville et les lieux,la place,square,stop button,23F9,⏹️,tag,bon
+La ville et les lieux,le pont,bridge,bridge at night,1F309,🌉,tag,bon
+La ville et les lieux,l'immeuble,building,stadium,1F3DF,🏟️,tag,bon
+La ville et les lieux,le magasin,shop,convenience store,1F3EA,🏪,override,bon
+La ville et les lieux,le marché,market,chart increasing with yen,1F4B9,💹,tag,bon
+La ville et les lieux,la banque,bank,bank,1F3E6,🏦,annotation,bon
+La ville et les lieux,la poste,post office,post office,1F3E4,🏤,annotation,bon
+La ville et les lieux,l'hôpital,hospital,hospital,1F3E5,🏥,annotation,bon
+La ville et les lieux,la pharmacie,pharmacy,pill,1F48A,💊,override,bon
+La ville et les lieux,la mairie,town hall,schwäbisch gmünd ratshaus,E209,,tag,bon
+La ville et les lieux,l'église,church,church,26EA,⛪️,annotation,bon
+La ville et les lieux,le musée,museum,framed picture,1F5BC,🖼️,tag,bon
+La ville et les lieux,le cinéma,cinema,cinema,1F3A6,🎦,annotation,bon
+La ville et les lieux,le théâtre,theater,performing arts,1F3AD,🎭️,tag,bon
+La ville et les lieux,le parc,park,national park,1F3DE,🏞️,tag,bon
+La ville et les lieux,la piscine,swimming pool,person swimming,1F3CA,🏊️,override,bon
+La ville et les lieux,le stade,stadium,stadium,1F3DF,🏟️,annotation,bon
+La ville et les lieux,l'aéroport,airport,airplane departure,1F6EB,🛫,override,bon
+La ville et les lieux,la gare,train station,station,1F689,🚉,tag,bon
+La ville et les lieux,l'arrêt de bus,bus stop,bus stop,1F68F,🚏,annotation,bon
+La ville et les lieux,la station de métro,metro station,metro,1F687,🚇️,override,bon
+La ville et les lieux,l'hôtel,hotel,hotel,1F3E8,🏨,annotation,bon
+La ville et les lieux,le centre commercial,shopping mall,department store,1F3EC,🏬,override,bon
+La ville et les lieux,le zoo,zoo,tiger,1F405,🐅,tag,bon
+La ville et les lieux,le quartier,neighborhood,houses,1F3D8,🏘️,override,bon
+La ville et les lieux,le trottoir,sidewalk,houses,1F3D8,🏘️,override,bon
+La ville et les lieux,le feu rouge,traffic light,horizontal traffic light,1F6A5,🚥,tag,bon
+La ville et les lieux,le panneau,sign,sign of the horns,1F918,🤘,tag,bon
+La ville et les lieux,le carrefour,intersection,horizontal traffic light,1F6A5,🚥,tag,bon
+La ville et les lieux,le coin,corner,world map,1F5FA,🗺️,override,bon
+La ville et les lieux,l'adresse,address,loudspeaker,1F4E2,📢,tag,bon
+La ville et les lieux,le nord,north,north,E0A0,,annotation,bon
+La ville et les lieux,le sud,south,down arrow,2B07,⬇️,tag,bon
+La ville et les lieux,l'est,east,right arrow,27A1,➡️,tag,bon
+La ville et les lieux,l'ouest,west,left arrow,2B05,⬅️,tag,bon
+La ville et les lieux,à droite,right (direction),right arrow,27A1,➡️,override,bon
+La ville et les lieux,à gauche,left (direction),left arrow,2B05,⬅️,override,bon
+La ville et les lieux,tout droit,straight ahead,,,,abstrait,sans image
+La ville et les lieux,loin,far,,,,abstrait,sans image
+La ville et les lieux,près,near,,,,abstrait,sans image
+Les transports,la voiture,car,railway car,1F683,🚃,tag,bon
+Les transports,le bus,bus,bus,1F68C,🚌,annotation,bon
+Les transports,le train,train,train,1F686,🚆,annotation,bon
+Les transports,l'avion,airplane,airplane,2708,✈️,annotation,bon
+Les transports,le bateau,boat,person rowing boat,1F6A3,🚣,tag,bon
+Les transports,le vélo,bicycle,bicycle,1F6B2,🚲️,annotation,bon
+Les transports,la moto,motorcycle,motorcycle,1F3CD,🏍️,annotation,bon
+Les transports,le métro,subway,metro,1F687,🚇️,tag,bon
+Les transports,le tramway,tram,tram,1F68A,🚊,annotation,bon
+Les transports,le taxi,taxi,taxi,1F695,🚕,annotation,bon
+Les transports,le camion,truck,fire engine,1F692,🚒,tag,bon
+Les transports,le scooter,scooter,motor scooter,1F6F5,🛵,tag,bon
+Les transports,la trottinette,kick scooter,kick scooter,1F6F4,🛴,annotation,bon
+Les transports,la roue,wheel,wheel,1F6DE,🛞,annotation,bon
+Les transports,le moteur,engine,locomotive,1F682,🚂,tag,bon
+Les transports,l'essence,gasoline,fuel pump,26FD,⛽️,tag,bon
+Les transports,le billet,ticket,ticket,1F3AB,🎫,annotation,bon
+Les transports,le conducteur,driver,delivery truck,1F69A,🚚,tag,bon
+Les transports,le passager,passenger,passenger ship,1F6F3,🛳️,tag,bon
+Les transports,la ceinture de sécurité,seatbelt,seat,1F4BA,💺,override,bon
+Les transports,le permis de conduire,driver's license,identification card,1FAAA,🪪,override,bon
+Les transports,l'autoroute,highway,motorway,1F6E3,🛣️,override,bon
+Les transports,la route,road,motorway,1F6E3,🛣️,tag,bon
+Les transports,l'embouteillage,traffic jam,oncoming automobile,1F698,🚘️,override,bon
+Les transports,le retard,delay,alarm clock,23F0,⏰️,override,bon
+La technologie,le téléphone,phone,call me hand,1F919,🤙,tag,bon
+La technologie,le portable,cellphone,mobile phone,1F4F1,📱,override,bon
+La technologie,le smartphone,smartphone,mobile phone,1F4F1,📱,tag,bon
+La technologie,l'ordinateur,computer,technologist,1F9D1-200D-1F4BB,🧑‍💻,tag,bon
+La technologie,la tablette,tablet,tablet,E1CC,,annotation,bon
+La technologie,l'écran,screen,desktop computer,1F5A5,🖥️,tag,bon
+La technologie,le clavier,keyboard,keyboard,2328,⌨️,annotation,bon
+La technologie,la souris,mouse (computer),mouse,1F401,🐁,annotation,bon
+La technologie,internet,internet,globe with meridians,1F310,🌐,tag,bon
+La technologie,le wifi,wifi,wifi,E254,,annotation,bon
+La technologie,l'application,app,signal,E05D,,tag,bon
+La technologie,le réseau social,social network,globe with meridians,1F310,🌐,override,bon
+La technologie,le message,message,speech balloon,1F4AC,💬,tag,bon
+La technologie,l'appel,phone call,telephone receiver,1F4DE,📞,override,bon
+La technologie,la photo,photo,camera,1F4F7,📷️,tag,bon
+La technologie,la vidéo,video,video game,1F3AE,🎮️,tag,bon
+La technologie,le jeu vidéo,video game,video game,1F3AE,🎮️,annotation,bon
+La technologie,le casque,headset,headphone,1F3A7,🎧️,override,bon
+La technologie,les écouteurs,earphones,headphone,1F3A7,🎧️,override,bon
+La technologie,la batterie,battery,battery,1F50B,🔋,annotation,bon
+La technologie,le chargeur,charger,electric plug,1F50C,🔌,override,bon
+La technologie,le mot de passe,password,key,1F511,🔑,tag,bon
+La technologie,le compte,account,bust in silhouette,1F464,👤,override,bon
+La technologie,l'e-mail,email,envelope,2709,✉️,tag,bon
+La technologie,le réseau,network,wireless,1F6DC,🛜,tag,bon
+La technologie,le site web,website,home button,E25E,,tag,bon
+La technologie,télécharger,to download,inbox tray,1F4E5,📥️,override,bon
+La technologie,envoyer,to send,outbox tray,1F4E4,📤️,override,bon
+La technologie,recevoir,to receive,inbox tray,1F4E5,📥️,override,bon
+La technologie,la caméra,camera,camera,1F4F7,📷️,annotation,bon
+La technologie,le haut-parleur,speaker,muted speaker,1F507,🔇,tag,bon
+La technologie,l'imprimante,printer,printer,1F5A8,🖨️,annotation,bon
+La technologie,la clé USB,USB drive,floppy disk,1F4BE,💾,override,approximatif
+La technologie,les données,data,bar chart,1F4CA,📊,override,bon
+La technologie,la connexion,connection,electric plug,1F50C,🔌,override,bon
+Les sports et loisirs,le football,soccer,soccer ball,26BD,⚽️,tag,bon
+Les sports et loisirs,le basketball,basketball,basketball,1F3C0,🏀,annotation,bon
+Les sports et loisirs,le tennis,tennis,tennis,1F3BE,🎾,annotation,bon
+Les sports et loisirs,la natation,swimming,person swimming,1F3CA,🏊️,tag,bon
+Les sports et loisirs,la course à pied,running,dashing away,1F4A8,💨,tag,bon
+Les sports et loisirs,la danse,dance,woman dancing,1F483,💃,tag,bon
+Les sports et loisirs,le dessin,drawing,man artist,1F468-200D-1F3A8,👨‍🎨,tag,bon
+Les sports et loisirs,la peinture,painting,man artist,1F468-200D-1F3A8,👨‍🎨,tag,bon
+Les sports et loisirs,la lecture,reading,open book,1F4D6,📖,tag,bon
+Les sports et loisirs,l'équipe,team,collaboration,E249,,tag,bon
+Les sports et loisirs,le match,match / game,soccer ball,26BD,⚽️,override,bon
+Les sports et loisirs,l'entraînement,training,flexed biceps,1F4AA,💪,override,bon
+Les sports et loisirs,le ballon,ball,person golfing,1F3CC,🏌️,tag,bon
+Les sports et loisirs,le terrain,field / court,tractor,1F69C,🚜,tag,bon
+Les sports et loisirs,le champion,champion,trophy,1F3C6,🏆️,tag,bon
+Les sports et loisirs,la victoire,victory,victory hand,270C,✌️,tag,bon
+Les sports et loisirs,la défaite,defeat,cross mark,274C,❌️,override,bon
+Les sports et loisirs,le score,score,hundred points,1F4AF,💯,tag,bon
+Les sports et loisirs,l'arbitre,referee,face exhaling,1F62E-200D-1F4A8,😮‍💨,override,bon
+Les sports et loisirs,le joueur,player,person bouncing ball,26F9,⛹️,tag,bon
+Les sports et loisirs,le spectateur,spectator,eyes,1F440,👀,override,bon
+Les sports et loisirs,la randonnée,hiking,snow-capped mountain,1F3D4,🏔️,tag,bon
+Les sports et loisirs,le camping,camping,camping,1F3D5,🏕️,annotation,bon
+Les sports et loisirs,la pêche,fishing,person rowing boat,1F6A3,🚣,tag,bon
+Les sports et loisirs,le ski,skiing,skis,1F3BF,🎿,tag,bon
+Les sports et loisirs,le patinage,skating,ice skate,26F8,⛸️,tag,bon
+Les sports et loisirs,l'escalade,climbing,person climbing,1F9D7,🧗,tag,bon
+Les sports et loisirs,le yoga,yoga,person in lotus position,1F9D8,🧘,tag,bon
+Les sports et loisirs,les arts martiaux,martial arts,martial arts uniform,1F94B,🥋,override,bon
+Les sports et loisirs,le rugby,rugby,rugby football,1F3C9,🏉,tag,bon
+Les sports et loisirs,le volleyball,volleyball,volleyball,1F3D0,🏐,annotation,bon
+Les sports et loisirs,le handball,handball,person playing handball,1F93E,🤾,tag,bon
+Les sports et loisirs,l'athlétisme,track and field,person running,1F3C3,🏃,override,approximatif
+Les sports et loisirs,la gymnastique,gymnastics,person cartwheeling,1F938,🤸,tag,bon
+Les sports et loisirs,les échecs,chess,chess pawn,265F,♟️,tag,bon
+Les sports et loisirs,les cartes,cards (game),flower playing cards,1F3B4,🎴,tag,bon
+Les sports et loisirs,l'instrument de musique,musical instrument,musical note,1F3B5,🎵,override,bon
+Les sports et loisirs,la guitare,guitar,guitar,1F3B8,🎸,annotation,bon
+Les sports et loisirs,le piano,piano,musical keyboard,1F3B9,🎹,tag,bon
+Les sports et loisirs,la batterie (instrument),drums,drum,1F941,🥁,annotation-singular,bon
+Les sports et loisirs,le chant,singing,microphone,1F3A4,🎤,tag,bon
+Les sports et loisirs,le groupe,band,flute,1FA88,🪈,tag,bon
+Les sports et loisirs,le concert,concert,microphone,1F3A4,🎤,override,bon
+Les sports et loisirs,le festival,festival,moon cake,1F96E,🥮,tag,bon
+Les émotions et la personnalité,heureux,happy,grinning face,1F600,😀,tag,bon
+Les émotions et la personnalité,triste,sad,pensive face,1F614,😔,tag,bon
+Les émotions et la personnalité,content,glad / pleased,smiling face with smiling eyes,1F60A,😊,tag,bon
+Les émotions et la personnalité,fâché,angry,face with steam from nose,1F624,😤,tag,bon
+Les émotions et la personnalité,énervé,annoyed,face with steam from nose,1F624,😤,override,bon
+Les émotions et la personnalité,fatigué,tired,sleepy face,1F62A,😪,tag,bon
+Les émotions et la personnalité,stressé,stressed,grinning face with sweat,1F605,😅,tag,bon
+Les émotions et la personnalité,inquiet,worried,worried face,1F61F,😟,tag,bon
+Les émotions et la personnalité,effrayé,scared,face with open eyes and hand over mouth,1FAE2,🫢,tag,bon
+Les émotions et la personnalité,surpris,surprised,star-struck,1F929,🤩,tag,bon
+Les émotions et la personnalité,amoureux,in love,smiling face with heart-eyes,1F60D,😍,override,bon
+Les émotions et la personnalité,jaloux,jealous,neutral face,1F610,😐️,tag,bon
+Les émotions et la personnalité,timide,shy,face with peeking eye,1FAE3,🫣,tag,bon
+Les émotions et la personnalité,gêné,embarrassed,flushed face,1F633,😳,override,bon
+Les émotions et la personnalité,fier,proud,smiling face with sunglasses,1F60E,😎,override,bon
+Les émotions et la personnalité,déçu,disappointed,pensive face,1F614,😔,tag,bon
+Les émotions et la personnalité,excité,excited,star-struck,1F929,🤩,override,bon
+Les émotions et la personnalité,calme,calm,relieved face,1F60C,😌,tag,bon
+Les émotions et la personnalité,nerveux,nervous,grinning face with sweat,1F605,😅,tag,bon
+Les émotions et la personnalité,gentil,kind / nice,smiling face,263A,☺️,override,bon
+Les émotions et la personnalité,méchant,mean,angry face with horns,1F47F,👿,tag,bon
+Les émotions et la personnalité,drôle,funny,rolling on the floor laughing,1F923,🤣,tag,bon
+Les émotions et la personnalité,sérieux,serious,necktie,1F454,👔,tag,bon
+Les émotions et la personnalité,intelligent,smart,nerd face,1F913,🤓,tag,bon
+Les émotions et la personnalité,curieux,curious,thinking face,1F914,🤔,tag,bon
+Les émotions et la personnalité,patient,patient,stretcher,E328,,tag,bon
+Les émotions et la personnalité,impatient,impatient,anxious face with sweat,1F630,😰,override,bon
+Les émotions et la personnalité,généreux,generous,wrapped gift,1F381,🎁,override,bon
+Les émotions et la personnalité,égoïste,selfish,no entry,26D4,⛔️,override,bon
+Les émotions et la personnalité,honnête,honest,white heart,1F90D,🤍,override,bon
+Les émotions et la personnalité,courageux,brave,flexed biceps,1F4AA,💪,override,bon
+Les émotions et la personnalité,sociable,sociable,handshake,1F91D,🤝,override,bon
+Les émotions et la personnalité,sympathique,nice / friendly,grinning face,1F600,😀,tag,bon
+Les émotions et la personnalité,optimiste,optimistic,sun,2600,☀️,override,bon
+Les émotions et la personnalité,pessimiste,pessimistic,cloud,2601,☁️,override,bon
+Les émotions et la personnalité,sensible,sensitive,yellow heart,1F49B,💛,override,bon
+Les émotions et la personnalité,têtu,stubborn,donkey,1FACF,🫏,tag,bon
+Les émotions et la personnalité,poli,polite,folded hands,1F64F,🙏,override,bon
+Les émotions et la personnalité,impoli,impolite,no entry,26D4,⛔️,override,bon
+Les émotions et la personnalité,sage,well-behaved,smiling face with halo,1F607,😇,override,bon
+Les émotions et la personnalité,confiant,confident,flexed biceps,1F4AA,💪,override,bon
+Les émotions et la personnalité,le sourire,smile,grinning face,1F600,😀,tag,bon
+Les émotions et la personnalité,le rire,laughter,face with tears of joy,1F602,😂,override,bon
+Les émotions et la personnalité,pleurer,to cry,crying face,1F622,😢,override,bon
+Les émotions et la personnalité,la peur,fear,fearful face,1F628,😨,tag,bon
+Les émotions et la personnalité,la joie,joy,rolling on the floor laughing,1F923,🤣,tag,bon
+Les émotions et la personnalité,la colère,anger,face with steam from nose,1F624,😤,tag,bon
+Les émotions et la personnalité,la tristesse,sadness,crying face,1F622,😢,override,bon
+Les émotions et la personnalité,l'amour,love,smiling face with hearts,1F970,🥰,tag,bon
+Les émotions et la personnalité,l'amitié,friendship,people hugging,1FAC2,🫂,tag,bon
+Les émotions et la personnalité,l'espoir,hope,crossed fingers,1F91E,🤞,override,bon
+Les émotions et la personnalité,la confiance,confidence / trust,handshake,1F91D,🤝,override,bon
+Les émotions et la personnalité,le stress,stress,grinning face with sweat,1F605,😅,tag,bon
+Les métiers,le médecin,doctor,face with medical mask,1F637,😷,tag,bon
+Les métiers,l'infirmier,nurse,health worker,1F9D1-200D-2695-FE0F,🧑‍⚕️,tag,bon
+Les métiers,le dentiste,dentist,grimacing face,1F62C,😬,tag,bon
+Les métiers,l'avocat,lawyer,man judge,1F468-200D-2696-FE0F,👨‍⚖️,override,bon
+Les métiers,le policier,police officer,police officer,1F46E,👮,annotation,bon
+Les métiers,le pompier,firefighter,firefighter,1F9D1-200D-1F692,🧑‍🚒,annotation,bon
+Les métiers,l'ingénieur,engineer,scientist,1F9D1-200D-1F52C,🧑‍🔬,tag,bon
+Les métiers,l'architecte,architect,office worker,1F9D1-200D-1F4BC,🧑‍💼,tag,bon
+Les métiers,le cuisinier,cook,cook,1F9D1-200D-1F373,🧑‍🍳,annotation,bon
+Les métiers,le boulanger,baker,man cook,1F468-200D-1F373,👨‍🍳,override,bon
+Les métiers,le coiffeur,hairdresser,barber pole,1F488,💈,tag,bon
+Les métiers,le vendeur,salesperson,man office worker,1F468-200D-1F4BC,👨‍💼,override,bon
+Les métiers,le caissier,cashier,money bag,1F4B0,💰️,override,bon
+Les métiers,le mécanicien,mechanic,mechanic,1F9D1-200D-1F527,🧑‍🔧,annotation,bon
+Les métiers,l'agriculteur,farmer,farmer,1F9D1-200D-1F33E,🧑‍🌾,annotation,bon
+Les métiers,le pilote,pilot,pilot,1F9D1-200D-2708-FE0F,🧑‍✈️,annotation,bon
+Les métiers,le chauffeur,driver (job),delivery truck,1F69A,🚚,tag,bon
+Les métiers,le facteur,mail carrier,envelope,2709,✉️,override,bon
+Les métiers,le journaliste,journalist,newspaper,1F4F0,📰,override,bon
+Les métiers,l'écrivain,writer,memo,1F4DD,📝,override,bon
+Les métiers,l'artiste,artist,artist,1F9D1-200D-1F3A8,🧑‍🎨,annotation,bon
+Les métiers,le musicien,musician,man singer,1F468-200D-1F3A4,👨‍🎤,tag,bon
+Les métiers,le chanteur,singer,singer,1F9D1-200D-1F3A4,🧑‍🎤,annotation,bon
+Les métiers,l'acteur,actor,singer,1F9D1-200D-1F3A4,🧑‍🎤,tag,bon
+Les métiers,le réalisateur,film director,clapper board,1F3AC,🎬️,override,bon
+Les métiers,le photographe,photographer,camera,1F4F7,📷️,override,bon
+Les métiers,l'informaticien,IT specialist,laptop,1F4BB,💻️,override,bon
+Les métiers,le scientifique,scientist,scientist,1F9D1-200D-1F52C,🧑‍🔬,annotation,bon
+Les métiers,le comptable,accountant,abacus,1F9EE,🧮,override,bon
+Les métiers,l'employé,employee,briefcase,1F4BC,💼,override,bon
+Les métiers,le patron,boss,necktie,1F454,👔,override,bon
+Les métiers,le secrétaire,secretary,memo,1F4DD,📝,override,bon
+Les métiers,le vétérinaire,veterinarian,paw prints,1F43E,🐾,override,bon
+Les métiers,le pharmacien,pharmacist,pill,1F48A,💊,override,bon
+Les métiers,l'électricien,electrician,electric plug,1F50C,🔌,override,bon
+Les métiers,le plombier,plumber,wrench,1F527,🔧,override,bon
+Les achats et l'argent,l'argent,money,money-mouth face,1F911,🤑,tag,bon
+Les achats et l'argent,l'euro,euro,coin,1FA99,🪙,tag,bon
+Les achats et l'argent,le centime,cent,coin,1FA99,🪙,override,bon
+Les achats et l'argent,le prix,price,money bag,1F4B0,💰️,override,bon
+Les achats et l'argent,cher,expensive,hand with index finger and thumb crossed,1FAF0,🫰,tag,bon
+Les achats et l'argent,bon marché,cheap,money bag,1F4B0,💰️,override,bon
+Les achats et l'argent,gratuit,free (no cost),FREE button,1F193,🆓,override,bon
+Les achats et l'argent,la monnaie,change / currency,coin,1FA99,🪙,override,bon
+Les achats et l'argent,le portefeuille,wallet,purse,1F45B,👛,override,approximatif
+Les achats et l'argent,la carte bancaire,bank card,credit card,1F4B3,💳️,override,bon
+Les achats et l'argent,la caisse,checkout,money bag,1F4B0,💰️,override,bon
+Les achats et l'argent,le reçu,receipt,receipt,1F9FE,🧾,annotation,bon
+Les achats et l'argent,la réduction,discount,label,1F3F7,🏷️,override,bon
+Les achats et l'argent,les soldes,sales,shopping bags,1F6CD,🛍️,override,bon
+Les achats et l'argent,l'achat,purchase,shopping bags,1F6CD,🛍️,override,bon
+Les achats et l'argent,le client,customer,bust in silhouette,1F464,👤,override,bon
+Les achats et l'argent,la boutique,shop / boutique,convenience store,1F3EA,🏪,override,bon
+Les achats et l'argent,la taille,size,straight ruler,1F4CF,📏,override,bon
+Les achats et l'argent,essayer,to try on,t-shirt,1F455,👕,override,bon
+Les achats et l'argent,payer,to pay,money bag,1F4B0,💰️,override,bon
+Les achats et l'argent,coûter,to cost,money bag,1F4B0,💰️,override,bon
+Les achats et l'argent,dépenser,to spend (money),money bag,1F4B0,💰️,override,bon
+Les achats et l'argent,économiser,to save (money),bank,1F3E6,🏦,override,bon
+Les achats et l'argent,le budget,budget,money bag,1F4B0,💰️,override,bon
+Les achats et l'argent,le cadeau,gift,red envelope,1F9E7,🧧,tag,bon
+Les achats et l'argent,le panier,basket,basket,1F9FA,🧺,annotation,bon
+Les achats et l'argent,le chariot,shopping cart,shopping cart,1F6D2,🛒,annotation,bon
+Les achats et l'argent,l'argent de poche,pocket money,coin,1FA99,🪙,override,bon
+Adjectifs courants,grand,tall / big,up arrow,2B06,⬆️,override,bon
+Adjectifs courants,petit,small,ant,1F41C,🐜,override,bon
+Adjectifs courants,gros,big / fat,elephant,1F418,🐘,override,bon
+Adjectifs courants,mince,thin / slim,thread,1F9F5,🧵,override,bon
+Adjectifs courants,long,long,snake,1F40D,🐍,override,bon
+Adjectifs courants,court,short,down arrow,2B07,⬇️,override,bon
+Adjectifs courants,large,wide,left-right arrow,2194,↔️,override,bon
+Adjectifs courants,étroit,narrow,up-down arrow,2195,↕️,override,bon
+Adjectifs courants,haut,high,raised hand,270B,✋️,tag,bon
+Adjectifs courants,bas,low,speaker low volume,1F508,🔈️,tag,bon
+Adjectifs courants,nouveau,new,NEW button,1F195,🆕,override,bon
+Adjectifs courants,vieux,old,older person,1F9D3,🧓,tag,bon
+Adjectifs courants,jeune,young,baby,1F476,👶,tag,bon
+Adjectifs courants,beau,beautiful,sparkles,2728,✨️,tag,bon
+Adjectifs courants,laid,ugly,ogre,1F479,👹,override,bon
+Adjectifs courants,joli,pretty,tulip,1F337,🌷,override,bon
+Adjectifs courants,propre,clean,soap,1F9FC,🧼,tag,bon
+Adjectifs courants,sale,dirty,soap,1F9FC,🧼,override,bon
+Adjectifs courants,plein,full,face savoring food,1F60B,😋,tag,bon
+Adjectifs courants,vide,empty,empty nest,1FAB9,🪹,tag,bon
+Adjectifs courants,facile,easy,cooking,1F373,🍳,tag,bon
+Adjectifs courants,difficile,difficult,yin yang,262F,☯️,tag,bon
+Adjectifs courants,rapide,fast,dashing away,1F4A8,💨,tag,bon
+Adjectifs courants,lent,slow,sloth,1F9A5,🦥,tag,bon
+Adjectifs courants,fort,strong,flexed biceps,1F4AA,💪,tag,bon
+Adjectifs courants,faible,weak,down arrow,2B07,⬇️,override,bon
+Adjectifs courants,lourd,heavy,anchor,2693,⚓️,override,approximatif
+Adjectifs courants,léger,light (weight),feather,1FAB6,🪶,override,bon
+Adjectifs courants,dur,hard,gem stone,1F48E,💎,override,approximatif
+Adjectifs courants,mou,soft,soft ice cream,1F366,🍦,tag,bon
+Adjectifs courants,bon,good,saluting face,1FAE1,🫡,tag,bon
+Adjectifs courants,mauvais,bad,thumbs down,1F44E,👎️,tag,bon
+Adjectifs courants,meilleur,better,thumbs up,1F44D,👍️,override,bon
+Adjectifs courants,important,important,red exclamation mark,2757,❗️,override,approximatif
+Adjectifs courants,utile,useful,wrench,1F527,🔧,override,bon
+Adjectifs courants,dangereux,dangerous,derelict house,1F3DA,🏚️,tag,bon
+Adjectifs courants,bruyant,noisy,speaker high volume,1F50A,🔊,override,bon
+Adjectifs courants,silencieux,silent,shushing face,1F92B,🤫,tag,bon
+Adjectifs courants,ouvert,open,grinning face with big eyes,1F603,😃,tag,bon
+Adjectifs courants,fermé,closed,grinning squinting face,1F606,😆,tag,bon
+Adjectifs courants,correct,correct,oncoming fist,1F44A,👊,tag,bon
+Adjectifs courants,faux,wrong / false,multiply,2716,✖️,tag,bon
+Adjectifs courants,vrai,true,hundred points,1F4AF,💯,tag,bon
+Adjectifs courants,simple,simple,simple,E24C,,annotation,bon
+Adjectifs courants,compliqué,complicated,sad but relieved face,1F625,😥,tag,bon
+Adjectifs courants,moderne,modern,television,1F4FA,📺️,tag,bon
+Adjectifs courants,ancien,old / former,older person,1F9D3,🧓,tag,bon
+Adjectifs courants,différent,different,,,,abstrait,sans image
+Adjectifs courants,pareil,same / similar,,,,abstrait,sans image
+Adjectifs courants,principal,main,,,,abstrait,sans image
+Adjectifs courants,normal,normal,check mark button,2705,✅️,override,approximatif
+Adjectifs courants,bizarre,weird,alien,1F47D,👽️,override,bon
+Adverbes et connecteurs,très,very,,,,abstrait,sans image
+Adverbes et connecteurs,trop,too much,,,,abstrait,sans image
+Adverbes et connecteurs,beaucoup,a lot,,,,abstrait,sans image
+Adverbes et connecteurs,peu,little / few,pinching hand,1F90F,🤏,tag,bon
+Adverbes et connecteurs,assez,enough / rather,,,,abstrait,sans image
+Adverbes et connecteurs,presque,almost,,,,abstrait,sans image
+Adverbes et connecteurs,encore,again / still,repeat button,1F501,🔁,override,bon
+Adverbes et connecteurs,déjà,already,,,,abstrait,sans image
+Adverbes et connecteurs,rarement,rarely,,,,abstrait,sans image
+Adverbes et connecteurs,ici,here,person raising hand,1F64B,🙋,tag,bon
+Adverbes et connecteurs,là,there,,,,abstrait,sans image
+Adverbes et connecteurs,là-bas,over there,,,,abstrait,sans image
+Adverbes et connecteurs,partout,everywhere,,,,abstrait,sans image
+Adverbes et connecteurs,ensemble,together,palms up together,1F932,🤲,tag,bon
+Adverbes et connecteurs,seul,alone,,,,abstrait,sans image
+Adverbes et connecteurs,aussi,also / too,,,,abstrait,sans image
+Adverbes et connecteurs,mais,but,,,,abstrait,sans image
+Adverbes et connecteurs,donc,so / therefore,,,,abstrait,sans image
+Adverbes et connecteurs,alors,so / then,,,,abstrait,sans image
+Adverbes et connecteurs,parce que,because,,,,abstrait,sans image
+Adverbes et connecteurs,pourquoi,why,,,,abstrait,sans image
+Adverbes et connecteurs,comment,how,,,,abstrait,sans image
+Adverbes et connecteurs,quand,when,,,,abstrait,sans image
+Adverbes et connecteurs,où,where,,,,abstrait,sans image
+Adverbes et connecteurs,combien,how much / many,,,,abstrait,sans image
+Ados et vie sociale,l'ami,friend,busts in silhouette,1F465,👥,tag,bon
+Ados et vie sociale,le copain,friend / boyfriend,busts in silhouette,1F465,👥,tag,bon
+Ados et vie sociale,le meilleur ami,best friend,handshake,1F91D,🤝,override,bon
+Ados et vie sociale,la fête,party,party popper,1F389,🎉,override,bon
+Ados et vie sociale,la soirée,evening party,party popper,1F389,🎉,override,bon
+Ados et vie sociale,la sortie,outing,person walking,1F6B6,🚶,override,bon
+Ados et vie sociale,le rendez-vous,appointment / date,calendar,1F4C5,📅,override,bon
+Ados et vie sociale,l'influenceur,influencer,mobile phone,1F4F1,📱,override,bon
+Ados et vie sociale,la tendance,trend,chart increasing,1F4C8,📈,override,bon
+Ados et vie sociale,la mode,fashion,ribbon,1F380,🎀,tag,bon
+Ados et vie sociale,le look,look / style,eyes,1F440,👀,tag,bon
+Ados et vie sociale,l'indépendance,independence,triangular flag,1F6A9,🚩,override,bon
+Ados et vie sociale,l'avenir,future,crystal ball,1F52E,🔮,override,bon
+Ados et vie sociale,le projet,project / plan,clipboard,1F4CB,📋️,override,bon
+Ados et vie sociale,le rêve,dream,thought balloon,1F4AD,💭,tag,bon
+Ados et vie sociale,l'objectif,goal,bullseye,1F3AF,🎯,override,bon
+Ados et vie sociale,la motivation,motivation,flexed biceps,1F4AA,💪,override,bon
+Ados et vie sociale,la réussite,success,trophy,1F3C6,🏆️,override,bon
+Ados et vie sociale,l'échec,failure,cross mark,274C,❌️,override,bon
+Ados et vie sociale,le choix,choice,shuffle tracks button,1F500,🔀,override,bon
+Ados et vie sociale,la décision,decision,thinking face,1F914,🤔,override,bon
+Ados et vie sociale,la responsabilité,responsibility,briefcase,1F4BC,💼,override,bon
+Salutations et expressions courantes,bonjour,hello / good morning,waving hand,1F44B,👋,tag,bon
+Salutations et expressions courantes,bonsoir,good evening,sunset,1F307,🌇,override,bon
+Salutations et expressions courantes,salut,hi / bye (informal),waving hand,1F44B,👋,tag,bon
+Salutations et expressions courantes,au revoir,goodbye,waving hand,1F44B,👋,tag,bon
+Salutations et expressions courantes,à bientôt,see you soon,waving hand,1F44B,👋,override,bon
+Salutations et expressions courantes,à demain,see you tomorrow,waving hand,1F44B,👋,override,bon
+Salutations et expressions courantes,s'il vous plaît,please (formal),pleading face,1F97A,🥺,tag,bon
+Salutations et expressions courantes,s'il te plaît,please (informal),pleading face,1F97A,🥺,tag,bon
+Salutations et expressions courantes,merci,thank you,folded hands,1F64F,🙏,override,bon
+Salutations et expressions courantes,de rien,you're welcome,folded hands,1F64F,🙏,override,bon
+Salutations et expressions courantes,pardon,sorry / excuse me,confused face,1F615,😕,tag,bon
+Salutations et expressions courantes,excusez-moi,excuse me (formal),person bowing,1F647,🙇,override,bon
+Salutations et expressions courantes,bienvenue,welcome,waving hand,1F44B,👋,override,bon
+Salutations et expressions courantes,félicitations,congratulations,clapping hands,1F44F,👏,tag,bon
+Salutations et expressions courantes,bon anniversaire,happy birthday,birthday cake,1F382,🎂,override,bon
+Salutations et expressions courantes,bonne chance,good luck,four leaf clover,1F340,🍀,override,bon
+Salutations et expressions courantes,bon appétit,enjoy your meal,fork and knife with plate,1F37D,🍽️,override,bon
+Salutations et expressions courantes,enchanté,nice to meet you,handshake,1F91D,🤝,override,bon
+Vacances et bord de mer,la valise,suitcase,luggage,1F9F3,🧳,tag,bon
+Vacances et bord de mer,le passeport,passport,passport control,1F6C2,🛂,tag,bon
+Vacances et bord de mer,la crème solaire,sunscreen,sun,2600,☀️,override,bon
+Vacances et bord de mer,les lunettes de soleil,sunglasses,sunglasses,1F576,🕶️,annotation,bon
+Vacances et bord de mer,le parasol,beach umbrella,beach with umbrella,1F3D6,🏖️,override,bon
+Vacances et bord de mer,la vague,wave,water wave,1F30A,🌊,override,bon
+Vacances et bord de mer,le coquillage,seashell,spiral shell,1F41A,🐚,override,bon
+Vacances et bord de mer,la croisière,cruise,ship,1F6A2,🚢,override,bon
+Vacances et bord de mer,bronzer,to tan,sun,2600,☀️,override,bon
+Vacances et bord de mer,se baigner,to swim / bathe,person swimming,1F3CA,🏊️,override,bon
+Vacances et bord de mer,le port,harbor / port,anchor,2693,⚓️,override,bon
+Le marché et les commerçants,le boucher,butcher (person),cut of meat,1F969,🥩,override,bon
+Le marché et les commerçants,le poissonnier,fishmonger,fish,1F41F,🐟️,override,bon
+Le marché et les commerçants,le fleuriste,florist,bouquet,1F490,💐,override,bon
+Le marché et les commerçants,le primeur,greengrocer,carrot,1F955,🥕,override,bon
+Le marché et les commerçants,le marchand,merchant / seller,bust in silhouette,1F464,👤,override,bon
+Le marché et les commerçants,un kilo de,a kilo of,balance scale,2696,⚖️,override,bon
+Le marché et les commerçants,l'étal,market stall,shopping cart,1F6D2,🛒,override,bon
+Les jeux,le jeu de société,board game,game die,1F3B2,🎲,override,bon
+Les jeux,les dés,dice,game die,1F3B2,🎲,tag,bon
+Les jeux,le puzzle,puzzle,puzzle piece,1F9E9,🧩,tag,bon
+Les jeux,la devinette,riddle,thinking face,1F914,🤔,override,bon
+Les jeux,le pion,game piece / pawn,chess pawn,265F,♟️,override,bon
+Les jeux,le plateau de jeu,game board,game die,1F3B2,🎲,override,bon
+Les jeux,la piñata,piñata,piñata,1FA85,🪅,annotation,bon
+États physiques et santé,malade,sick,face with medical mask,1F637,😷,tag,bon
+États physiques et santé,en bonne santé,healthy,green heart,1F49A,💚,override,bon
+États physiques et santé,en forme,fit / well,flexed biceps,1F4AA,💪,override,bon
+États physiques et santé,guéri,healed / recovered,adhesive bandage,1FA79,🩹,override,bon
+États physiques et santé,blessé,injured,adhesive bandage,1FA79,🩹,override,bon
+États physiques et santé,la fièvre,fever,face with thermometer,1F912,🤒,tag,bon
+États physiques et santé,le rhume,cold (illness),grinning face with sweat,1F605,😅,tag,bon
+États physiques et santé,la maladie,illness,face with medical mask,1F637,😷,override,bon
+États physiques et santé,la grippe,flu,sneezing face,1F927,🤧,override,bon
+États physiques et santé,tousser,to cough,face with medical mask,1F637,😷,override,bon
+États physiques et santé,éternuer,to sneeze,sneezing face,1F927,🤧,override,bon
+États physiques et santé,avoir mal,to hurt / be in pain,face with head-bandage,1F915,🤕,override,bon

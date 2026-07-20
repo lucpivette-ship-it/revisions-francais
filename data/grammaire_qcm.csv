@@ -1,0 +1,101 @@
+﻿Ordre_theme,Theme,Question_num,Question,Option_A,Option_B,Option_C,Option_D,Reponse_correcte
+1,Les articles définis et indéfinis,1,"___ chien est noir.",Le,La,Les,L',Le
+1,Les articles définis et indéfinis,2,"Elle a ___ pomme.",un,une,des,le,une
+1,Les articles définis et indéfinis,3,"___ chats dorment.",Le,La,Les,Un,Les
+1,Les articles définis et indéfinis,4,"J'ai ___ ami à Paris.",un,une,des,le,un
+1,Les articles définis et indéfinis,5,"___ eau est froide.",Le,La,L',Les,L'
+2,Le genre et le nombre des noms,1,"Quel est le féminin de ""un ami"" ?",une amie,un amis,une ami,les amis,une amie
+2,Le genre et le nombre des noms,2,"Quel est le pluriel de ""un chat"" ?",un chats,des chat,des chats,les chat,des chats
+2,Le genre et le nombre des noms,3,"Quel est le féminin de ""acteur"" ?",actrice,acteure,actrisse,actoresse,actrice
+2,Le genre et le nombre des noms,4,"Quel est le pluriel de ""un cheval"" ?",des chevals,des chevaux,les cheval,des chevaus,des chevaux
+2,Le genre et le nombre des noms,5,"Quel est le féminin de ""le directeur"" ?",la directeure,la directrice,la direction,la directoresse,la directrice
+3,Les pronoms sujets,1,"___ mange une pomme. (moi)",Je,Tu,Il,Vous,Je
+3,Les pronoms sujets,2,"Quel pronom pour ""Marie et Paul"" ?",il,elle,ils,nous,ils
+3,Les pronoms sujets,3,"Quel pronom pour ""toi et moi"" ?",vous,nous,ils,elles,nous
+3,Les pronoms sujets,4,"Quel pronom remplace ""la maison"" ?",il,elle,ils,elles,elle
+3,Les pronoms sujets,5,"Quel pronom pour parler à un ami (informel) ?",vous,tu,il,nous,tu
+4,Le présent de l'indicatif,1,"Conjugue ""parler"" à je :",parle,parles,parlons,parlez,parle
+4,Le présent de l'indicatif,2,"Conjugue ""finir"" à nous :",finis,finissons,finissez,finissent,finissons
+4,Le présent de l'indicatif,3,"Conjugue ""vendre"" à tu :",vend,vends,vendons,vendez,vends
+4,Le présent de l'indicatif,4,"Conjugue ""être"" à ils :",sont,est,es,êtes,sont
+4,Le présent de l'indicatif,5,"Conjugue ""avoir"" à nous :",ai,as,avons,ont,avons
+5,Les adjectifs possessifs,1,"C'est ___ frère (à moi).",mon,ma,mes,ton,mon
+5,Les adjectifs possessifs,2,"C'est ___ sœur (à moi).",mon,ma,mes,ton,ma
+5,Les adjectifs possessifs,3,"Ce sont ___ parents (à moi).",mon,ma,mes,ton,mes
+5,Les adjectifs possessifs,4,"___ maison (à toi) est grande.",Mon,Ta,Ton,Ma,Ta
+5,Les adjectifs possessifs,5,"___ chien (à elle) est mignon.",Son,Sa,Ses,Leur,Son
+6,Les adjectifs qualificatifs (accord),1,"une ___ maison",grand,grande,grands,grandes,grande
+6,Les adjectifs qualificatifs (accord),2,"un chien ___",noir,noire,noirs,noires,noir
+6,Les adjectifs qualificatifs (accord),3,"des filles ___",intelligent,intelligente,intelligents,intelligentes,intelligentes
+6,Les adjectifs qualificatifs (accord),4,"une pomme ___",rouge,rouges,rougee,rouget,rouge
+6,Les adjectifs qualificatifs (accord),5,"des garçons ___",heureux,heureuse,heureuses,heureuxs,heureux
+7,La négation simple,1,"Je ___ mange ___ viande.",ne / pas,ne / jamais,pas / ne,ne / plus,ne / pas
+7,La négation simple,2,"Négation de ""Il aime le café.""","Il n'aime pas le café.",Il aime pas le café.,Il ne aime pas le café.,Il n'aime le café pas.,"Il n'aime pas le café."
+7,La négation simple,3,"Négation de ""Nous avons faim.""","Nous n'avons pas faim.",Nous avons pas faim.,Nous ne avons pas faim.,Nous n'avons faim pas.,"Nous n'avons pas faim."
+7,La négation simple,4,"Je ne sais ___.",pas,rien,jamais,personne,rien
+7,La négation simple,5,"Elle ne vient ___.",pas,jamais,rien,personne,jamais
+8,Poser des questions,1,"Transforme en question : ""Tu aimes le chocolat.""","Est-ce que tu aimes le chocolat ?","Aimes tu le chocolat est-ce que ?","Tu est-ce que aimes le chocolat ?","Est-ce tu aimes le chocolat ?","Est-ce que tu aimes le chocolat ?"
+8,Poser des questions,2,"Quel mot pour demander un lieu ?",Quand,Où,Pourquoi,Qui,Où
+8,Poser des questions,3,"Quel mot pour demander une raison ?",Comment,Où,Pourquoi,Quand,Pourquoi
+8,Poser des questions,4,"Quel mot pour demander une quantité ?",Combien,Comment,Quand,Qui,Combien
+8,Poser des questions,5,"___ t'appelles-tu ?",Quand,Comment,Où,Pourquoi,Comment
+9,Les prépositions de lieu,1,"Le chat est ___ la table.",sur,sous,dans,devant,sur
+9,Les prépositions de lieu,2,"Le livre est ___ le sac.",sur,sous,dans,devant,dans
+9,Les prépositions de lieu,3,"La voiture est ___ la maison.",dans,devant,sous,sur,devant
+9,Les prépositions de lieu,4,"Le chien est caché ___ la table.",sur,sous,devant,derrière,sous
+9,Les prépositions de lieu,5,"Le jardin est ___ la maison.",dans,derrière,sur,sous,derrière
+10,L'heure et la date,1,"Comment dit-on ""3:30"" ?","Il est trois heures et demie","Il est trois heures et quart","Il est trois heures moins le quart","Il est quinze heures",Il est trois heures et demie
+10,L'heure et la date,2,"Quel jour vient après ""lundi"" ?",dimanche,mardi,mercredi,vendredi,mardi
+10,L'heure et la date,3,"Quel est le premier mois de l'année ?",décembre,janvier,février,mars,janvier
+10,L'heure et la date,4,"Quelle saison vient après le printemps ?",l'hiver,l'été,l'automne,le printemps,l'été
+10,L'heure et la date,5,"Comment dit-on ""today"" ?",hier,demain,aujourd'hui,maintenant,aujourd'hui
+11,Le futur proche,1,"Je ___ manger.",vais,va,vas,allons,vais
+11,Le futur proche,2,"Ils ___ sortir ce soir.",vont,va,vais,allez,vont
+11,Le futur proche,3,"Transforme au futur proche : ""Elle mange.""","Elle va manger.",Elle mangera.,Elle a mangé.,Elle mangeait.,"Elle va manger."
+11,Le futur proche,4,"Nous ___ partir demain.",allons,allez,vont,va,allons
+11,Le futur proche,5,"Tu ___ regarder un film.",vas,va,allons,vont,vas
+12,Le futur simple,1,"Futur de ""manger"" à je :",mange,mangerai,mangeait,mangé,mangerai
+12,Le futur simple,2,"Futur de ""finir"" à nous :",finissons,finirons,finissions,finis,finirons
+12,Le futur simple,3,"Futur de ""être"" à il :",est,sera,était,été,sera
+12,Le futur simple,4,"Futur de ""avoir"" à tu :",as,auras,avais,eu,auras
+12,Le futur simple,5,"Futur de ""aller"" à ils :",vont,iront,allaient,allés,iront
+13,Le passé composé (avec avoir),1,"Passé composé de ""manger"" à je :",mange,ai mangé,mangerai,mangeais,ai mangé
+13,Le passé composé (avec avoir),2,"Passé composé de ""finir"" à elle :",finit,a fini,finira,finissait,a fini
+13,Le passé composé (avec avoir),3,"Passé composé de ""faire"" à nous :",faisons,avons fait,ferons,faisions,avons fait
+13,Le passé composé (avec avoir),4,"Passé composé de ""avoir"" à ils :",ont,ont eu,auront,avaient,ont eu
+13,Le passé composé (avec avoir),5,"Passé composé de ""voir"" à tu :",vois,as vu,verras,voyais,as vu
+14,Le passé composé (avec être),1,"Passé composé de ""aller"" à je (fille) :",vais,suis allé,suis allée,irai,suis allée
+14,Le passé composé (avec être),2,"Passé composé de ""venir"" à il :",vient,est venu,viendra,venait,est venu
+14,Le passé composé (avec être),3,"Quel auxiliaire pour ""partir"" ?",avoir,être,avoir ou être,aucun,être
+14,Le passé composé (avec être),4,"Passé composé de ""naître"" à elle :",naît,est née,naîtra,naissait,est née
+14,Le passé composé (avec être),5,"Passé composé de ""sortir"" à ils :",sortent,sont sortis,sortiront,sortaient,sont sortis
+15,Les verbes pronominaux,1,"Je ___ lève à 7 heures.",me,te,se,nous,me
+15,Les verbes pronominaux,2,"Elle ___ habille vite.",me,te,s',nous,s'
+15,Les verbes pronominaux,3,"Passé composé de ""se laver"" à elle :",se lave,s'est lavée,se lavera,se lavait,s'est lavée
+15,Les verbes pronominaux,4,"Nous ___ amusons bien.",me,te,se,nous,nous
+15,Les verbes pronominaux,5,"Ils ___ dépêchent.",se,te,me,nous,se
+16,Les comparatifs,1,"Il est ___ grand que moi.",plus,aussi,moins,le plus,plus
+16,Les comparatifs,2,"Elle court ___ vite que lui.",plus,aussi,moins,mieux,aussi
+16,Les comparatifs,3,"Comparatif irrégulier de ""bon"" :",plus bon,meilleur,plus bien,mieux,meilleur
+16,Les comparatifs,4,"Ce livre est ___ intéressant que l'autre.",moins,mieux,meilleur,le moins,moins
+16,Les comparatifs,5,"Il mange ___ que moi. (comparatif de ""bien"")",plus,meilleur,mieux,le mieux,mieux
+17,Les superlatifs,1,"C'est ___ intelligent de la classe.",le plus,plus,aussi,moins,le plus
+17,Les superlatifs,2,"C'est ___ élève de l'école. (meilleur)",le meilleur,le plus bon,meilleur,plus bon,le meilleur
+17,Les superlatifs,3,"C'est ___ grande ville.",plus,le plus,la plus,moins,la plus
+17,Les superlatifs,4,"C'est ___ facile de tous les exercices.",le plus,plus,aussi,le moins,le plus
+17,Les superlatifs,5,"C'est ___ rapide de l'équipe.",le plus,la plus,plus,moins,le plus
+18,Les pronoms compléments (COD/COI),1,"""Je vois Marie."" -> ""Je ___ vois.""",le,la,lui,les,la
+18,Les pronoms compléments (COD/COI),2,"""Je parle à mon ami."" -> ""Je ___ parle.""",le,la,lui,les,lui
+18,Les pronoms compléments (COD/COI),3,"""Il regarde les enfants."" -> ""Il ___ regarde.""",le,la,les,leur,les
+18,Les pronoms compléments (COD/COI),4,"""Elle donne le livre à ses parents."" -> ""Elle ___ donne le livre.""",le,la,lui,leur,leur
+18,Les pronoms compléments (COD/COI),5,"""Tu aimes ce film."" -> ""Tu ___ aimes.""",le,la,les,lui,le
+19,Les connecteurs logiques,1,"Je reste à la maison ___ il pleut.",parce que,donc,mais,et,parce que
+19,Les connecteurs logiques,2,"Il fait froid, ___ je mets un manteau.",parce que,donc,mais,car,donc
+19,Les connecteurs logiques,3,"J'aime le chocolat ___ je n'aime pas la glace.",donc,parce que,mais,alors,mais
+19,Les connecteurs logiques,4,"Elle est fatiguée ___ elle a beaucoup travaillé.",car,mais,donc,ou,car
+19,Les connecteurs logiques,5,"Il pleut, ___ nous restons à l'intérieur.",parce que,alors,mais,car,alors
+20,L'impératif,1,"Impératif de ""manger"" (tu) :",manges,mange,mangez,mangeons,mange
+20,L'impératif,2,"Impératif de ""finir"" (vous) :",finis,finissez,finissons,finit,finissez
+20,L'impératif,3,"Impératif négatif de ""courir"" (tu) :",Ne cours pas,Ne courir pas,Cours pas,Ne cours,Ne cours pas
+20,L'impératif,4,"Impératif de ""être"" (nous) :",sommes,soyons,soyez,sois,soyons
+20,L'impératif,5,"Impératif de ""avoir"" (tu) :",as,aie,ayons,ayez,aie
