@@ -10,6 +10,14 @@ const ConjugationModule = (function () {
     { key: 'PasseCompose', label: 'Passé composé' },
   ];
   const PRONOUNS = ['je', 'tu', 'il/elle', 'nous', 'vous', 'ils/elles'];
+  const PRONOUN_LABELS = {
+    je: 'je',
+    tu: 'tu',
+    'il/elle': 'il elle',
+    nous: 'nous',
+    vous: 'vous',
+    'ils/elles': 'ils elles',
+  };
 
   async function init(rootEl) {
     container = rootEl;
@@ -42,7 +50,7 @@ const ConjugationModule = (function () {
         (v, i) =>
           '<li class="verb-row" data-index="' + i + '">' +
           '<span class="verb-inf">' + escapeHTML(v.Infinitif) + '</span>' +
-          '<span class="verb-groupe">' + escapeHTML(v.Groupe) + '</span>' +
+          '<span class="verb-groupe">' + ' ( ' + escapeHTML(v.Japonais) + ' ) ' + escapeHTML(v.Groupe) + '</span>' +
           '</li>'
       )
       .join('');
@@ -65,7 +73,7 @@ const ConjugationModule = (function () {
   function renderLesson(index, tenseKey) {
     const v = allVerbs[index];
     const label = TENSES.find((t) => t.key === tenseKey).label;
-    const segments = PRONOUNS.map((p) => p + ' ' + getForm(v, tenseKey, p));
+    const segments = PRONOUNS.map((p) => PRONOUN_LABELS[p] + ' ' + getForm(v, tenseKey, p));
 
     const spansHTML = segments
       .map((seg, i) => '<span class="conj-segment" id="seg' + i + '">' + escapeHTML(seg) + '</span>')
@@ -131,7 +139,7 @@ const ConjugationModule = (function () {
       const distractors = shuffle([...new Set(distractorPool)]).slice(0, 3);
       const options = shuffle([correct, ...distractors]);
       return {
-        question: 'Comment conjugue-t-on "' + v.Infinitif + '" à "' + pronoun + '" (' + label + ') ?',
+        question: 'Comment conjugue-t-on "' + v.Infinitif + '" à "' + PRONOUN_LABELS[pronoun] + '" (' + label + ') ?',
         options,
         correct,
       };

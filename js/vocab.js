@@ -21,11 +21,12 @@ const VocabModule = (function () {
     const rows = categories
       .map((cat) => {
         const count = wordsInCategory(cat).length;
+        const jp = DataLoader.categoryJP(cat);
         return (
           '<button class="category-card" data-cat="' +
           escapeAttr(cat) +
           '">' +
-          '<span class="category-name">' + escapeHTML(cat) + '</span>' +
+          '<span class="category-name">' + escapeHTML(cat) + (jp ? ' ( ' + escapeHTML(jp) + ' )' : '') + '</span>' +
           '<span class="category-count">' + count + ' mots</span>' +
           '</button>'
         );
@@ -40,6 +41,7 @@ const VocabModule = (function () {
 
   function renderCategory(cat) {
     const words = wordsInCategory(cat);
+    const jp = DataLoader.categoryJP(cat);
     const list = words
       .map(
         (w, i) =>
@@ -51,7 +53,7 @@ const VocabModule = (function () {
       .join('');
     container.innerHTML =
       '<button class="back-btn">&larr; Thèmes</button>' +
-      '<h2>' + escapeHTML(cat) + '</h2>' +
+      '<h2>' + escapeHTML(cat) + (jp ? ' ( ' + escapeHTML(jp) + ' )' : '') + '</h2>' +
       '<div class="category-actions">' +
       '<button class="btn-primary" id="startQuizBtn">🎤 Quiz de prononciation</button>' +
       '</div>' +
