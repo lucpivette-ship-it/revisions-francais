@@ -76,8 +76,11 @@ const ConjugationModule = (function () {
     const segments = PRONOUNS.map((p) => PRONOUN_LABELS[p] + ' ' + getForm(v, tenseKey, p));
 
     const spansHTML = segments
-      .map((seg, i) => '<span class="conj-segment" id="seg' + i + '">' + escapeHTML(seg) + '</span>')
-      .join('<span class="conj-sep">, </span>');
+      .map(
+        (seg, i) =>
+          '<div class="conj-row"><span class="conj-segment" id="seg' + i + '">' + escapeHTML(seg) + '</span></div>'
+      )
+      .join('');
 
     container.innerHTML =
       '<button class="back-btn">&larr; Retour</button>' +

@@ -3,10 +3,27 @@
 const SpeechHelper = (function () {
   let frenchVoice = null;
 
+  // Devices often expose several French voices of very different quality
+  // (e.g. iOS ships a robotic "compact" voice by default, plus a much more
+  // natural "Enhanced"/"Premium" one once downloaded in Settings; Android
+  // Chrome can expose Google's network-based voice too). Score each
+  // candidate and pick the best-sounding one instead of just the first match.
+  function voiceQualityScore(v) {
+    const name = (v.name || '').toLowerCase();
+    let score = 0;
+    if (/(premium|enhanced|amélior|ameliore|neural|wavenet|natural)/.test(name)) score += 10;
+    if (/google/.test(name)) score += 6;
+    if (/(compact|default)/.test(name)) score -= 5;
+    if (v.localService === false) score += 2; // network voices are usually higher quality
+    if (v.lang && v.lang.toLowerCase() === 'fr-fr') score += 1; // prefer France French over other locales
+    return score;
+  }
+
   function pickFrenchVoice() {
     if (!('speechSynthesis' in window)) return null;
-    const voices = window.speechSynthesis.getVoices();
-    return voices.find((v) => v.lang && v.lang.toLowerCase().startsWith('fr')) || null;
+    const voices = window.speechSynthesis.getVoices().filter((v) => v.lang && v.lang.toLowerCase().startsWith('fr'));
+    if (!voices.length) return null;
+    return voices.sort((a, b) => voiceQualityScore(b) - voiceQualityScore(a))[0];
   }
 
   if ('speechSynthesis' in window) {
