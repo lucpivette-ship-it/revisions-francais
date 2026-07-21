@@ -166,6 +166,69 @@ Contenu généré pour validation, dans `data/` (avec accents corrects et BOM UT
   Netlify, ou un autre hébergement statique. **Pas encore fait** — à
   décider avec Luc.
 
+**2026-07-21 — Application en ligne !**
+- Dépôt GitHub : `lucpivette-ship-it/revisions-francais` (public), déjà rempli
+  avec tous les fichiers du projet.
+- GitHub Pages activé (Settings > Pages > Deploy from branch `main` / root).
+- **URL en ligne : https://lucpivette-ship-it.github.io/revisions-francais/**
+- Testé en direct : Accueil (bienvenue + stats), Vocabulaire (26 thèmes,
+  fiche mot avec espace photo vide fonctionnel, japonais bien affiché),
+  Conjugaison (onglets Présent/Futur/Passé composé, leçon "parler" avec texte
+  correct), Grammaire (20 thèmes) — tout s'affiche correctement en ligne.
+- **Prochaine étape pour Luc** : ouvrir ce lien dans Safari sur l'iPad,
+  puis Partager > "Sur l'écran d'accueil" pour l'installer.
+- **Pour les mises à jour futures** (nouvelles photos, mots) : copier les
+  fichiers modifiés dans le dépôt GitHub (via GitHub Desktop ou upload web)
+  et pousser/committer. Pour que les appareils déjà installés voient les
+  changements, penser à changer `'revfr-v1'` en `'revfr-v2'` (etc.) dans
+  `service-worker.js` à chaque mise à jour de contenu.
+
+**2026-07-21 — Labels bilingues (français + japonais).** Suite à la demande de
+Luc, quatre ajustements appliqués et poussés en ligne :
+1. Menu de navigation bilingue : "Accueil ( ホーム )", "Vocabulaire ( 語彙 )",
+   "Conjugaison ( 活用 )", "Grammaire ( 文法 )".
+2. Thèmes de vocabulaire bilingues (ex. "La famille ( 家族 )") — ajout d'un
+   dictionnaire `CATEGORY_JP` dans `data-loader.js`.
+3. Liste des verbes en conjugaison : traduction japonaise entre parenthèses
+   avant le groupe, avec espaces (ex. "parler ( 話す（はなす） ) 1er groupe (-er)").
+4. Dans les leçons/QCM de conjugaison, "il/elle" et "ils/elles" affichés avec
+   un espace au lieu du slash ("il elle", "ils elles").
+- Fichiers modifiés : `js/data-loader.js`, `js/vocab.js`, `js/conjugation.js`,
+  `index.html`.
+- Déployés via l'upload web GitHub (pas le CodeMirror inline — un essai de
+  frappe directe dans l'éditeur en ligne a cassé l'indentation ; on est passé
+  par la page `/upload/main/...` pour uploader les fichiers locaux tels quels).
+- Cache bumped `'revfr-v1'` → `'revfr-v2'` dans `service-worker.js`.
+- Vérifié en ligne (après avoir vidé le cache du service worker du navigateur
+  de test) : les 4 changements s'affichent correctement sur
+  https://lucpivette-ship-it.github.io/revisions-francais/
+
+**2026-07-21 — Mise en page conjugaison, fond d'écran, voix.**
+1. Conjugaison : les 6 pronoms (je/tu/il elle/nous/vous/ils elles) s'affichent
+   maintenant chacun sur sa propre ligne (au lieu de tous alignés
+   horizontalement séparés par des virgules) — `js/conjugation.js`
+   (`renderLesson`) + nouvelle classe `.conj-row` dans `css/style.css`.
+2. Fond d'écran (photo de Saint-Georges) rendu plus présent : le voile bleu
+   clair par-dessus est passé d'une opacité de 0.55 à 0.3, donc la photo
+   ressort davantage (~70% photo / 30% teinte au lieu de ~50/50) —
+   `css/style.css` (`body::before`).
+3. Voix française (Web Speech API) : le code choisissait la première voix
+   française trouvée, souvent la voix robotique par défaut. `js/tts.js`
+   (`pickFrenchVoice`) note maintenant chaque voix disponible et choisit la
+   meilleure (favorise les voix "Enhanced"/"Premium"/"Amélioré"/Google/réseau,
+   défavorise "compact"/"default"). **Amélioration gratuite mais limitée par
+   les voix installées sur l'appareil** — pour un vrai gain de qualité côté
+   Luc/les filles : sur iPad, Réglages > Accessibilité > Contenu énoncé >
+   Voix > Français > télécharger une voix "Améliorée"/"Premium" (~200 Mo,
+   une fois). Sur Android/Chrome, vérifier que le moteur de synthèse vocale
+   par défaut est "Google" (Réglages > Accessibilité > Synthèse vocale).
+   Option non retenue pour l'instant (discutée avec Luc) : générer à l'avance
+   de vrais fichiers audio via un service cloud (Google/Amazon/ElevenLabs)
+   pour une voix beaucoup plus naturelle — plus de travail (script de
+   génération, compte API) mais meilleure qualité et fonctionne hors ligne.
+   À reconsidérer si la voix reste insatisfaisante après le réglage iPad.
+- Cache bumped `'revfr-v2'` → `'revfr-v3'` dans `service-worker.js`.
+
 ## Ce qu'il reste à faire
 
 **2026-07-20 — Contenu validé.** Luc confirme que la taille actuelle (896 mots,
