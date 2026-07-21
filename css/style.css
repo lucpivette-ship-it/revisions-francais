@@ -21,16 +21,32 @@ body {
   position: relative;
 }
 
-/* Background image (SaintGeorges) with a light-blue tint, applied behind all content */
+/* Background image (SaintGeorges) with a light-blue tint, applied behind all content.
+   Pochacco is layered on top, on the left side, sitting over the sea. */
 body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
   z-index: -1;
-  background:
-    linear-gradient(rgba(173, 214, 240, 0.3), rgba(173, 214, 240, 0.3)),
-    url('../SaintGeorges.jfif') center / cover no-repeat fixed;
   background-color: var(--blue-light);
+  background-image:
+    url('../Pochacco.jfif'),
+    linear-gradient(rgba(173, 214, 240, 0.3), rgba(173, 214, 240, 0.3)),
+    url('../SaintGeorges.jfif');
+  background-position:
+    left 2% bottom 18%,
+    center,
+    center;
+  background-size:
+    150px auto,
+    cover,
+    cover;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-attachment: fixed, fixed, fixed;
+}
+
+@media (max-width: 600px) {
+  body::before { background-size: 100px auto, cover, cover; }
 }
 
 .app-header {
