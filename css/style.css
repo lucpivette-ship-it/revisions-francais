@@ -28,7 +28,7 @@ body::before {
   top: 0; left: 0; right: 0; bottom: 0;
   z-index: -1;
   background:
-    linear-gradient(rgba(173, 214, 240, 0.55), rgba(173, 214, 240, 0.55)),
+    linear-gradient(rgba(173, 214, 240, 0.3), rgba(173, 214, 240, 0.3)),
     url('../SaintGeorges.jfif') center / cover no-repeat fixed;
   background-color: var(--blue-light);
 }
@@ -257,13 +257,20 @@ h2 { color: var(--blue-dark); margin-top: 0; }
 .verb-jp { color: #5a6b78; font-weight: 400; font-size: 1rem; }
 
 .conj-text {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
   font-size: 1.15rem;
-  line-height: 2.1;
   background: var(--blue-light);
   border-radius: 12px;
   padding: 16px;
   margin: 10px 0;
 }
+.conj-row {
+  padding: 6px 0;
+  border-bottom: 1px solid #d9ecf9;
+}
+.conj-row:last-child { border-bottom: none; }
 .conj-segment {
   padding: 2px 6px;
   border-radius: 6px;
