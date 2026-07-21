@@ -13,11 +13,24 @@ const ConjugationModule = (function () {
   const PRONOUN_LABELS = {
     je: 'je',
     tu: 'tu',
-    'il/elle': 'il elle',
+    // Commas after "il" and "ils" keep the pair visually/audibly separate,
+    // so they don't read as a liaison between "il" and "elle" (or "ils" and "elles").
+    'il/elle': 'il, elle',
     nous: 'nous',
     vous: 'vous',
-    'ils/elles': 'ils elles',
+    'ils/elles': 'ils, elles',
   };
+
+  // "je" elides to "j'" before a verb form starting with a vowel sound
+  // (a, e, i, o, u, y, or a mute h — e.g. "habiter" -> "j'habite").
+  const VOWEL_SOUND = /^[aeiouyàâäéèêëîïôöùûüœ]/i;
+
+  function formatPronounForm(pronoun, form) {
+    if (pronoun === 'je' && VOWEL_SOUND.test(form)) {
+      return "j'" + form;
+    }
+    return PRONOUN_LABELS[pronoun] + ' ' + form;
+  }
 
   async function init(rootEl) {
     container = rootEl;
@@ -73,7 +86,7 @@ const ConjugationModule = (function () {
   function renderLesson(index, tenseKey) {
     const v = allVerbs[index];
     const label = TENSES.find((t) => t.key === tenseKey).label;
-    const segments = PRONOUNS.map((p) => PRONOUN_LABELS[p] + ' ' + getForm(v, tenseKey, p));
+    const segments = PRONOUNS.map((p) => formatPronounForm(p, getForm(v, tenseKey, p)));
 
     const spansHTML = segments
       .map(
